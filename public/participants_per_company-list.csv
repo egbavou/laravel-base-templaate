@@ -1,0 +1,859 @@
+#,Entreprise,Nom,Prénom,Registre National,Adresse,Code Postal,Ville,Email,Phone,COVID,Term,Invité,Confirmé,Refusé,Présent
+2,VAILLANT (CHAURACI),Luc,Van Brabandt,73090733383,Rue de la Vignette,7034,Mons,luc.van-brabandt@vaillant.com,32475558522,,1,25/08/21 17:57,25/08/21 17:57,,03/09/21 05:41
+3,EDIBO SUD,Frédérick,Désier,770523-32555,Sent. de l'Église,6200,Châtelet,frederick.desier@edibosud.be,0476881086,,1,26/08/21 05:39,26/08/21 05:41,,03/09/21 05:30
+4,EDIBO SUD,Dirk,Paerewyck,72061022757,16 kievitlaan,1933,Sterrebeek,dirk.paerewyck@edibosud.be,0475610121,,1,26/08/21 05:43,26/08/21 06:00,,03/09/21 05:38
+5,CUISINES IMMO,Rémy,Lobet,1.45903E+12,Rue de l’arsenal,6230,Pont à celles,remy.lobet@delzelle.be,0498112402,,1,26/08/21 05:50,30/08/21 05:04,,03/09/21 05:48
+6,CUISINES IMMO,David,Bernard,71012832740,Rue du Charmoie,6250,Aiseau-Presles,davaleo3@hotmail.com,0476720264,,1,26/08/21 05:54,29/08/21 09:41,,
+7,CUISINES IMMO,Jérôme,Stranard,78031330987,Rue du Basson,6001,Charleroi,j.stranard@hotmail.com,0478760129,,1,26/08/21 05:55,26/08/21 05:57,,03/09/21 05:34
+8,SOTRAFEU,Rudy,De Decker,79070228307,Av. du Petit Sart,5100,Namur,rdd@sotrafeu.be,0496280160,,1,26/08/21 05:58,26/08/21 06:03,,03/09/21 12:21
+9,SOTRAFEU,Coralie,Vanlulle-De Decker,83071815629,Rue du Fort d'Andoy,5100,Namur,cv.sotrafeu@gmail.com,0477712394,,1,26/08/21 06:00,26/08/21 06:07,,
+10,SOTRAFEU,Jérémie,Marion,93.10.26-425.42,Rue de l'Union européenne,1348,Ottignies-Louvain-la-Neuve,jm@sotrafeu.be,32494397231,,1,26/08/21 06:01,26/08/21 08:05,,03/09/21 12:38
+11,SOTRAFEU,Justine,Marissiaux,87061611810,Rue de Jausse 237,5100,Wierde,secretariat@sotrafeu.be,0496685397,,1,26/08/21 06:01,26/08/21 07:58,,03/09/21 12:23
+12,JORDAN,Jean-Luc,STAVAUX,75.01.13-059.66,Rue Eglise Saint-Philippe,5600,Philippeville,jl.stavaux@groupejordan.be,32495826652,,1,26/08/21 06:09,26/08/21 06:11,,26/08/21 06:40
+13,JORDAN,Eric,GONZO,69110409550,Rue de Monstreux 21,1400,Nivelles,e.gonzo@groupejordan.be,0499883074,,1,26/08/21 06:14,26/08/21 08:07,,03/09/21 05:02
+14,JORDAN,Fabien,HINDLET,71.07.12-267.40,Rue du Dur,6061,Charleroi,f.hindlet@groupejordan.be,0476521543,,1,26/08/21 06:15,26/08/21 08:06,,03/09/21 11:23
+15,EDIBO SUD,Max,Vande Merghel,780113-153.35,4 rue de la Justice,1315,Incourt,max.vandemerghel@edibosud.be,0479479684,,1,26/08/21 06:16,26/08/21 06:17,,03/09/21 05:30
+16,JORDAN,Claudio,FORTI,67.06.08-349.84,Rue du Châtelet 149,6120,nalinnes,c.forti@groupejordan.be,0478202173,,1,26/08/21 06:17,27/08/21 06:06,,03/09/21 10:28
+17,JORDAN,Karl,VERARDO,74.09.06-157.19,"rue du Coq, 59",6142,LEERNES,k.verardo@groupejordan.be,0491393478,,1,26/08/21 06:18,26/08/21 12:31,,03/09/21 04:57
+18,JORDAN,Damien,LENNE,84122115197,Rue Ferdinand Buisson 26,59150,Wattrelos,d.lenne@groupejordan.be,0491610946,,1,26/08/21 06:18,26/08/21 08:51,,03/09/21 11:31
+19,EDIBO SUD,Olivier,Pattyn,730425-397.26,68 rue de Buvrinnes,7130,Binche,olivier.pattyn@edibosud.be,0470702840,,1,26/08/21 06:18,26/08/21 06:19,,03/09/21 05:29
+20,JORDAN,BALAUD,BALAUD,78041838463,RUE GRANDE 68,5600,ROMEDENNE,f.balaud@groupejordan.be,0495245872,,1,26/08/21 06:19,27/08/21 18:26,,03/09/21 13:50
+21,JORDAN,Héribert,EPPOH EWANE,860120-521-13,Av. du Champ du Caillau 45,7090,Braine-le-Comte,h.eppohewane@groupejordan.be,324999444,,1,26/08/21 06:20,26/08/21 06:28,,03/09/21 11:18
+22,JORDAN,François,ROUSSEAUX,78101028754,All. Faux Madame,6500,Beaumont,francoisrousseaux78@gmail.com,0495637503,,1,26/08/21 10:49,26/08/21 10:52,,03/09/21 05:38
+23,JORDAN,Mustafa,DAGLI,91031527939,Rue ry oursel 130b,6001,marcinelle,musti@chauffhome.be,0487366796,Vacciné,1,02/09/21 13:11,02/09/21 13:19,,03/09/21 08:21
+24,FACILE SOLUTION,Valerio,Burgarello,J igutit,Av. de Tchéquie,1420,Braine-l'Alleud,valerio@facilesolution.com,0032476014782,,1,26/08/21 06:28,26/08/21 06:29,,26/08/21 06:41
+25,SUPERSANIT S.A.,Olivier,Schill,76011204930,avenue des princes 28,1300,Wavre,osc@supersanit.be,0475858034,,1,26/08/21 06:35,26/08/21 06:36,,03/09/21 05:31
+26,SUPERSANIT S.A.,Luigi,Ternullo,65050114957,avenue des princes 28,1300,Wavre,lte@supersanit.be,0475960261,,1,26/08/21 06:38,30/08/21 15:31,,03/09/21 06:02
+27,Eternit NV,Daniel,Mommer,63011615516,Rue Bableuse,5340,Gesves,daniel.mommer@etexgroup.com,32476920105,,1,26/08/21 06:43,26/08/21 07:00,,03/09/21 06:08
+28,ARTES TWT,Renaud,Suinen,84110320789,Rue de la Station 72,1457,Tourinnes-saint-Lambert,renaud.suinen@artestwt.be,0472820282,,1,26/08/21 06:52,26/08/21 06:53,,03/09/21 10:30
+29,BM WILL,Arnaud,Lavigne,860321-22304,Rue Paradis 25,4217,Heron,al@bmwill.com,0470601615,,1,26/08/21 07:00,26/08/21 07:02,,03/09/21 05:30
+30,BM WILL,Frédéric,Lemmens,80080630587,Rue des sept Collines 35,4052,Beaufays,fredlem@cablem.be,0475221898,,1,26/08/21 07:00,26/08/21 07:08,,03/09/21 05:44
+31,BM WILL,Grégory,Forgione,87031514589,Rue solvay 147,6200,Bouffioulx,g.forgione@bmwill.com,0486565276,,1,26/08/21 07:01,26/08/21 07:03,,03/09/21 05:36
+32,PAUL MATHIEU,Alexandra,Godefroid,83091106850,Rue du Pressé,7134,Binche,Olivier.Joue@ghdc.be,32498817535,,1,26/08/21 07:17,27/08/21 09:10,,03/09/21 05:12
+33,PAUL MATHIEU,Madisson,Godefroid,96102448003,Rue du Pressé,7134,Binche,Olivier.Joue@ghdc.be,32498817535,,1,26/08/21 07:17,27/08/21 09:10,,03/09/21 13:01
+34,PAUL MATHIEU,Arnaud,Teuwen,96061917156,Rue du Pressé,7134,Binche,Olivier.Joue@ghdc.be,32498817535,,1,26/08/21 07:18,27/08/21 09:09,,
+35,PAUL MATHIEU,Olivier,Joue,76061909701,Rue du Pressé 22,,,Olivier.Joue@ghdc.be,32498817535,,1,26/08/21 07:18,27/08/21 09:09,,03/09/21 05:51
+36,PAUL MATHIEU,Stephan,Tedesco,83012213384,Rue Haut-Bâty,5060,Sambreville,Stephan.Tedesco@ghdc.be,071104816,,1,26/08/21 07:20,26/08/21 14:00,,03/09/21 07:52
+37,PAUL MATHIEU,Benoit,Gilson,69052815702,"rue samain, 13-B",7131,waudrez,benoit.gilson@ghdc.be,32471624183,,1,26/08/21 07:22,26/08/21 07:59,,03/09/21 05:54
+38,PAUL MATHIEU,Luigi,Manta,61031509974,"Rue des lilas, 12",6250,Aiseau Presles,luigi.manta@ghdc.be,0478553592,,1,26/08/21 07:22,26/08/21 08:46,,03/09/21 05:23
+39,PAUL MATHIEU,Rossano,Allegro,660613 045 23,"rue Champeau, 6",6061,Montignies-s-sambre,mathieu.paul@gmail.Com,0474629785,,1,26/08/21 07:23,26/08/21 07:28,,
+40,PAUL MATHIEU,Adrien,Branders,761119 223 07,"rue Champeau, 6",6061,Montignies-s-sambre,mathieu.paul@gmail.Com,32496268931,,1,26/08/21 07:23,26/08/21 07:27,,03/09/21 05:12
+41,CENTURY 21 LES LACS,DAMIEN,VYNCKIER,88022621591,"RUE DE LA CHAPELLE, 37",6280,GERPINNES,d.vynckier@century21leslacs.be,0497060266,,1,26/08/21 07:27,27/08/21 10:10,,03/09/21 05:17
+42,CENTURY 21 LES LACS,ADRIEN,CANTAMAGLIA,89.01.07-165.46,Rue de Lumsonry-2ème Avenue 240,5651,Walcourt,cantamagliaadrien@gmail.com,0474234942,,1,26/08/21 07:28,26/08/21 07:34,,03/09/21 05:21
+43,CENTURY 21 LES LACS,FIONA,BARTHELEMY,90092136486,"RUE DE LA CHAPELLE, 37",6280,GERPINNES,fiona.barthelemy@hotmail.be,0472561319,,1,26/08/21 07:30,26/08/21 07:41,,03/09/21 10:33
+45,FENTRA - Quadralux,Didier,Marique,69122207720,Rue Try des Marais-7ème Avenue 760,5651,Walcourt,dmarique@cezam.net,32494220399,,1,26/08/21 07:32,26/08/21 07:34,,03/09/21 05:46
+46,CENTURY 21 LES LACS,ELEF,LALOS,78042035136,Rue Tienne des Forges,6032,Charleroi,steinalexandra@yahoo.fr,0473375704,Test PCR,1,26/08/21 07:34,31/08/21 10:45,,03/09/21 05:16
+47,CENTURY 21 LES LACS,MORGAN,PROWER,95.02.15-207.91,Rte de Philippeville,6010,Couillet,morganprower@gmail.com,0476742801,Test PCR,1,26/08/21 07:35,30/08/21 11:11,,03/09/21 05:15
+48,FACQ,Gregory,Laviolette,90.12.23-219.95,Rue Émile vandervelde,7190,Marche lez Ecaussines,gregorylaviolette973@gmail.com,0499966976,,1,27/08/21 07:49,27/08/21 07:56,,03/09/21 05:32
+49,FACQ,Dutrieux,Damien,76092417189,Rue Odoumont 170,6210,Les bons villers,Greenwall@Hotmail.be,0476643234,,1,27/08/21 07:42,27/08/21 07:46,,03/09/21 05:48
+50,FENTRA - Quadralux,Jordane,Piraux,94.06.30-520.14,Rue des Anciens Combattants,4683,Oupeye,info@fentra.be,3.52662E+11,,1,26/08/21 07:46,26/08/21 09:00,,03/09/21 06:14
+51,FENTRA - Quadralux,Nicolas,Poncelet,81121511754,Rue des Ronchis 30,6850,Paliseul,nponcelet@fentra.be,33494876604,,1,26/08/21 07:47,26/08/21 07:49,,03/09/21 05:46
+52,FACQ,Thomas,Decrolier,78101631936,Rue Du Berger 21,1428,Lillois,thomasdecrolier@yahoo.fr,0476496615,,1,27/08/21 07:43,27/08/21 08:37,,03/09/21 06:50
+53,PAUL MATHIEU,Dylan,De Wolf,99122844307,Rue du Pressé,7134,Binche,Olivier.Joue@ghdc.be,32498817535,,1,26/08/21 07:52,27/08/21 09:08,,03/09/21 13:01
+54,SUPERSANIT S.A.,Steve,Debacq,77030626331,avenue des princes 28,1300,wavre,sdb@supersanit.be,0475842829,,1,26/08/21 07:53,26/08/21 08:45,,03/09/21 05:31
+55,SUPERSANIT S.A.,Jean-François,Chezzi,75100510928,avenue des princes 28,1300,wavre,jch@supersanit.be,0470352789,,1,26/08/21 07:55,26/08/21 08:58,,03/09/21 05:34
+56,SUPERSANIT S.A.,Jean-François,Von Paschutka Lipinski,64071847389,avenue des princes 28,1300,wavre,jfv@supersanit.be,0494888947,,1,26/08/21 07:56,26/08/21 08:05,,03/09/21 05:39
+57,SUPERSANIT S.A.,Francis,Deboule,56092103589,avenue des princes 28,1300,wavre,fde@supersanit.be,0472672171,Vacciné,1,26/08/21 07:57,31/08/21 14:35,,03/09/21 05:54
+58,SUPERSANIT S.A.,Steeve,Descamps,92121715788,avenue des princes 28,1300,wavre,sde@supersanit.be,0497228605,,1,26/08/21 08:02,30/08/21 08:44,,03/09/21 06:30
+59,GOBERT MATERIAUX,Nathalie,Coutereel,68012519406,Rue de la Belle Journée 6,6043,Ransart,n.coutereel@gobertgroupe.com,0495581432,,1,26/08/21 08:23,26/08/21 08:37,,03/09/21 04:57
+61,FACQ,Mathieu,Gayer,92040736329,Av. des Mouettes,1640,Rhode-Saint-Genèse,gayer.mathieu@gmail.com,0472295089,,1,27/08/21 07:43,27/08/21 07:46,,03/09/21 06:50
+62,BCI TECHNICS (BALTEAU),Patrick,Decoeur,62102118572,Rue Campagne,4631,Soumagne,p.decoeur@bcitechnics.be,32495595462,,1,26/08/21 08:35,26/08/21 08:35,,
+63,BCI TECHNICS (BALTEAU),Salvaltore,Cuozzo,68022907512,Rue Charles Dupret,6000,Charleroi,s.cuozzo@bcitechnics.be,32493296602,,1,26/08/21 08:47,26/08/21 08:49,,
+64,GOBERT MATERIAUX,Robert,Ganhy,69.06.28.097.69,Rue de la Montagne,6110,Montigny-le-Tilleul,r.ganhy@gobertgroupe.com,0475433646,,1,26/08/21 08:39,26/08/21 08:43,,03/09/21 10:01
+65,GOBERT MATERIAUX,Steve,Petrucci,75.01.19-201.35,Rue du Coq,6150,Anderlues,s.petrucci@gobertgroupe.com,0488635605,,1,26/08/21 08:39,26/08/21 08:45,,03/09/21 04:57
+66,GOBERT MATERIAUX,François,Roosens,89111535178,Rue Camille Bouyère,7070,Le Rœulx,toiture.roosens@gmail.com,0472327204,Vacciné,1,26/08/21 08:40,30/08/21 11:40,,03/09/21 06:11
+67,GOBERT MATERIAUX,Sandro,Fria,86011521313,Rue Saint-Valentin,6061,Charleroi,fria.concept@hotmail.com,0497294503,,1,26/08/21 08:42,26/08/21 14:16,,03/09/21 05:35
+68,GOBERT MATERIAUX,Sébastien,Wery,88.05.11-487.96,Rue du Centenaire,6032,Charleroi,W.SConstruction@hotmail.com,0471806064,Test PCR,1,26/08/21 08:43,30/08/21 19:21,,03/09/21 05:42
+69,LOVEMAT,Arnaud,Del Monaco,86080213320,rue du Téris 42,4100,SERAING,ad@lovemat.be,33043303433,,1,26/08/21 08:45,26/08/21 08:47,,03/09/21 06:07
+70,BEMAT,Vincent,Van Dessel,81.06.22-083.30,Rue du Planois 103,5640,Mettet,vvandessel@inbw.be,32499058468,Vacciné,1,26/08/21 08:49,31/08/21 13:41,,03/09/21 09:25
+71,BEMAT,Jérémy,Lisarde,85.05.17-149.94,Rue des Hayettes,6060,Charleroi,domicile.cars.services@gmail.com,32476741673,,1,26/08/21 08:50,26/08/21 12:31,,03/09/21 05:57
+72,BEMAT,Fabrice,Dulieu,77051614359,Taienne 45,6250,Presles,fabrice.dulieu@igretec.com,0496567890,Vacciné,1,01/09/21 08:56,01/09/21 16:30,,03/09/21 07:05
+73,BEMAT,Isabelle,Molin,78071921232,Rue de la colonoise 26A,5640,Biesme,i.molin@swl.be,32478782733,,1,26/08/21 08:52,31/08/21 13:49,,03/09/21 10:09
+74,BEMAT,Jean-Luc,Lisarde,57.09.20-151.24,Rue des Français 113,6250,Roselies,lisardejeanluc@gmail.com,324975220,,1,26/08/21 08:53,26/08/21 10:14,,03/09/21 06:55
+75,BEMAT,Jean-Sébastien,Pirnay,,,,,,32495291842,,,01/09/21 08:56,,,
+76,BEMAT,Olivier,Duvivier,631230-11306,Rue de Namur,6200,Châtelet,maryline4059@hotmail.com,32495380139,Test PCR,1,01/09/21 08:56,01/09/21 14:24,,03/09/21 08:47
+77,BEMAT,Alain,Bronckart,64.06.21/203.68,Rue du Mitan,6211,Les Bons Villers,a.bronckart@archi-vision.be,32475801324,,1,26/08/21 08:57,27/08/21 07:18,,03/09/21 10:03
+78,BEMAT,Tiziana,Ricotta,97.07.06-400.43,Rue De La Croix 262,6200,Chatelineau,t.ricotta@archi-vision.be,0494939388,,1,26/08/21 08:58,26/08/21 09:08,,03/09/21 10:03
+79,BEMAT,Olivier,Varlet,74122307795,rue saint pierre 25,5650,walcourt,ovarlet@bemat.be,0496491990,Test PCR,1,02/09/21 15:22,02/09/21 15:39,,
+80,BEMAT,Valentin,Manicardi,93101834769,Chaussée de Bruxelles,6040,Jumet,compta@bemat.be,0497106711,,1,26/08/21 09:05,26/08/21 09:57,,03/09/21 11:16
+81,BEMAT,Sylvie,Masquelier,74061104260,rue perdue 10,6044,roux,smasquelier@bemat.be,0474897030,,1,26/08/21 09:05,26/08/21 09:42,,03/09/21 10:58
+82,BEMAT,Chantal,Van Dijck,72012602238,Rue des Gaux,6540,Lobbes,cvandijck@bemat.be,0496399042,Vacciné,1,26/08/21 09:06,31/08/21 08:54,,03/09/21 10:58
+83,BEMAT,Loris,Marrone,82122912139,Bld de la Plagne 44,6110,Montigny-le-Tilleul,lmarrone@bemat.be,0474111342,Test PCR,1,02/09/21 15:24,02/09/21 15:28,,03/09/21 05:44
+84,BEMAT,Christophe,Fontaine,800204 211 05,Rue du Petit Marbais,1495,Villers-la-Ville,cfontaine@bemat.be,0497576077,Vacciné,1,26/08/21 09:08,31/08/21 10:35,,03/09/21 11:04
+85,BEMAT,Nicolas,Delannoy,79.05.06-273.77,"Clos du Bois Catherine, 8",1490,Court-Saint-Etienne,ndelannoy@bemat.be,32485557299,,1,26/08/21 09:09,26/08/21 09:18,,03/09/21 05:11
+86,BEMAT,Nicolas,SPEZI,86.12.02-237.41,"Rue du Rond Point, 243",6060,gilly,nspezi@bemat.be,0485557204,,1,26/08/21 09:09,26/08/21 09:33,,03/09/21 05:35
+87,BEMAT,OUDDAHOUM,Ija,82070421281,"Rue du Rond-Point, 243",6060,Gilly,soumission@bemat.be,071489069,,1,26/08/21 09:10,26/08/21 13:13,,03/09/21 10:58
+88,BEMAT,Bernard,Fayt,710812-01508,Rue Mahy-Faux,7133,Binche,bfayt@bemat.be,0485557292,,1,26/08/21 09:11,27/08/21 05:58,,03/09/21 04:57
+89,BEMAT,Gianni,Spada,76082531109,7 Rue du Calvaire,7321,Bernissart,gspada@bemat.be,32471998522,,1,26/08/21 09:12,26/08/21 09:15,,
+90,BEMAT,Camille,Tubello,94.01.21-266.18,Rue de Landelies 56,6110,Montigny-le-Tilleul,camille.tubello@gmail.com,32474372311,,1,26/08/21 09:12,26/08/21 09:44,,03/09/21 10:03
+91,BEMAT,Antonio,Bruno,93.12.13-163.29,Rue Pierre Hans,6040,Jumet,abruno@bemat.be,0479227023,,1,26/08/21 09:12,26/08/21 11:06,,03/09/21 11:16
+92,BEMAT,Krizia,Moro,89011925680,Anderlues,6150,Anderlues,kmoro@bemat.be,071285996,,1,26/08/21 09:13,26/08/21 09:16,,03/09/21 10:58
+93,BEMAT,Pierre,Van Laere,63.02.01 099-44,Rue de l'Amérique 2b,6010,Charleroi,pierre.twin@gmail.com,324975166,,1,26/08/21 09:13,26/08/21 10:46,,03/09/21 09:47
+94,BEMAT,Marc,Vandenbroucke,,,,,mvandenbroecke@bemat.be,,,,26/08/21 09:13,,,
+95,BEMAT,Emmanuel,Orhant,84.10.08-469.58,Rue Jean Doye,6530,Thuin,eorhant@bemat.be,0499693964,,1,26/08/21 09:14,30/08/21 09:31,,03/09/21 11:16
+96,BEMAT,Marc,Fournier,64.06.23-157-54,Rue Léon Roger,7070,Le Rœulx,mfournier@inbw.be,32495912447,,1,26/08/21 09:14,26/08/21 16:25,,03/09/21 09:45
+97,BEMAT,Didier,BALERIAUX,63.12.18-089.02,Rue Pétrias,6120,Ham-sur-Heure-Nalinnes,dbaleriaux@bemat.be,32485557282,,1,26/08/21 09:15,26/08/21 10:27,,03/09/21 04:38
+99,BEMAT,Virginie,Bertrand,80.09.01-250.08,"Rue du Rond-Point, 243",6060,GILLY,secretariat@bemat.be,071489069,,1,26/08/21 09:17,26/08/21 09:21,,03/09/21 10:58
+100,LOVEMAT,OLIVIER,STEKKE,74101505354,Rue du Téris,4100,Seraing,os@lovemat.be,04792153,,1,26/08/21 09:29,26/08/21 09:30,,03/09/21 06:24
+101,Eternit NV,Mathieu,Furlanetto,88032815105,Avenue de la Motte Baraffe 58b,7180,Seneffe,mathieu@coba-sprl.be,32471446934,,1,26/08/21 10:00,26/08/21 12:04,,03/09/21 06:02
+102,BEMAT,Tanzilli,Antoine,80081127960,"rue de l'Athénée, 12",6000,Charleroi,antoine_tanzilli@hotmail.com,0495910133,,1,26/08/21 10:55,26/08/21 11:08,,
+103,BEMAT,MATHIEU,LOMBARD,79.11.06-201.94,rue de Montigny 4/21,6000,CHARLEROI,mathieu.lombard@capsule-architecture.be,0495408254,,1,26/08/21 10:56,26/08/21 11:04,,03/09/21 07:21
+104,BEMAT,Bénédicte,HUART,68061913190,Rue des Closières,6001,MARCINELLE,youri.fragneau@gmail.com,32475439779,,1,26/08/21 11:00,26/08/21 11:39,,03/09/21 05:32
+105,BEMAT,Sébastien,LEBRUN,80101029390,rue de montigny 4 bt21,6000,CHARLEROI,sebastien.lebrun@capsule-architecture.be,32495508798,,1,26/08/21 11:01,28/08/21 05:55,,03/09/21 07:21
+106,BEMAT,BENOIT,VAN DAMME,85.04.13-145.17,Rue de la Plagne,6110,Montigny-le-Tilleul,benoit.vandamme@igretec.com,0492151375,,1,26/08/21 11:03,27/08/21 19:26,,03/09/21 06:11
+107,EUROTAX,Gregory,BOMBLET,78122313722,rue general Galet 16/2,6441,Erpion,bomblet@euro-tax.be,0495908870,,1,26/08/21 11:15,26/08/21 11:20,,03/09/21 05:04
+108,EUROTAX,Amaury,JADIN,86081015747,Silenrieux,5630,Cerfontaine,a.jadin@hotmail.com,0499740266,,1,26/08/21 11:18,29/08/21 06:41,,03/09/21 05:21
+109,EUROTAX,Bernard,LOURTIE,680801-181.12,Rue de Virelles,6460,Chimay,bernard.lourtie@lcts.be,0475619986,,1,26/08/21 11:18,27/08/21 08:35,,03/09/21 05:04
+110,EUROTAX,Sebastien,HAUTMONT,76.08.29-235.62,allée des chenes 167g,5600,roly,sebhaumont@gmail.com,0475680667,,1,26/08/21 11:19,26/08/21 18:29,,03/09/21 05:04
+111,BEMAT,QUENTIN,FALQUE,86.08.03-153.67,Rue de la Crête 10,5000,Namur,Quentin.FALQUEQ@igretec.com,0491719171,,1,26/08/21 11:21,26/08/21 11:34,,03/09/21 12:09
+112,BEMAT,Jérémy,Hitelet,86.03.29-097.84,"Rue de Namur, 486",6200,Châtelet,jeremy.hitelet@outlook.be,0487562638,Vacciné,1,26/08/21 11:22,30/08/21 12:52,,03/09/21 06:59
+113,EDIBO SUD,Jérôme,Patigny,880102-153.90,142 Route de perwez,5310,Aische en Refail,jerome.patigny@edibosud.be,0488993513,,1,26/08/21 11:30,26/08/21 13:02,,03/09/21 05:30
+114,BEMAT,Arnaud,Vendramin,84101610783,rue de l'Yser 3a,6536,Thuillies,archi.vendramin.arnaud@gmail.com,32485883138,,1,26/08/21 11:30,26/08/21 12:12,,03/09/21 05:48
+115,EDIBO SUD,Cyril,Sollas,92.04.29-155.62,129A rue Emile Matelart,5190,Saint Martin,cyril.sollas@edibosud.be,0497644856,,1,26/08/21 11:31,26/08/21 11:34,,03/09/21 05:30
+116,EDIBO SUD,Emanuela,De Decker,900802-402.29,17 rue Crochat,5537,Bioul,emanuela.dedecker@edibosud.be,0499920477,,1,26/08/21 11:32,27/08/21 14:57,,03/09/21 05:30
+117,BEMAT,SOPHIE,BELLON,780919-04420,Bd Pierre Mayence,6000,Charleroi,sophie.bellon@igretec.com,32494535520,,1,26/08/21 11:50,30/08/21 07:05,,03/09/21 11:03
+118,COLAS Belgium Agence Sud Ouest,Philippe,SOBRY,630419_429.61,Rue Mahy,6590,Momignies,philippe.sobry@momignies.be,32495439308,,1,26/08/21 13:27,26/08/21 18:10,,03/09/21 05:37
+119,COLAS Belgium Agence Sud Ouest,Bloquiau,Luc,64.02.13-147.45,Champ Bouval 3,5600,Villers le Gambon,luc.bloquiau@inasep.be,32476750229,,1,26/08/21 13:28,26/08/21 16:16,,03/09/21 05:28
+120,CR�ER RENOVER CONSTRUIRE,Bertrand,Jacqmin,82.08.13.183-41,Rue des Pommiers,6460,Chimay,b.jacqmin@crc-sa.be,32497595469,,1,26/08/21 13:29,26/08/21 13:29,,03/09/21 05:54
+121,COLAS Belgium Agence Sud Ouest,Dominique,Freteur,66.05.09-137-44,"Rue du quartier, 4A",5640,Mettet,dominique.freteur@inasep.be,32478806394,,1,26/08/21 13:29,26/08/21 13:37,,03/09/21 05:11
+122,COLAS Belgium Agence Sud Ouest,François,Decolnet,66122906352,3 bout de la haut,6596,Seloignes,francois.decolnet@colas.be,32478789812,,1,26/08/21 13:29,26/08/21 13:32,,03/09/21 05:38
+123,COLAS Belgium Agence Sud Ouest,stephane,Lechat,66.08.14-111.38,Rue Gabriel Sellière,6463,Lompret,lechat@belleflamme.com,324754599,,1,26/08/21 13:33,26/08/21 13:38,,03/09/21 05:25
+124,COLAS Belgium Agence Sud Ouest,Bryan,Croes,91021326311,Rue les Communes,4540,Amay,bryan.croes@colas.be,32496817934,Vacciné,1,31/08/21 07:57,31/08/21 12:37,,
+125,COLAS Belgium Agence Sud Ouest,Jean-Pierre,Ernotte,67121513731,Rue de la brulee 7,6533,Biercee,ernottejp@gmail.com,32495559183,,1,26/08/21 13:35,26/08/21 14:03,,03/09/21 06:43
+126,FRIA CONCEPT,NICOLAS,IACOBUCCI,85092307318,Sent. de la Bourse,6061,Charleroi,info@friaconcept.be,0487414757,,1,26/08/21 14:04,26/08/21 14:07,,03/09/21 05:35
+127,FRIA CONCEPT,GREGORY,DESMET,80101116393,Rue Paul Pastur,6043,Charleroi,sng.concept@hotmail.com,0497107734,,1,26/08/21 14:04,26/08/21 14:09,,03/09/21 05:35
+128,FRIA CONCEPT,FRANCOIS,DE WILDE,85122511930,Rue Sainte-Face,5651,Walcourt,francois.dewilde@bnpparibasfortis.com,0471077988,Vacciné,1,26/08/21 14:06,31/08/21 13:11,,03/09/21 05:42
+129,SOPREMA,sprl,david,77.02.20-197.58,"Av. Reine Astrid,20",5000,Namur,benoit@davidzinc.be,026536816,,1,26/08/21 14:58,26/08/21 15:03,,03/09/21 04:46
+130,SOPREMA,Marc,Orban,59040400773,Rue Obecq 18a,1410,Waterloo,marc.orban@hotmail.be,32475819469,,1,26/08/21 14:59,26/08/21 15:16,,03/09/21 04:47
+131,SOPREMA,Patrick,Vanderstichelen,65081045584,Heiligekruiswegstraat,1703,Dilbeek,pva@tectumdekkers.com,0474993572,,1,26/08/21 15:01,26/08/21 15:03,,03/09/21 05:25
+132,SOPREMA,André,Tuttobene,87081423366,6/8 Rue des pieds d'alouettes,5100,Naninne,atuttobene@comarden.be,0470250133,,1,26/08/21 15:03,30/08/21 08:22,,03/09/21 05:33
+133,SOPREMA,Hugo,Marcin,00011730396,6/8 Rue des pieds d'alouettes,5100,Naninne,atuttobene@comarden.be,0470250133,,1,26/08/21 15:03,30/08/21 08:20,,03/09/21 05:33
+134,SOPREMA,Lucien,Maclet,89082426567,6/8 Rue des pieds d'alouettes,5100,Naninne,atuttobene@comarden.be,0470250133,,1,26/08/21 15:04,30/08/21 08:19,,03/09/21 05:33
+135,SOPREMA,Steve,Byl,,,,,,0476669016,,,01/09/21 08:56,,,
+136,SOPREMA,Bertrand,Barbier,86121409715,Chemin Lambiert 54,7120,Estinnes Au Mont,bbr@toitmat.be,0477561628,,1,26/08/21 15:06,30/08/21 09:17,,03/09/21 05:36
+137,FULL SERVICES,Thomas,Fadel,87060720103,Avenue DELI XL,6530,Thuin,thomas.fadel@full-services.be,32485424757,Vacciné,1,26/08/21 15:10,30/08/21 10:47,,03/09/21 05:14
+138,DSC ALARM SECURITY,Emmanuel,YANNIKOS,640605387,rue de lambusart 68,6240,Farciennes,e.yannikos@dsc-security.be,0475394816,,1,26/08/21 16:15,26/08/21 16:33,,03/09/21 05:30
+139,DSC ALARM SECURITY,Eric,WATHELET,250505,rue de lambusart 68,6240,Farciennes,e.yannikos@dsc-security.be,04856121,Vacciné,1,01/09/21 08:56,01/09/21 08:57,,03/09/21 06:00
+140,DSC ALARM SECURITY,David,DEBODT,77082811539,"Rue du Noir Chien,29",6120,Nalinnes,technic@dsc-security.be,0471124764,Vacciné,1,02/09/21 10:06,02/09/21 10:09,,03/09/21 05:34
+141,DSC ALARM SECURITY,Claudio,Manca,78072408311,"Rue des Chênes, 25",7333,Tertre,c.manca@dsc-security.be,32475230999,Vacciné,1,26/08/21 16:24,01/09/21 09:18,,03/09/21 05:55
+143,BEMAT,Frédéric,Alsteen,74121304539,Rue de Belle Vau,7134,Binche,f.alsteen@bepirnay.be,0494529069,Vacciné,1,27/08/21 06:06,31/08/21 05:58,,03/09/21 07:06
+144,BEMAT,Etienne,Gouverneur,761130-23355,"rue cocriamont, 12",5070,Leroux,etienne.gouverneur@forem.be,32479352346,,1,27/08/21 06:07,27/08/21 06:37,,03/09/21 07:45
+145,BEMAT,Grégory,Marcq,77040635939,Rue de la Poudrerie,7170,Manage,gregory.marcq@forem.be,0474292058,,1,27/08/21 06:08,27/08/21 06:44,,03/09/21 06:06
+146,BEMAT,Adrian,Dame,87052143521,Rue Verte Vallée,7387,Honnelles,adrian.dame@gmail.com,32498564686,,1,27/08/21 06:09,27/08/21 07:01,,03/09/21 05:56
+147,BEMAT,Alexis,Scailquin,91070528174,Rue de la Halle 24- b23,7000,Mons,as@bureaumedici.be,0494380436,,1,27/08/21 06:11,27/08/21 09:21,,03/09/21 05:55
+148,BEMAT,boris,mabille,73.10.10-111.28,Rue Martia 23,5651,Berzee,boris.mabille@gmail.com,0490644828,,1,27/08/21 06:12,27/08/21 06:17,,03/09/21 05:48
+149,BEMAT,Phillippe,Selvais,71092042148,Rue de Bonne Fortune 26,7801,Ath,philippe.selvais@buildingsagency.be,0484405971,,1,27/08/21 06:13,27/08/21 06:54,,03/09/21 06:37
+150,BEMAT,Serge,spitals,71.12.15-023.35,Rue Royale 3–13,7904,Leuze-en-Hainaut,serge.spitals@buildingsagency.be,0496613379,,1,27/08/21 06:16,27/08/21 06:18,,03/09/21 06:37
+151,BEMAT,Stéphanie,Ameels,75.03.29-072.72,Rue victor cuvelier 14,7190,ECAUSSINNES-D'ENGHIEN,stephanie.ameels@igretec.com,0494539611,,1,27/08/21 06:17,27/08/21 09:01,,03/09/21 12:52
+152,BEMAT,Larissa,Milquet,87031327816,Rue Roosevelt,6238,Pont-à-Celles,larissa.milquet@igretec.com,0493194269,,1,27/08/21 06:19,01/09/21 08:16,,03/09/21 12:32
+153,BEMAT,michael,lerminieau,83021217360,Rue du Parc,6000,Charleroi,m.lerminieau@poly-tech.be,0494115237,Vacciné,1,27/08/21 06:25,02/09/21 05:58,,
+154,BEMAT,DRUGMAND,Philippe,51.09.24-125.95,Rue de MAHY-FAUX,7133,BUVRINNES,info@triedre.be,0475779476,,1,27/08/21 06:27,27/08/21 07:09,,03/09/21 09:35
+155,BEMAT,Yves-Benoit,drugmand,80091504980,Rue de Marbaix 59,6120,Ham-sur-Heure-Nalinnes,yb.drugmand@triedre.be,0494887585,,1,27/08/21 06:28,27/08/21 06:30,,03/09/21 10:58
+156,BEMAT,Eric,STASSEN,59.06.13-067.48,avenue G Lemaitre 57,6041,Gosselies,ers@piron-ec.be,0476445549,,1,27/08/21 06:29,27/08/21 07:18,,03/09/21 11:05
+157,BEMAT,Véronique,ANDRE,73031924753,rue Gontran Bachy,7032,Spiennes,vea@piron-ec.be,32478951840,,1,27/08/21 06:30,27/08/21 07:18,,03/09/21 10:33
+158,BEMAT,Philippe,Medici,68050712957,Hornu,7301,Boussu,info@bureaumedici.be,0476320205,Vacciné,1,27/08/21 06:33,01/09/21 14:20,,03/09/21 10:47
+159,BEMAT,Dominique,Thiry,68.02.17-113.43,Rue des Carrières 41,6120,Cour sur Heure,responsabletechnique@foyerhautesambre.be,0474978994,,1,27/08/21 06:40,27/08/21 06:46,,03/09/21 10:47
+160,BEMAT,Adrien,Lorge,87100931947,Dom. des Hauts Trieux 50A,6530,Thuin,direction@foyerhautesambre.be,0479665742,,1,27/08/21 06:41,27/08/21 10:11,,03/09/21 10:48
+161,LOVEMAT,benoit,Felgenhauer,72.02.23-093.64,Rue Faftu,4550,Nandrin,bf@lovemat.be,32473579128,,1,27/08/21 06:52,27/08/21 06:53,,03/09/21 06:07
+162,SYSTEMAIR,Michael,Frisch,74011600707,RUE DES GRANDS TRIEUX 18c,7120,Estinnes-au-Mont,michaelfrisch7@gmail.com,32478383777,,1,27/08/21 06:52,27/08/21 06:57,,03/09/21 05:41
+163,BEMAT,Bernard,Charlier,65082904521,Rue Gontrand Bachy 39,7032,Spiennes,bernard.charlier@saga-piret.be,0477490822,,1,27/08/21 06:57,27/08/21 07:05,,03/09/21 10:33
+164,SYSTEMAIR,benoit,lismonde,65100629983,de la chaudonnerie0493,4340,Awans,Bli@energys-belux.eu,0483378262,,1,27/08/21 06:58,27/08/21 12:27,,
+166,SYSTEMAIR,Vincent,Nuyts,80091216356,Chemain du Bon  air,1380,Lasne,vincent.nuyts@systemair.be,32477361043,,1,27/08/21 07:00,27/08/21 11:15,,03/09/21 05:48
+167,KOECKELBERG,Norbert,Koeckelberg,70092136553,"Rue Noël Sart-Culpart, 44",6060,GILLY,nko@koeckelberg.be,04961550,,1,27/08/21 07:00,27/08/21 18:41,,03/09/21 06:27
+168,KOECKELBERG,Thomas,Vandermiege,90061915147,Av. Henri Pauwels,1200,Woluwe-Saint-Lambert,tva@koeckelberg.be,0498882724,,1,31/08/21 08:30,31/08/21 08:33,,03/09/21 07:11
+169,KOECKELBERG,Adrien,Moers,82.03.28-093.34,"Tienne de la petite Bilande, 56",1300,Wavre,amo@koeckelberg.be,0478791379,Vacciné,1,02/09/21 09:37,02/09/21 09:38,,03/09/21 08:37
+170,KOECKELBERG,Benoit,Stas,87.08.13-387.39,Av. du Clos du Sadin,1420,Braine-l'Alleud,benoit.stas@koeckelberg.be,0479653802,,1,27/08/21 07:03,27/08/21 07:13,,03/09/21 07:11
+171,KOECKELBERG,benjamin,rahier,83012127965,rue alfred haulotte,1342,1342 - Limelette,benjamin@entreprisesrahier.be,32478669640,,1,30/08/21 07:26,30/08/21 07:53,,03/09/21 07:39
+172,KOECKELBERG,Geoffrey,Vermeulen,79012928328,"Rue du Grand Jour, 41",7050,Jurbise,geo@koeckelberg.be,0499942758,,1,27/08/21 07:04,27/08/21 07:06,,03/09/21 06:33
+173,BEMAT,Alfonso,ZAMMUTO,720515 011 19,"RUE TRIEU KAISIN, 70",6061,Montignies-Sur-Sambre,a.zammuto@lasambrienne.be,0495252074,Vacciné,1,27/08/21 07:06,30/08/21 09:41,,
+174,BEMAT,Morgan,Duquene,6.89111E+11,"Rue buisseret, 30 b",7061,Casteau (SOIGNIES),morgan.duquene@igretec.com,0494539638,,1,27/08/21 07:06,27/08/21 07:28,,03/09/21 11:13
+175,BEMAT,Pascal,Lheureux,65.05.13-409.19,Rue de la Petite Cavée,7041,Givry,pascal.lheureux@tibi.be,0471667997,Vacciné,1,27/08/21 07:07,31/08/21 13:15,,03/09/21 11:32
+176,BEMAT,Redouane,Mekaoui,65.08.14-543.70,Bd Pierre Mayence,6000,Charleroi,redouane.mekaoui@igretec.com,O494539658,,1,27/08/21 07:08,27/08/21 10:34,,03/09/21 10:34
+178,FACQ,Quentin,Dewilde,83081815339,Rue Marius Dufrasne,5030,Gembloux,quentin.dewilde@facq.be,04917143,,1,27/08/21 07:15,27/08/21 07:26,,03/09/21 05:21
+179,BEMAT,Fabrice,Jacqmin,791025-09687,Allée des Saules 4,,,f.jacqmin@lasambrienne.be,324868317,,1,27/08/21 07:54,27/08/21 08:59,,
+180,BEMAT,Marc,Dupuis,66012022979,"Basse chaussée, 46",4280,Hannut,mdupuis@bemat.be,0485557234,Vacciné,1,27/08/21 07:57,30/08/21 10:23,,03/09/21 10:31
+181,AXA BELGIUM,Sabrina,Mawet,87042916841,Xhoris,4190,Xhoris,sabrina.mawet@axa.be,0495613736,,1,27/08/21 08:14,27/08/21 08:18,,03/09/21 05:12
+182,AXA BELGIUM,Pierre,Schraepen,64032318109,Rue Rondfontaine,4870,Trooz,pierre.schraepen@axa.be,0495530319,,1,27/08/21 08:15,27/08/21 13:25,,03/09/21 05:47
+183,AXA BELGIUM,Frédéric,Griffet,82112224917,Rue de la Teinturerie 14,1320,Beauvechain,frederic.griffet@axa.be,0475955839,,1,27/08/21 08:16,27/08/21 09:02,,03/09/21 05:12
+184,AXA BELGIUM,Jonathan,Georges,82071733157,Rue Emile Romedenne,5150,Floreffe,jonathan.georges@legalvillage.be,0491991499,,1,27/08/21 08:16,27/08/21 08:23,,03/09/21 05:11
+185,SL+ ARCHITECTES,DAVIDE,BENINI,73.02.16-603.76,Rue du Fort 31,6000,Charleroi,boccben@yahoo.it,0472064249,,1,27/08/21 08:19,27/08/21 08:22,,03/09/21 05:24
+186,SL+ ARCHITECTES,LUCA,GESU,83.07.21-443.40,"19, Rue Des Communes",6181,Gouy lez pieton,luca.gesu@hotmail.be,0471702992,Vacciné,1,27/08/21 08:19,30/08/21 14:30,,03/09/21 05:31
+187,SL+ ARCHITECTES,Jérémy,Bosquillon,92010721757,Avenue Jules Destrée 52,6031,Monceau-sur-Sambre,jeremy.bosquillon010792@gmail.com,32498407621,,1,27/08/21 08:22,27/08/21 08:25,,03/09/21 05:13
+188,SL+ ARCHITECTES,Charly,Denamur,94.04.27-261.58,"Rue David 1, 1/2",7181,Feluy,denamur.charly@gmail.com,0471549882,Vacciné,1,27/08/21 08:23,30/08/21 14:21,,03/09/21 05:13
+189,SL+ ARCHITECTES,AMAURY,DE MATTIA,85112309906,Rue Ernest Simonet 46-301,1480,Tubize,amaury.de.mattia@gmail.com,0496857106,,1,27/08/21 08:23,28/08/21 07:20,,03/09/21 05:13
+190,BELCOGEST ASSURANCES,Benoit,Delforge,69101829505,Rue des Bouleaux 36,6110,Montigny-le-Tilleul,benoit.delforge@belcogest.be,0478206986,,1,27/08/21 08:24,27/08/21 08:24,,03/09/21 05:28
+191,BELCOGEST ASSURANCES,Bao,Hoang,76102403340,Rue St Ethon,7181,Seneffe,hoangbao46@gmail.com,04869452,,1,27/08/21 08:28,29/08/21 21:25,,03/09/21 05:52
+192,META SYSTEM,Dorian,Pugenger,94102429955,rue de la Guinguette,7131,WAUDREZ,dorian@meta-system.be,0470377240,,1,27/08/21 08:32,27/08/21 09:04,,03/09/21 04:57
+193,BELCOGEST ASSURANCES,Hervé,Charlier,73051607147,Rte de Marchovelette 1C,5310,Waret-l-chauss.,hervecharlier@hotmail.com,0476420304,,1,27/08/21 08:33,27/08/21 20:38,,03/09/21 06:46
+194,META SYSTEM,Benoit,Defer,73052325145,Chaussée de Wavre 88a,5030,Gembloux,benoit@meta-system.be,0496164894,,1,27/08/21 08:34,27/08/21 09:07,,03/09/21 05:00
+195,META SYSTEM,Arnaud,Briot,96122715370,Rue Nanon,5002,Namur,arnaud@meta-system.be,0499823042,,1,27/08/21 08:34,27/08/21 09:03,,03/09/21 05:00
+196,META SYSTEM,Yves,Herman,76061320573,Rue Léopold II,6210,Les Bons Villers,compta@meta-system.be,0479944089,,1,27/08/21 08:35,27/08/21 08:37,,03/09/21 05:23
+197,META SYSTEM,Maxime,Henry,86.09.29-063.63,Rue notre dame 11,4500,Huy,maxime@meta-system.be,0476764811,,1,27/08/21 08:37,27/08/21 08:52,,03/09/21 04:50
+198,BELCOGEST ASSURANCES,Sébastien,Philippe,780720389,rue de la victoire 154,6536,Thuillies,vitrerie.philippe@hotmail.com,0477863743,Vacciné,1,02/09/21 14:46,02/09/21 23:42,,03/09/21 05:42
+199,BELCOGEST ASSURANCES,Paul,Cavillot,94032919161,Rue Saint-christophe 23,6140,Fontaine-l'eveque,cavillot-paul@outlook.fr,0477075593,,,02/09/21 14:46,,03/09/21 05:38,
+200,META SYSTEM,JF,Squiflet,81020729150,Rue de la Barre,1457,Walhain,jf@meta-system.be,0496164897,,1,27/08/21 08:44,27/08/21 08:46,,03/09/21 09:17
+201,META SYSTEM,Marie,Tzvetkow,98040643219,Rue Tigrée 24,5140,Ligny,marie@meta-system.be,0493257269,,1,27/08/21 08:44,27/08/21 08:59,,03/09/21 08:07
+202,META SYSTEM,Delphine,Paternoster,98.02.06-546.85,Clos des Vicinaux 15,1450,Chastre,dessin@meta-system.be,32479969171,,1,27/08/21 08:45,27/08/21 08:59,,03/09/21 08:07
+203,META SYSTEM,Dieumerci,Kanongo,82.03.09-513.87,Avenue du champ des courses 51,1301,Wavre,etude@meta-system.be,0491562954,,1,27/08/21 08:46,30/08/21 05:50,,03/09/21 08:56
+204,META SYSTEM,FREDERIC,TROYON,67070153122,"Venelle aux cyprès, 11",1300,Wavre,FREDERIC.TROYON.METASYSTEM@GMAIL.COM,0496164893,,1,27/08/21 08:46,30/08/21 05:30,,03/09/21 08:56
+205,META SYSTEM,Alexandre,Amato,84102630570,Clos du Verger,1380,Lasne,adbamatoalexandre@gmail.com,0473834825,Vacciné,1,27/08/21 08:48,02/09/21 15:27,,03/09/21 09:24
+206,META SYSTEM,Tony,Ernst,65073036156,Av vaneukem 19,1070,Bruxelles,tont@nickel.br,0475710971,Vacciné,1,27/08/21 08:49,03/09/21 11:39,,03/09/21 13:10
+207,META SYSTEM,Denis,Detinne,76041231180,"Av des aubepines, 13",1301,Bierges,denis@promo-sport.be,0477755737,,1,27/08/21 08:50,28/08/21 11:27,,03/09/21 11:35
+208,LAMBERT REFRIGERATION,Massimo,Riservati,87111224736,cour saint xavier 7,6200,Bouffioulx,massimo.riservati@refrigeration-lambert.be,0490447775,,1,27/08/21 09:00,27/08/21 10:10,,03/09/21 05:37
+209,LAMBERT REFRIGERATION,Jérôme,Couchariere,89.07.06-153.33,Rue des Fauldeurs,6530,Thuin,jerome.couchariere@refrigeration-lambert.be,0494803639,,1,27/08/21 09:00,27/08/21 09:02,,03/09/21 05:37
+210,LAMBERT REFRIGERATION,Julien,Copin,89.07.20-309.39,10 Rue du Trou de Leers,6532,Ragnies,julien.copin@refrigeration-lambert.be,0488333816,,1,27/08/21 09:01,27/08/21 09:07,,03/09/21 05:43
+211,LAMBERT REFRIGERATION,Jean-francois,Charlier,71.09.28-259.67,"Rue des Tayettes, 42",6280,Gerpinnes,info@charvins.be,0475619459,Vacciné,1,02/09/21 08:39,02/09/21 09:39,,03/09/21 05:47
+212,LOVEMAT,Dimitri,Van vaeck,82092106325,rue du monument  1a,1340,ottignies,dv@lovemat.be,32484934958,,1,27/08/21 09:02,27/08/21 09:02,,03/09/21 05:56
+213,SL+ ARCHITECTES,SEBASTIEN,LOSSEAU,83.06.28-217.49,Bcle de l'Heure,6120,Ham-sur-Heure-Nalinnes,losseausebastien@hotmail.com,0478293784,Test PCR,1,27/08/21 09:08,02/09/21 09:25,,03/09/21 13:27
+214,BEMAT,Jonathan,Craps,83.05.27-187.05,Rue de l'yser,6536,Thuillies,jonathan.craps@gmail.com,32497313984,,1,27/08/21 09:11,27/08/21 09:22,,03/09/21 12:16
+215,JORDAN,DOMINIQUE,BOSCO,73020302376,"DIGUE DE CUESMES, 5",7000,MONS,d.bosco@swl.be,32475758391,,1,27/08/21 10:16,30/08/21 05:38,,03/09/21 11:11
+216,PREFACO,Fabian,Spitals,75060913548,Chem. d'Oeudeghien,7803,Bouvignies,f.spitals@prefaco.be,32475757992,,1,27/08/21 10:18,27/08/21 10:20,,03/09/21 05:18
+217,PREFACO,Ronald,Liénard,75042726741,Rue des Caves 27,7640,Maubray,rl@interconstruct,32478234231,,1,27/08/21 10:21,28/08/21 04:37,,03/09/21 05:19
+218,META SYSTEM,Patrick,ROBERT,65052113949,Rue de Bomeree  72 A,6032,Mont Sur Marchienne,patrick.robert@portima.be,0475635487,,1,27/08/21 10:21,27/08/21 10:28,,03/09/21 10:55
+219,PREFACO,Bernard,Marlier,74111324328,Bruyère 77,7890,Ellezelles,b.marlier@schelfout-beton.be,0473949853,,1,27/08/21 10:22,29/08/21 13:37,,03/09/21 05:18
+220,PREFACO,Julien,Belligoï,87081926182,Rue d'Omal,,,julien.belligoi@franki.be,32498901413,,1,27/08/21 10:23,27/08/21 11:42,,03/09/21 05:41
+221,PREFACO,Bastien,Vandereyken,86080610327,Rue de noville,,,bastien.vandereyken@eiffage.com,32492912950,,1,27/08/21 10:24,27/08/21 10:56,,03/09/21 05:41
+222,CHAURACI,MALVAUX,ULRICK,197611573,Chau. de Clair Bois,5600,Philippeville,ulrickmalvaux@hotmail.com,0476711869,Vacciné,1,27/08/21 12:48,30/08/21 12:08,,03/09/21 06:16
+223,CHAURACI,FREDERIC,PIRON,78092528386,Rue jean froie 140a,6043,Ransart,bofapi@hotmail.com,0495840530,Vacciné,1,27/08/21 13:02,31/08/21 08:40,,
+224,DAIKIN,Olivier,Morval,87061827386,"Avenue Franklin, 1B",1300,Wavre,olivier.morval@daikin.be,32498636817,,1,27/08/21 13:03,27/08/21 13:07,,03/09/21 05:46
+225,CHAURACI,PIERRE,DERNELLE,73032508144,Av. de la Sapinière,7090,Braine-le-Comte,pierrewatercool@gmail.com,0475334724,,1,27/08/21 13:03,27/08/21 15:53,,03/09/21 06:57
+226,DAIKIN,Sébastien,Lanero,94053011128,"Avenue Franklin, 1B",1300,Wavre,sebastien.lanero@daikin.be,32474852197,,1,27/08/21 13:05,27/08/21 15:23,,03/09/21 05:45
+227,CHAURACI,PIERRE,EL NEMNOM,61121455106,Rue de l'Etang 141,6042,Charleroi,pierre@chauraci.be,0497475836,,1,27/08/21 13:06,27/08/21 13:09,,03/09/21 05:36
+228,DAIKIN,Julien,Witvrouw,88.09.26-421.31,"Avenue Franklin, 1B",1300,Wavre,julien.witvrouw@daikin.lu,3.52662E+11,,1,27/08/21 13:06,27/08/21 15:44,,03/09/21 05:35
+229,BERTRAND BY GRANIT INTER,Fabrice,Nicolas,71.07.16-449.29,"Epine , 32",1495,Tilly,amelie.bertrand@granitinter.com,0476367275,,1,27/08/21 13:37,27/08/21 13:58,,03/09/21 05:28
+230,BERTRAND BY GRANIT INTER,David,Vromman,85061838737,"Sart-dames-avelines, 57",6210,Frasnes-Lez-Gosselies,Vromman.d@hotmail.be,0479223733,Test PCR,1,27/08/21 13:38,30/08/21 10:46,,03/09/21 06:05
+231,BERTRAND BY GRANIT INTER,Yannick,Desmadryl,89112027702,Rue de Sart 27,1495,Villers-La-Ville,desmadryl.yannick@gmail.com,0499939797,,1,27/08/21 13:39,27/08/21 14:24,,03/09/21 05:29
+232,BERTRAND BY GRANIT INTER,Olivier,Bertrand,72.12.27-387.11,Rue de l’epine 31,1495,Tilly,amelie.bertrand@granitinter.com,0475807174,,1,27/08/21 13:39,27/08/21 18:31,,03/09/21 11:03
+233,BERTRAND BY GRANIT INTER,Mike,Coenen,76.01.27-349.56,Rue des Savoyards,1495,Villers-la-Ville,mike.coenen@granitinter.com,0474981288,,1,27/08/21 13:41,27/08/21 16:19,,03/09/21 11:03
+234,COLAS Belgium Agence Sud Ouest,Johnny,lange,66021512549,Rue de Marchienne,6534,Thuin,j.lange@jardiland.com,32476512161,,1,27/08/21 15:45,27/08/21 15:56,,
+235,WEB,Ludovic,Bourlon,79040111785,Chaussée de marche 41,5363,Emptinne,Ludovic.Bourlon@N-ALLO.be,0473772762,,1,28/08/21 09:15,28/08/21 10:26,,03/09/21 05:43
+236,DL Net,Vanmi,mimi,7302270652,Rue de boussu,7333,Tertre,familipa@yahoo.fr,324766335,,1,29/08/21 06:47,29/08/21 06:57,,03/09/21 07:18
+237,DL Net,HEROLD,NEBROJ,70.12.22-239.73,"RUE DU REPOSOIR, 13",7542,MONT SAINT AUBERT,hen@cinoco.com,32475323903,,1,29/08/21 06:51,30/08/21 07:30,,03/09/21 06:06
+238,DL Net,Julien,pozza,82122829787,"jean locoge, 20",7011,Ghlin,julien.pozza@vanheede.com,0475801948,,1,29/08/21 06:55,29/08/21 07:47,,03/09/21 06:30
+239,PK LUX,RIGO,Bruno,77.07.15-305.38,A ERNST 8,4800,Petit Rechain,bruno.rigo@spw.wallonie.be,32476770252,,1,29/08/21 07:22,30/08/21 06:38,,03/09/21 07:19
+240,PK LUX,Benjamin,Kerstenne,83.02.08-275.78,Voie de la Hayette 81,4671,Saive,ben.kerstenne@gmail.com,32476589966,,1,29/08/21 07:23,29/08/21 12:38,,03/09/21 07:19
+241,PK LUX,Darding,Jean-Bernard,80040223357,Fosses Berger 11,4877,Olne,dardingjb@hotmail.com,0475280925,,1,29/08/21 07:24,30/08/21 07:42,,03/09/21 07:21
+242,FENTRA by Alliance,david,sinnaeve,69.06.29-053.83,Rue du Porion,7134,Binche,dsinnaeve@fentra.be,32497559112,Test PCR,1,29/08/21 08:46,01/09/21 14:01,,03/09/21 05:11
+243,PREFACO,Gilles,Sory,86091210348,Rue Guillaume Charlier 101,7500,Tournai,gsory@interconstruct.be,0498171757,,1,29/08/21 13:31,30/08/21 07:16,,03/09/21 05:19
+244,MYT TOITURES,benoit,hector,68072110563,Rue Demoulin,6120,Ham-sur-Heure-Nalinnes,hector@ymax.be,0478283349,,1,30/08/21 05:51,30/08/21 05:51,,03/09/21 07:08
+245,MYT TOITURES,thierry,moulin,70031821161,Rue Demoulin,6120,Ham-sur-Heure-Nalinnes,expert.moulin@gmail.com,0493375835,Vacciné,1,30/08/21 05:53,31/08/21 05:54,,03/09/21 07:15
+246,MYT TOITURES,frederic,lefevre,70031821161,Rue de la Montagne,6110,Montigny-le-Tilleul,fredlefevre@hotmail.com,0495770760,Vacciné,1,30/08/21 05:54,31/08/21 05:41,,03/09/21 07:08
+247,CHAURACI,DAVID,BERNY,67012405161,HAM SUR HEURE,6120,,ETSBERNY@HOTMAIL.COM,0474957390,,1,30/08/21 06:28,30/08/21 06:48,,03/09/21 05:56
+248,KONE BELGIUM,étienne,castin,61041205719,gilles lefèvre 7,6530,Thuin,etienne.castin@kone.com,32475668407,,1,30/08/21 06:39,30/08/21 06:48,,03/09/21 05:42
+249,KONE BELGIUM,charles,glaes,61040804158,Gerpinnes,6280,Gerpinnes,charles.glaes@kone.com,0477388003,Vacciné,1,03/09/21 06:00,03/09/21 06:03,,03/09/21 06:06
+250,KONE BELGIUM,PIERRE,LORETTE,81092226167,"Allée des sapins, 14",6032,Mont sur marchienne,pierrelorette@hotmail.com,32476953381,Vacciné,1,30/08/21 06:42,01/09/21 14:27,,03/09/21 06:09
+251,KONE BELGIUM,DAMIEN,LORETTE,85072613150,Rue de l industrie 11,6032,Mont sur marchienne,damien.lorette@gmail.com,32473769853,Vacciné,1,30/08/21 06:43,01/09/21 14:11,,03/09/21 06:09
+252,KONE BELGIUM,Hugues,TESSIER,62071162508,Rue Albert Mockel,4000,Liège,hugues.tessier@kone.com,33675663923,,1,30/08/21 06:45,30/08/21 06:51,,03/09/21 12:52
+253,LOVEMAT,Vincent,Waeterloos,84101018192,235 Avenue Albert 1e,1332,GENVAL,vw@lovemat.be,32484935531,,1,30/08/21 06:47,30/08/21 06:49,,03/09/21 05:53
+254,BELCOGEST ASSURANCES,Xavier,De Ro,78012028185,Av. des Genêts,6001,Charleroi,xavier@garagedero.be,0496423901,,1,30/08/21 06:48,30/08/21 06:49,,03/09/21 05:40
+255,KONE BELGIUM,DAVID,FRANCOIS,770309-07730,"Rue des Combattants et Déportés, 36",6536,Thuin,david.francois@hainaut.be,32471222562,,1,30/08/21 06:49,30/08/21 07:16,,03/09/21 07:23
+256,BELCOGEST ASSURANCES,Emilien,Allart,08012513991,Rue de la Croissance,6900,Marche-en-Famenne,hoangbao.dr@gmail.com,04869452,Vacciné,1,01/09/21 12:03,01/09/21 12:04,,03/09/21 05:52
+257,BELCOGEST ASSURANCES,Arthur,Hoang,10051621564,rue saint ethon 59,7181,Feluy,hoangbao.dr@gmail.com,04869452,Test PCR,1,01/09/21 12:03,01/09/21 12:04,,03/09/21 05:52
+258,SOPREMA,Elie,Leturcq,87090317969,Chau. d'Audenarde,7742,Pecq,elq@toitmat.be,0470101026,,1,30/08/21 07:05,30/08/21 07:52,,03/09/21 05:35
+259,SOPREMA,Julien,Cardoso,79020258756,Borrevaal  6,1730,Asse,jcardoso@soprema.be,0478881369,,1,30/08/21 07:06,30/08/21 07:09,,03/09/21 04:54
+260,SOPREMA,Laurent,André,89060849116,"rue mitoyenne, 272",4710,Lontzen,landre@soprema.be,32470991834,,1,30/08/21 07:08,30/08/21 07:09,,03/09/21 05:33
+261,LOUVERS,Tim,Verstraeten,89042311129,"veeweidestraat, 28",3040,sint-agatha-rode,verstraeten_tim@hotmail.com,32473572646,,1,30/08/21 07:08,30/08/21 07:17,,03/09/21 05:16
+262,SOPREMA,Lucien,Donnay,66.03.20-183.42,rue Edith Cavell Barchon,4671,Barchon,ldonnay@soprema.be,04728085,,1,30/08/21 07:09,30/08/21 08:47,,03/09/21 08:57
+263,LOUVERS,Gianni,Lapadura,97.05.06-555.76,Terlaak,1651,Beersel,gianni@louvers.be,324997119,,1,30/08/21 07:09,30/08/21 07:10,,03/09/21 05:26
+264,LOUVERS,Dimitri,de Broqueville,79.02.02-303.49,"Avenue Marie-José, 102",1200,Bruxelles,dimitri@louvers.be,32479214241,,1,30/08/21 07:10,30/08/21 07:39,,03/09/21 05:38
+265,SOPREMA,Jean-Claude,Cammaerts,5.95034E+11,"Berensheide, 90",1170,Bruxelles,jccammaerts@gmail.com,32497473261,,1,30/08/21 07:12,30/08/21 08:49,,03/09/21 10:41
+266,SOPREMA,Sebastien,Dave,72030234759,"Rue Escavee ,14",6238,Luttre,sdave4860@gmail.com,0470893151,,1,30/08/21 07:13,30/08/21 08:21,,03/09/21 05:22
+267,LOUVERS,Bram,Beckers,89.06.01-285.44,Allée Du Millénaire 1,1390,Nethen,bram@louvers.be,32472458067,,1,30/08/21 07:16,30/08/21 08:53,,03/09/21 05:17
+268,LOUVERS,David,Jonckheere,79.12.20.-207.63,Werchtersebaan,3120,Tremelo,david@louvers.be,32468273558,Vacciné,1,30/08/21 07:17,31/08/21 07:55,,03/09/21 05:26
+269,LOUVERS,Gert-Jan,Van Schevensteen,87100141101,"broekstraat, 50",1982,elewijt,gertjanvs87@gmail.com,32492599890,Vacciné,1,30/08/21 07:19,01/09/21 05:49,,03/09/21 05:41
+270,ELECTRICITE TEIRLIJNCK  SPRL,louise,Teirlijnck,95021830203,"rue pinsonhaie, 2a",5070,Fosses-La-Ville - 5070,info@teirlijnck.be,0494530701,,1,30/08/21 07:20,30/08/21 07:21,,03/09/21 10:48
+271,LOUVERS,Kevin,Claeys,91111626381,Leuvensestraat,1800,Vilvoorde,kevin@louvers.be,32492150187,Test PCR,1,30/08/21 07:21,31/08/21 13:37,,03/09/21 05:09
+272,ARTES TWT,Ludovic,Watrin,98.10.05-567.53,Rue des Prisonniers,5380,Fernelmont,ludovic.watrin@artestwt.be,0499211086,,1,30/08/21 07:23,30/08/21 07:46,,03/09/21 05:36
+273,ARTES TWT,Nicolas,Breels,95.07.24-379.72,Rue du tige 40,4560,clavier,nicolas.breels@artestwt.be,0498778705,Vacciné,1,30/08/21 07:24,30/08/21 10:25,,03/09/21 05:36
+274,ARTES TWT,Nicolas,Gustin,86.07.14-363.05,rue du vicinal 26,5380,novilles-les-bois,nicolas.gustin@artestwt.be,0494538095,,1,30/08/21 07:25,30/08/21 07:26,,03/09/21 05:36
+275,NEO MDS CENTRO,Fernandez,Nicolas,93111239712,Rue Ernest Berthet,1341,Ottignies-Louvain-la-Neuve,nicolas.fernandez@pv.be,0470612410,,1,30/08/21 07:26,30/08/21 07:27,,03/09/21 05:02
+276,LA BARRIQUE,Jean-Michel,Marbaise,77110510977,Rue Ste Rolende,6280,Gerpinnes,jm.marbaise@labarrique.be,0476237610,,1,30/08/21 07:26,30/08/21 07:42,,03/09/21 05:36
+277,NEO MDS CENTRO,Mathieu,De Smet,89081739154,Rue de saint-Symphorien 48,7021,Mons,mathieu@mds-digitalagency.be,0476538593,,1,30/08/21 07:27,30/08/21 07:28,,03/09/21 07:28
+278,LA BARRIQUE,Romain,Marbaise,05.09.04-041.36,Rue Ste Rolende,6280,Gerpinnes,romain7.net@gmail.com,0494415047,Vacciné,1,30/08/21 07:28,31/08/21 18:59,,03/09/21 05:36
+279,NEO MDS CENTRO,Julien,De L Arbre,59000000,Rue De Valenciennes 20A,7301,Hornu,julien@neo-it.be,0475977873,,1,30/08/21 07:28,30/08/21 07:30,,03/09/21 05:48
+281,LA BARRIQUE,Damien,Forret,76031505149,"Rue de la rouge croix, 5",5640,Mettet,damien.forret@labarrique.be,0497400243,Test PCR,1,30/08/21 07:30,02/09/21 08:10,,03/09/21 08:58
+282,NEO MDS CENTRO,Giuseppe,Rizzo,8.91206E+11,Rue de Douaire,7160,Chapelle-lez-Herlaimont,giuseppe.rizzo@pv.be,0498138742,,1,30/08/21 07:31,30/08/21 07:35,,03/09/21 09:42
+283,NEO MDS CENTRO,Antonio,Ricciardi,87072807786,"rue de la source, 35",7850,Marcq,antonio.ricciardi@pv.be,0483462220,Vacciné,1,30/08/21 07:32,30/08/21 13:59,,03/09/21 09:42
+284,BEMAT,Vincent,Bottemanne,69.05.13-309.09,"Rue Louis Genonceaux, 12",5032,ISNES (GEMBLOUX),vib@bsolutions.be,32475912728,,1,30/08/21 07:36,30/08/21 07:43,,03/09/21 10:42
+285,ELECTRICITE TEIRLIJNCK  SPRL,Laurence,Vausort,65.03.02-032.33,"rue pinsonhaie, 2a",5070,Fosses-La-Ville - 5070,info@teirlijnck.be,0479457518,,1,30/08/21 07:39,30/08/21 08:31,,03/09/21 10:48
+286,ELECTRICITE TEIRLIJNCK  SPRL,Hugo,Jadoul,93-03-19-377-57,"rue pinsonhaie, 2a",5070,Fosses-La-Ville - 5070,info@teirlijnck.be,0478568619,,1,30/08/21 07:39,30/08/21 07:41,,03/09/21 05:32
+287,ELECTRICITE TEIRLIJNCK  SPRL,Alfonso,Calabrese,63050314754,Sambreville,5060,,info@teirlijnck.be,0494508601,Vacciné,1,30/08/21 07:40,31/08/21 07:21,,
+288,ELECTRICITE TEIRLIJNCK  SPRL,Arnaud,Quinet,87.06.05-173.91,Rue de Florennes 17a,5640,Mettet,arnaudquinet5640@gmail.com,0485874867,,1,30/08/21 07:41,30/08/21 07:49,,03/09/21 05:33
+289,ELECTRICITE TEIRLIJNCK  SPRL,Julien,Eymard,9.0073E+11,Rue de la Sapinette,5020,Namur,cwpeymard@hotmail.com,0494530705,Vacciné,1,31/08/21 13:23,31/08/21 19:38,,03/09/21 05:33
+290,ELECTRICITE TEIRLIJNCK  SPRL,Florian,Hoebeke,94021235908,Rue de Jemeppe,5060,Sambreville,florian.hoebeke@hotmail.com,0472337335,,1,30/08/21 07:42,30/08/21 08:34,,03/09/21 05:32
+291,ELECTRICITE TEIRLIJNCK  SPRL,Franck,Laguesse,93050236907,Rue Antoine Quintens,5032,Gembloux,francklaguesse@gmail.com,0476844289,,1,30/08/21 07:43,30/08/21 07:45,,03/09/21 05:33
+292,ELECTRICITE TEIRLIJNCK  SPRL,Théo,Gillin,03.03.31-129.24,Cayaux N 10,5620,Flavion,gillintheo@gmail.com,0475648817,,1,30/08/21 07:44,30/08/21 15:31,,03/09/21 05:32
+293,ELECTRICITE TEIRLIJNCK  SPRL,Mallory,Catteeuw,03.11.28-053.52,13 rue de la corne,5620,Flavion,catteeuwmallo@gmail.com,0476932741,Vacciné,1,30/08/21 07:46,30/08/21 18:00,,03/09/21 05:33
+294,ELECTRICITE TEIRLIJNCK  SPRL,Cristelle,Marchal,76033126237,Rue du cayaux 10,5620,Flavion,marchal.gillin@skynet.be,0478920949,,1,30/08/21 07:46,30/08/21 07:48,,03/09/21 05:33
+295,ELECTRICITE TEIRLIJNCK  SPRL,Rudi,Teirlijnck,65063001309,"rue pinsonhaie, 2a",5070,Fosses-La-Ville - 5070,info@teirlijnck.be,0475820243,,1,30/08/21 07:48,30/08/21 08:56,,03/09/21 05:32
+296,LIONS REALTY /ELECTROLUX,Benjamin,ROEKAERTS,88030624103,Rue Nicolas Monnom,6120,Ham-sur-Heure-Nalinnes,benjamin.roekaerts@gmail.com,32479215134,,1,30/08/21 07:50,30/08/21 07:51,,03/09/21 06:10
+297,ENERCETEC,Roland,François,Belgique,"11,Rue sur le Mont",5363,Emptinne,rfr@enercetec.be,0455108302,Vacciné,1,30/08/21 07:51,02/09/21 05:32,,03/09/21 05:55
+298,ENERCETEC,Christian,Marchal,57082000962,Rue du Chêne 25,5070,Fosses-la-Ville,cma@enercetec.be,0475402539,,1,30/08/21 07:51,30/08/21 08:02,,03/09/21 05:31
+299,LIONS REALTY /ELECTROLUX,Adriaan,RUELLE,880612 063 12,Rue de la Fusée,1000,Bruxelles,adriaan.ruelle@electrolux.com,0472524885,,1,30/08/21 07:51,30/08/21 07:58,,03/09/21 05:34
+300,ENERCETEC,Vincent,Eymard,65.12.01-153.05,Rue des Loires,5570,Beauraing,vey@enercetec.be,0476898960,,1,30/08/21 07:53,30/08/21 08:03,,03/09/21 05:27
+301,CHAURACI,SALVATORE,SANASI,88.12.09-173.34,Rue Terne Moreau 113,5060,Sambreville,salvatoresanasi@msn.com,0490430391,,1,30/08/21 07:54,30/08/21 07:55,,03/09/21 05:44
+302,ENERCETEC,Mathieu,Mercier,85052419928,"Rue des Grêlons, 31",5580,Mont-gauthier,mathieu618@hotmail.com,0455108323,Vacciné,1,30/08/21 07:54,31/08/21 07:23,,03/09/21 05:12
+303,LIONS REALTY /ELECTROLUX,MAXIME,BRASSEUR,87101606987,Av. des Pins,6001,Charleroi,maxbrasseur@hotmail.com,0479792021,,1,30/08/21 07:55,30/08/21 07:58,,03/09/21 06:08
+304,ENERCETEC,Bruno,Vast,84101636519,Dom. du Bois Gilet,5300,Andenne,bva@enercetec.be,0455109682,Vacciné,1,30/08/21 07:55,30/08/21 12:21,,03/09/21 05:12
+306,ENERCETEC,Robert,Farrauto,67.12.17-267.35,Rue De Fenal 72,5641,Furnaux,rfa@enercetec.be,0455117961,Vacciné,1,30/08/21 07:57,01/09/21 13:43,,
+307,FENTRA by Alliance,Thomas,EECKHAUT,84061014107,Rue des Cloutiers 43,6044,Roux,teeckhaut@fentra.be,32479470247,,1,30/08/21 07:57,30/08/21 07:59,,03/09/21 05:11
+308,ENERCETEC,Marian,Pawlik,67102508956,Rue des Cafrancs,5520,Onhaye,marian.pwlk@gmail.com,0455106353,Vacciné,1,30/08/21 07:57,02/09/21 07:34,,03/09/21 05:37
+309,ENERCETEC,Thomas,Marchal,83050813545,25F rue de Somtet,5640,Mettet,thomas.marchal83@gmail.com,0497507737,Vacciné,1,30/08/21 07:58,30/08/21 10:28,,03/09/21 05:31
+310,FENTRA by Alliance,Raphaël,Vonnèche,76032930158,"Joseph Vincent, 20",5060,Velaine-sur-sambre,rvonneche@fentra.be,0496215592,Vacciné,1,30/08/21 11:10,30/08/21 11:21,,03/09/21 05:11
+311,ENERCETEC,Robert,Frederic,65.01.24-135.32,Rue Chaudin,5300,Andenne,rfd@enercetec.be,0455126752,,1,30/08/21 07:59,30/08/21 08:02,,03/09/21 05:02
+312,ENERCETEC,Nicolas,David,96-10-04.229-88,"9a, rue sur le mont",5363,Emptinne,nda@enercetec.be,0455119638,Test PCR,1,30/08/21 08:00,31/08/21 14:42,,03/09/21 05:55
+313,LUCLION,MICHAEL,LION,690219-007.13,"RUE FRANCOIS DACHE, 3",5150,FLORIFFOUX,mi-k.lion@outlook.com,0477584380,,1,30/08/21 08:28,30/08/21 08:28,,03/09/21 05:20
+314,LUCLION,LUC,LION,47.07.27-017.15,RUS BAS COMOGNE 49B,5190,JEMEPPE-SUR-SAMBRE,luc.lion@luclion.be,0477584381,,1,30/08/21 08:30,30/08/21 08:38,,03/09/21 05:20
+315,LUCLION,ROMAIN,LION,99.10.12-235.02,"RUE FRANCOIS DACHE, 3",5150,FLORIFFOUX,romain.lion@hotmail.be,04742565,,1,30/08/21 08:32,30/08/21 16:25,,03/09/21 05:20
+316,LUCLION,ALAIN,PAQUET,640902-017.69,"RUE DES GUERETS, 7",5100,NANINNE,christine.demin@gmail.com,0475566271,,1,30/08/21 08:42,30/08/21 08:46,,03/09/21 05:20
+317,KONE BELGIUM,Jason,Malengreaux,91121011528,Rue Borfilet 11,6040,Jumet,malengreaux.jason@hotmail.com,0476357849,Vacciné,1,30/08/21 08:46,31/08/21 06:50,,
+318,LUCLION,ANTOINE,BAUCHER,930328-115.49,"RUE DU FOND, 2",5640,METTET,antoinebaucher@gmail.com,0496632359,,1,30/08/21 08:47,30/08/21 08:47,,03/09/21 05:38
+319,KONE BELGIUM,Fabrizio,Capurso,87060928751,Rue du Rapois,7021,Mons,capurso.fabrizio@gmail.com,32471509583,Vacciné,1,30/08/21 08:47,31/08/21 06:51,,03/09/21 11:23
+320,KONE BELGIUM,michael,colle,72031613347,Rue Duval,6200,Châtelet,michael.colle@hainaut.be,32476607196,Vacciné,1,30/08/21 08:47,31/08/21 07:37,,03/09/21 08:26
+321,SI RENOVE,Olivier,Boiteux,70082207317,Rue les Acacias,5651,Walcourt,dynamiccar@skynet.be,0475733918,,1,30/08/21 08:58,30/08/21 09:43,,03/09/21 05:16
+322,SI RENOVE,Bryan,Boiteux,95.06.06-243.62,Rue des Pinsons,6001,Charleroi,boiteux.bryan@hotmail.com,0496116880,,1,30/08/21 09:00,30/08/21 09:17,,03/09/21 05:15
+323,SI RENOVE,Alexandra,Ittelet,79100337602,1ère avenue 13,6001,Marcinelle,a.ittelet@sirenove.be,0476748956,Test PCR,1,30/08/21 09:01,30/08/21 12:33,,03/09/21 10:33
+324,SI RENOVE,Lauent,Vanpuyvelde,68031611182,"Hameau de la Houzée, 38",6536,THUILLIES,laurent@lvp-info.be,0475898222,Vacciné,1,30/08/21 09:02,30/08/21 14:44,,03/09/21 06:36
+325,SI RENOVE,sébastien,Gilliard,80021431982,Rue de Marchienne,6534,Thuin,lamaisonduboudin@hotmail.fr,0499249362,,1,30/08/21 09:05,30/08/21 16:25,,03/09/21 06:36
+326,SI RENOVE,NATACHA,JARCZYNSKI,76091909029,"RUE DES PINSONS, 15",6001,MARCINELLE,NATACHA.JARCZYNSKI@TOYOTABELGIUM.NET,32477625125,Vacciné,1,30/08/21 09:07,30/08/21 09:35,,03/09/21 11:19
+328,BEMAT,Marc,Dupuis,,,,,mdupuis@bemat.be,,,,30/08/21 09:42,,,
+329,FACQ,Patrick,Watelet,83081019543,"rue de nivelles, 107",7160,Godarville,patrick@watelet.biz,32479596778,Vacciné,1,30/08/21 09:55,01/09/21 10:09,,03/09/21 11:06
+330,LAURENT ATELIER,Lino,Schiavon,921002-117.79,Rue Albert Bodson 8a,6280,Gerpinnes,schiavonlino@hotmail.fr,0479215450,Test PCR,1,30/08/21 10:05,30/08/21 10:08,,03/09/21 05:01
+331,LAURENT ATELIER,Laurent,Schiavon,65011708303,Chem. des Villas,5170,Profondeville,atlaurent@skynet.be,0477288757,Vacciné,1,30/08/21 10:08,01/09/21 06:32,,03/09/21 08:23
+332,LAURENT ATELIER,Carmen,Delmelle,61031224023,Allee des noisetiers 30,6280,Gerpinnes,laurent.carmen@skynet.be,0475697079,,1,30/08/21 10:09,30/08/21 10:26,,03/09/21 12:41
+333,LAURENT ATELIER,Joël,Blavier,68.07.03-129.94,Rue du Viveroux,5600,Philippeville,joel.blavier@groupecomet.com,0495386147,Vacciné,1,30/08/21 10:10,02/09/21 14:20,,03/09/21 10:15
+335,LAURENT ATELIER,Louis,Colin,91.12.23-261.74,Rue Hublette,6120,Ham-sur-Heure-Nalinnes,louis@architecte-colin.be,0470685089,Vacciné,1,30/08/21 10:11,31/08/21 07:07,,03/09/21 05:05
+336,LAURENT ATELIER,Vincent,Bodson,73072819364,Rue des Sept Petites,6120,Ham-sur-Heure-Nalinnes,vincent.bodson@groupecomet.com,0497799503,Vacciné,1,30/08/21 10:11,31/08/21 06:16,,03/09/21 05:22
+337,LOVEMAT,Gregory,De Keyser,81.01.26-265.81,"de Teris, 41",4100,Seraing,gde@lovemat.be,04766209,Vacciné,1,30/08/21 10:21,30/08/21 10:22,,03/09/21 06:24
+338,RIBOUX,TOM,RIBOUX,010328-02381,rue de pontaury     8,5640,METTET,menuiserieriboux@skynet.be,0471133428,Vacciné,1,30/08/21 10:41,30/08/21 11:08,,03/09/21 05:18
+339,RIBOUX,Didier,Bosseloir,70.10.23-249.19,Rue Jules Claskin,4030,Liège,d.bosseloir@gmail.com,0475980420,Test PCR,1,30/08/21 10:42,30/08/21 10:45,,03/09/21 07:03
+340,RIBOUX,Vincent,BOUCHAT,690414-16519,"Rue Sainte Anne, 7",5060,Falisolle,vincent.bouchat@outlook.com,0496278980,Vacciné,1,30/08/21 10:43,30/08/21 15:19,,03/09/21 06:14
+341,FULL SERVICES,Kevin,Dutrieux,86.09.30-331.56,Av. Général Jacques,1400,Nivelles,k.dutrieux@decube.be,0479493563,Vacciné,1,30/08/21 10:49,30/08/21 10:50,,03/09/21 05:14
+342,FULL SERVICES,Mathieu,Moraux,84.08.17-081.65,Rue de la Chavée 64/1,5660,Couvin,morexfor@gmail.com,0476316249,,1,30/08/21 10:53,01/09/21 05:00,,03/09/21 05:53
+343,FULL SERVICES,Giovanni,FADEL,61.10.12-115.03,rue du chene  26 a,6530,THUIN,jean.fadel@full-services.be,32497425989,Vacciné,1,30/08/21 11:08,30/08/21 13:45,,03/09/21 13:14
+344,BEMAT,Chrysline,XXX,,,,,,0475604595,,,30/08/21 11:09,,,
+345,BEMAT,Philippe,Van Cauwenberghe,,,,,,0496525187,,,30/08/21 11:11,,,
+346,BEMAT,Thomas,Cornet,,,,,,0473997896,,,30/08/21 11:12,,,
+347,BEMAT,Constant,Foly Comlan,,,,,,0493611164,,,30/08/21 11:13,,,
+348,BEMAT,Olivier,Bouchat,,,,,,04945396,,,30/08/21 11:13,,,
+349,BEMAT,Eric,Legrand,62031308968,29 Rue du Faubourg St-Lazare,6110,Montigny-le-Tilleul,eric.legrand@immolegrand.com,0475694862,Vacciné,1,30/08/21 11:14,30/08/21 12:18,,
+350,BEMAT,Eric,Massin,,,,,,0475799072,,,30/08/21 11:14,,,
+351,BEMAT,Julien,Dailly,,,,,,0486185353,,,30/08/21 11:15,,,
+352,KONE BELGIUM,Hombeline,Ruelle,,,,,,32471806483,,,30/08/21 11:22,,,
+353,META SYSTEM,Diego,Signore,93.01.23-225.75,"Rue du Bultia, 85/11",6280,Gerpinnes,diego@club-immobilier.be,0498766306,Test PCR,1,30/08/21 11:43,30/08/21 11:49,,03/09/21 05:06
+355,FACOZINC DROGENBOS,Pascal,Redant,73061536977,Rue paul hainaut,7120,Peissant,redant.pascal@gmail.com,0495899341,Vacciné,1,30/08/21 11:43,30/08/21 11:54,,03/09/21 06:06
+356,META SYSTEM,Xavier,Vromman,83012434902,rue margot 5c,1435,corbais,xavier@meta-system.be,0479441179,,1,30/08/21 11:44,30/08/21 15:47,,03/09/21 04:40
+357,FACOZINC DROGENBOS,Claudy,Duhain,690710 105 26,Rue d'Anderlues,6540,Lobbes,claudy_duhain@hotmail.com,0497376817,Vacciné,1,30/08/21 11:44,01/09/21 10:30,,03/09/21 06:07
+358,FACOZINC DROGENBOS,Thibaut,Redant,05102735509,Rue Paul Hainaut,7120,Estinnes,thibaut.redant@gmail.com,0494412111,Vacciné,1,30/08/21 11:45,31/08/21 10:08,,03/09/21 06:06
+359,BEMAT,Xavier,Berto,2425,Rue Jules Destrée,6040,Charleroi,xavier.berto@igretec.com,0494539615,,1,30/08/21 11:46,30/08/21 11:51,,03/09/21 11:05
+360,FACOZINC DROGENBOS,Alexis,Bountzouklis,80072929579,Allée Henri pousseur 8,1410,Waterloo,alexisbountzouklis@gmail.com,0479493247,Vacciné,1,30/08/21 11:46,30/08/21 12:13,,
+361,FACOZINC DROGENBOS,Andreas,Couscouras,87.05.14-361.14,Breemweg,1861,Meise,andreas@sosroof.be,0484884586,,1,30/08/21 11:47,31/08/21 05:43,,03/09/21 07:10
+362,FACOZINC DROGENBOS,Manuel,Castro Y Pena,79.05.08-411.73,"victor rauter, 235",1070,Bruxelles,toiturecastro1@gmail.com,0478641098,Test PCR,1,30/08/21 11:48,01/09/21 19:26,,03/09/21 07:10
+363,FACOZINC DROGENBOS,Nicolas,Bountzouklis,86051235955,Viaduc 84,1050,Bruxelles,nicolas@toituredim.be,0492730272,Vacciné,1,30/08/21 11:49,30/08/21 11:58,,
+364,FACOZINC DROGENBOS,Apo,Pano,98022446514,Chau. Romaine,1020,Bruxelles,apo@toiturespano.be,0489841213,Test PCR,1,30/08/21 11:50,01/09/21 13:54,,03/09/21 07:11
+365,FACOZINC DROGENBOS,Niko,Pano,93040948562,Chau. Romaine,1020,Bruxelles,nikolas.bouchlis@gmail.com,0499555999,Test PCR,1,30/08/21 11:50,01/09/21 13:53,,03/09/21 07:11
+366,FACOZINC DROGENBOS,Steven,Couscouras,90.09.14-483.80,Ch de wemmel 24,1090,Jette,stevencouscouras@live.be,04765334,,1,30/08/21 11:51,31/08/21 15:27,,03/09/21 07:10
+367,FACOZINC DROGENBOS,Stamatis,Couscouras,90.09.14-485.78,Chau. de Wemmel,1090,Jette,stamatis.realestate@gmail.com,0484198877,Test PCR,1,30/08/21 11:52,30/08/21 14:53,,03/09/21 07:10
+368,FACOZINC DROGENBOS,Andy,Sabkhi,871008-373.23,"Rue du Geer, 38",4250,Lens-saint-servais,a.sabkhi@gmail.com,0471485100,Vacciné,1,30/08/21 11:52,02/09/21 15:14,,03/09/21 05:28
+369,FACOZINC DROGENBOS,Thierry,Debatty,64 10 30 263 57,RUE EMILE RODER 5,4280,HANNUT,t.debatty@reno-solutions.be,0495530390,Vacciné,1,30/08/21 11:53,31/08/21 06:13,,03/09/21 05:28
+371,BCI TECHNICS (BALTEAU),Pascal,Lupsin,66093112103,Chem. de Blanchamps,5600,Philippeville,pascal0866@hotmai.com,32471012012,,1,30/08/21 12:21,30/08/21 12:46,,03/09/21 05:51
+372,BCI TECHNICS (BALTEAU),Emilien,Lupsin,06062607521,All. G,6001,Charleroi,emilien.lupsin@gmail.com,32470633430,,1,30/08/21 12:12,30/08/21 12:13,,03/09/21 05:51
+373,BCI TECHNICS (BALTEAU),Fatimatou,Barry,80031640837,Rue René De Cooman,6180,Courcelles,mareme.lamine@gmail.com,32492401392,,1,30/08/21 12:20,30/08/21 12:48,,03/09/21 10:28
+374,BCI TECHNICS (BALTEAU),Mathys,Bouabbaz,06061204576,Chau. de Montigny,6060,Charleroi,decoeurpatrick@gmail.com,0498807598,,1,30/08/21 13:17,30/08/21 13:18,,03/09/21 05:07
+375,BCI TECHNICS (BALTEAU),Christelle,Leclercq,74080912254,Chau. de Montigny,6060,Charleroi,christelle.leclercq@hotmail.com,32492887111,,1,30/08/21 12:20,30/08/21 12:26,,03/09/21 05:02
+376,FACOZINC DROGENBOS,Mickael,Denis,,,,,,0491368503,,,30/08/21 12:50,,,
+377,BEMAT,BENJAMIN,Piraux,75.03.04-203.12,Rue du Chaurnia,5070,LE ROUX,benjamin.piraux@hotmail.fr,32476934120,Vacciné,1,30/08/21 13:21,30/08/21 14:42,,
+378,BEMAT,Pierre-Henri,Evrard,69112728345,"rue Rondeau, 1",7140,Morlanwelz,pierre-henrievrard@hotmail.com,32486043369,Vacciné,1,30/08/21 13:22,30/08/21 13:33,,03/09/21 05:57
+379,BEMAT,Yannick,Thirion,88171032912,"Rue Delalune, 5",7100,La Louviere,y.thirion@laruchechapelloise.bd,0479868763,Vacciné,1,30/08/21 13:23,31/08/21 07:11,,03/09/21 05:57
+380,VAILLANT (CHAURACI),Benjamin,Buys,91041644544,Rue des Frères Herpain,1440,Braine-le-Château,scienceduchauffage@gmail.com,0465360310,Vacciné,1,30/08/21 13:43,30/08/21 13:46,,03/09/21 05:41
+381,VAILLANT (CHAURACI),Kevin,Henry,84111322562,Rue Lucien Petit,5030,Gembloux,kevin.henry@vaillant.com,0475777507,Vacciné,1,30/08/21 13:44,30/08/21 13:45,,03/09/21 09:49
+382,CHAURACI (TECHNICENTER),david,renzetti,79.07.31-221.72,rue vigneron 126,6043,ransart,d.renzetti@chauraci.be,32497475839,Vacciné,1,30/08/21 13:53,30/08/21 14:04,,03/09/21 05:28
+384,CHAURACI (TECHNICENTER),JEAN MARC,VANSTEEGER,730216-01384,rue d'Andenne 19,5370,Havelange,JM.VANSTEEGER@SKYNET.BE,0479493728,Vacciné,1,30/08/21 13:54,31/08/21 06:59,,03/09/21 05:38
+386,CHAURACI (TECHNICENTER),MARTIN,DELFORGE,90.06.04-147.16,"Rue Joseph Wanet, 70",5020,Namur,DELFORGE.CHAUFFAGE@GMAIL.COM,0473663954,Test PCR,1,30/08/21 13:57,31/08/21 06:57,,03/09/21 05:42
+388,FACOZINC DROGENBOS,Alesandro,Falsaperla,95050520130,Rue Victor Gondat,7100,La Louvière,f.d-toiture@outlook.be,0495603467,Test PCR,1,30/08/21 14:15,30/08/21 14:17,,03/09/21 05:04
+389,FACOZINC DROGENBOS,Sylvain,depaepe,94061742118,Rue de la victoire 20/1,7140,Morlanwelz,sylsarah@outlook.be,0477034297,Test PCR,1,30/08/21 14:15,30/08/21 14:24,,03/09/21 05:03
+390,MAPEI BENELUX,Rodolphe,Nicolas,74.01.11-289.69,"39, rue de Priesmont",1495,MARBAIS (BT.),r.nicolas@mapei.be,0475999323,Vacciné,1,30/08/21 14:25,30/08/21 14:29,,03/09/21 05:14
+392,RONVEAUX,Jean-Philippe,DEBATY,75081020955,Gesves,5340,Gesves,jp.debaty@ronveaux.com,0474891848,Vacciné,1,02/09/21 12:21,02/09/21 12:26,,03/09/21 08:39
+393,MTV SERVICES,youri,dogot,82.12.23-123.23,Des Saules 15,6280,Gerpinnes,info@mtvservices.be,32473281631,Vacciné,1,30/08/21 14:31,30/08/21 14:37,,03/09/21 05:56
+394,RONVEAUX,Etienne,GILLARD,65010813527,"Rue du chêne, 42",5590,Ciney,e.gillard@ronveaux.com,32475646554,,1,30/08/21 14:32,30/08/21 21:16,,03/09/21 08:40
+395,MAPEI BENELUX,Raphael,Verset,72052730544,Rue Eugène Gilles,6210,Les Bons Villers,r.verset@mapei.be,0471645353,Vacciné,1,30/08/21 14:32,31/08/21 06:49,,03/09/21 05:14
+396,MTV SERVICES,ernest,dogot,54.11.19-061.95,"Rue des saules, 13",6280,Gerpinnes,ernestdogot@hotmail.com,32475747283,Vacciné,1,30/08/21 14:32,31/08/21 08:01,,03/09/21 07:48
+397,MTV SERVICES,olivier,hospel,76.01.19-303.51,Av. Vanderstock,6001,Charleroi,olivierhospel@hotmail.com,32475423739,Vacciné,1,30/08/21 14:33,31/08/21 10:38,,03/09/21 06:00
+398,Delhaye Axelle Assurances,Claude,Destres,73040615166,La Flache Mahy 3/A,6590,Momignies,destresclaude@skynet.be,0497047784,Vacciné,1,30/08/21 14:48,02/09/21 11:27,,03/09/21 05:18
+399,RONVEAUX,Jean-Baptiste,LANSIVAL,84120521924,Chem. de Rebonmoulin,5590,Ciney,jb.lansival@ronveaux.com,0492279230,Vacciné,1,30/08/21 14:34,02/09/21 10:38,,03/09/21 05:54
+400,MTV SERVICES,gérard,vankrevelen,620707138,2ème avenue 28,6001,Marcinelle,g.vankrevelen@hotmail.be,32477636444,Test PCR,1,30/08/21 14:35,30/08/21 15:03,,03/09/21 05:22
+401,MAPEI BENELUX,Ludovic,Flament,86.11.07-223.92,Rue de la Pirére,1495,Villers-la-Ville,l.flament@mapei.be,0475470523,Vacciné,1,30/08/21 14:35,30/08/21 17:32,,03/09/21 05:14
+402,MTV SERVICES,Lucas,Vankrevelen,592-5293822-31,2eme avenue,6001,Marcinelle,vkvlucas@gmail.com,32470876435,Test PCR,1,30/08/21 14:35,01/09/21 09:53,,03/09/21 05:22
+403,RONVEAUX,Audrey,DENEE,88020915480,Chemin des Pèlerins 29,5504,Foy notre dame,a.denee@ronveaux.com,0493254471,Vacciné,1,30/08/21 14:35,02/09/21 11:25,,03/09/21 06:17
+404,Delhaye Axelle Assurances,Axelle,Delhaye,76032335092,Rue des Sarts,6001,Charleroi,axelle.delhaye@assurancesdelhaye.be,0474044126,Test PCR,1,30/08/21 14:48,30/08/21 14:50,,03/09/21 05:02
+405,RONVEAUX,Martin,LEFEBVRE,90012410307,Ohey,5351,Ohey,m.lefebvre@ronveaux.com,0497587756,Vacciné,1,30/08/21 14:37,30/08/21 16:22,,03/09/21 05:54
+406,Delhaye Axelle Assurances,gregory,Destres,99022833149,La Flache Mahy 3/A,6590,Momignies,destresclaude@skynet.be,0497047784,Vacciné,1,30/08/21 14:49,01/09/21 17:58,,03/09/21 05:17
+407,MAPEI BENELUX,Kevin,Lemeer,93021734545,Chau. de Nivelles,5140,Sombreffe,info@lemeer.be,0496809723,Vacciné,1,30/08/21 14:40,30/08/21 14:53,,03/09/21 05:14
+408,Delhaye Axelle Assurances,Bernard,Bardi,63111413767,Rue Joseph Lefèvre,6030,Charleroi,bernardbardi@skynet.be,0497532150,,,30/08/21 14:49,,,
+409,Delhaye Axelle Assurances,Anthony,Venturella,88121209324,Rte de Namur,5060,Fleurus,info@boubatconcept.be,0487577603,Test PCR,1,30/08/21 14:50,30/08/21 16:44,,03/09/21 06:26
+410,Delhaye Axelle Assurances,Coralie,Rousseaux,84072522067,Rue de Lennery,5650,Walcourt,coralie_rousseaux@hotmail.com,0494273470,Vacciné,1,30/08/21 14:50,31/08/21 06:47,,03/09/21 05:25
+411,Delhaye Axelle Assurances,Yoann,Rousseaux,85.10.20.189.196,Rue Philippe Buchez,5680,Doische,toiturerousseaux@hotmail.com,0493502872,Vacciné,1,30/08/21 14:51,30/08/21 15:41,,03/09/21 05:18
+412,BIAGIO MARIO Terrassements (M. Fragapane),Mario,FRAGAPANE,83013026701,Rue Franklin Roosevelt 14,7100,Trivières,terrassementbiagiomario@yahoo.com,0493119970,,1,30/08/21 14:52,31/08/21 09:40,,03/09/21 05:35
+413,BEMAT,Benoît,Fasbender,4545,Rue Dr Grégoire,7100,La Louvière,b.fasbender@ddv-archi.com,0477244519,Vacciné,1,03/09/21 11:49,03/09/21 11:50,,03/09/21 11:54
+414,MECACIER Biebuyck Lessines,BRUNO,CASSOTTI,74090227719,Rue des Boulois 49,7134,Leval Trahegnies,brunocassotti74@gmail.com,0477303312,Vacciné,1,30/08/21 14:59,30/08/21 15:00,,03/09/21 05:16
+415,DE RO GARAGE,JEAN-GABRIEL,HENIN,96122028551,RUE GRANDE 68,6250,PRESLES,pfhenin@yahoo.fr,0491108149,Vacciné,1,30/08/21 15:02,30/08/21 15:12,,03/09/21 04:59
+416,MECACIER Biebuyck Lessines,CARMELO,DI NATALE,74121015519,CITE EMILE VANDERVELDE 131,7134,RESSAIX,dnc.mbl@skynet.be,0497033597,Vacciné,1,30/08/21 15:02,31/08/21 13:49,,03/09/21 05:56
+417,DE RO GARAGE,mathieu,lefebvre,87111329357,rue des commeres 1,6536,thuillies,mathieu@garagedero.be,0492851703,Vacciné,1,30/08/21 15:05,30/08/21 15:29,,03/09/21 07:59
+418,MECACIER Biebuyck Lessines,MICHAEL,MIKLUSIAK,72062802114,Rue de Vierset 154,7141,Mont-Sainte-Aldegonde,mkm.mbl@skynet.be,0495325971,Vacciné,1,30/08/21 15:07,31/08/21 13:50,,03/09/21 05:25
+419,DE RO GARAGE,gregory,pasquarelli,81120918371,rue albert d arquenne 12,6110,montigny le tilleul,info@pasquarelli.be,0497134623,Vacciné,1,30/08/21 15:07,02/09/21 20:05,,03/09/21 11:41
+420,META SYSTEM,Loïc,Hanut,93101126174,"Rue du Louvroy,",55,Nalinnes,loic@club-immobilier.be,0498591604,Vacciné,1,30/08/21 15:08,30/08/21 15:10,,03/09/21 07:08
+421,MARTENS CUVE SERVICES,thibault,Martens,83092324991,zone - parc industriel A,7181,FELUY,direction@cuve-services.be,0478214756,Vacciné,1,30/08/21 15:39,30/08/21 15:42,,03/09/21 05:42
+422,MARTENS CUVE SERVICES,Jonathan,Davasligil,85070926934,rue du Braicheux 190,7110,maurage,canatandavas@hotmail.com,0494598480,Vacciné,1,30/08/21 15:42,30/08/21 15:43,,03/09/21 05:42
+423,GOBERT MATERIAUX,Martin,Baix,89.12.14-209.63,Av. de Ragnies,6530,Thuin,martin_baix@hotmail.com,32495471233,,1,30/08/21 17:11,30/08/21 17:12,,03/09/21 08:12
+424,Atelier d'Architecture MR - Ricciardone,Luca,RICCIARDONE,000504-365.64,"avenue Emile Herman, 261B",7170,Manage,ricciardone.luca@gmail.com,0496258340,,1,30/08/21 21:29,30/08/21 21:50,,03/09/21 06:02
+425,Atelier d'Architecture MR - Ricciardone,Claudio,SCALZO,77052646321,Rue Belle Fontaine 1,6140,Fontaine-l'Évêque,info@crl-properties.com,0475952254,Vacciné,1,30/08/21 21:30,31/08/21 07:46,,03/09/21 06:02
+426,Atelier d'Architecture MR - Ricciardone,Julien,CHARLIER,,"Rue des Pastures, 20",7130,Binche,juc00@thuin.be,0498496510,,,30/08/21 21:30,,,
+427,Atelier d'Architecture MR - Ricciardone,Serge,DONISI,66.08.24-033.10,Pl. Emile Vandervelde,6061,Charleroi,donisi.architecte@gmail.com,0478278113,Vacciné,1,30/08/21 21:34,31/08/21 07:22,,03/09/21 09:29
+428,Atelier d'Architecture MR - Ricciardone,Matthias,TORO,92.04.22-371.56,Rue de la Portelette,7140,Morlanwelz,matthiastoro@gmail.com,0491087115,Vacciné,1,30/08/21 21:38,30/08/21 21:38,,03/09/21 09:29
+429,Atelier d'Architecture MR - Ricciardone,Agostino,RICCIARDONE,710712-389.15,"avenue Emile Herman, 261B",7170,Manage,mr.architecture@skynet.be,0495230788,Vacciné,1,30/08/21 21:40,31/08/21 07:26,,03/09/21 06:02
+430,LUCLION,AURELIEN,DASSELEER,021028-021.56,"RUE D'ANTHEE, 41",5644,ERMETON-SUR-BIERT,Aureliendasseleer213@gmail.com,0472341668,,1,31/08/21 05:46,31/08/21 05:49,,03/09/21 05:37
+431,VAILLANT (CHAURACI),Serge,Baillon,65042427114,Tige Paquette,4550,Nandrin,serge.baillon@vaillant.com,0475770350,Vacciné,1,31/08/21 06:11,31/08/21 07:54,,03/09/21 06:00
+432,VAILLANT (CHAURACI),Eric,Renier,73103129785,124 route des crêtes,5170,profondeville,eric.renier@matexi.be,0473722046,Vacciné,1,31/08/21 06:13,31/08/21 06:58,,03/09/21 07:51
+433,VAILLANT (CHAURACI),Julie,Moreau,,,,,julie.moreau@matexi.be,,,,31/08/21 06:14,,31/08/21 12:04,
+434,VAILLANT (CHAURACI),Etienne,Delporte,,,,,etienne.delporte@matexi.be,,,,31/08/21 06:15,,31/08/21 06:55,
+435,VAILLANT (CHAURACI),Samuël,Dervilleer,72.08.04-125.62,rue Belle Tête 76,7190,Ecaussinnes,samuel.dervilleer@matexi.be,0471563726,Vacciné,1,31/08/21 06:16,01/09/21 09:20,,03/09/21 06:00
+436,BEMAT,Nathalie,CATTALINI,,,,,nathalie.cattalini@igretec.com,0495305276,,,31/08/21 06:16,,31/08/21 07:05,
+437,VAILLANT (CHAURACI),Kévin,Vaneberg,84120117195,Chaussée de Namur 418/002,5030,Gembloux,kevinvaneberg363@hotmail.com,32491627887,Vacciné,1,31/08/21 06:16,01/09/21 10:34,,03/09/21 05:47
+438,BEMAT,Pierre,Minten,88090948391,"Boulevard Mayence, 1",6000,Charleroi,pierre.minten@igretec.com,071348413,Vacciné,1,31/08/21 06:17,31/08/21 08:15,,03/09/21 11:04
+439,BEMAT,Xavier,DIEPENDAELE,80.10.14-321.39,Rue de Jaunay-Clan,6000,Péruwelz,xavier.diependaele@igretec.com,0494518109,Vacciné,1,31/08/21 06:20,31/08/21 06:25,,03/09/21 05:40
+440,MECACIER Biebuyck Lessines,NANCY,CULOT,85052438041,rue Saint Sang 116/1,7141,Carnières,nanlot2405@hotmail.com,0498499231,Vacciné,1,31/08/21 07:10,31/08/21 07:12,,03/09/21 05:56
+441,B.E.C.F.B.A,Arnaud,DEMARTIN,87.09.12-303.63,Rue Dr Paul Maître,6120,Ham-sur-Heure-Nalinnes,arnaud@f-ba.be,0475328756,Test PCR,1,31/08/21 07:18,31/08/21 07:42,,03/09/21 05:04
+442,B.E.C.F.B.A,pierre,bruyneel,87.11..07-117-25,Rue des Combattants,5621,Hanzinne,pierre@f-ba.be,0489908849,Vacciné,1,31/08/21 07:22,31/08/21 07:45,,03/09/21 05:52
+443,B.E.C.F.B.A,Alberto-Bruno,GRIMAUDO,86.08.05-223.34,Rue Jean-Joseph Piret 53,6280,Gerpinnes,bruno@f-ba.be,0499470339,Vacciné,1,31/08/21 07:24,31/08/21 08:24,,03/09/21 05:51
+444,B.E.C.F.B.A,Amaury,BAIGUERA,92.02.31-299.65,allée des tilleuls,6200,Châtelineau,amaurybaiguera08@hotmail.com,0499297675,Test PCR,1,31/08/21 07:26,31/08/21 08:16,,03/09/21 05:52
+445,FACOZINC DROGENBOS,Giovanni,scamardi,94060217337,Rue de Fontaine,7134,Binche,giovanni.scamardi@outlook.fr,0489287117,Test PCR,1,31/08/21 07:28,01/09/21 07:09,,03/09/21 05:03
+446,B.E.C.F.B.A,Maxime,TIELEMANS,98.06.01-221.06,Rue du Manant,5190,Jemeppe-sur-Sambre,maxtielemans@hotmail.com,0491022872,Vacciné,1,31/08/21 07:28,31/08/21 07:31,,03/09/21 09:50
+447,B.E.C.F.B.A,Malory,VAN DEN NOORTGATE,98.05.15-253.32,Rue Arthur Decoux,6020,Charleroi,malory@f-ba.be,0491121633,Vacciné,1,31/08/21 07:30,31/08/21 08:00,,03/09/21 09:50
+448,KRINKELS,Jérôme,Couez,86030122124,Grand'Route 22 bte O3,7000,Mons,jerome.couez@spw.wallonie.be,32476760890,,1,31/08/21 07:31,31/08/21 08:25,,03/09/21 05:15
+449,B.E.C.F.B.A,Laurence,ELOOT,90.09.05-280.68,Rue Gillard,6043,Charleroi,el-laurence@hotmail.be,0485497782,Vacciné,1,31/08/21 07:32,31/08/21 07:40,,03/09/21 09:46
+450,KRINKELS,Benoît,Cornil,74.01.02-259.78,Chem. Vert 32,6540,Lobbes,benoitmarian@gmail.com,32476996010,Vacciné,1,31/08/21 07:32,31/08/21 08:31,,03/09/21 05:14
+451,KRINKELS,Thibaut,Michel,85.10.18-143.08,Rue de Neufvilles,7870,Montignies Lez Lens,thibaut.michel@krinkels.be,32491378873,Vacciné,1,31/08/21 07:33,31/08/21 07:35,,03/09/21 05:14
+452,B.E.C.F.B.A,Tiffany,LISON,94.08.25-454.50,Rue du vieux moulin 160,5621,Hanzinelle,tiffany.lison@hotmail.be,0497124730,,1,31/08/21 07:35,31/08/21 07:54,,03/09/21 09:46
+453,B.E.C.F.B.A,Frederic,BOCCHINI,75.12.03-171.40,Rue Dandois,6043,Charleroi,bocchini.frederic@gmail.com,0496231197,Vacciné,1,31/08/21 07:38,31/08/21 08:20,,03/09/21 05:25
+454,B.E.C.F.B.A,Maxime,LEONARD,87.01.16-325.59,avenue des écureuils,6110,Montigny-le-tilleul,maximleonard@gmail.com,0492403113,Test PCR,1,31/08/21 07:58,31/08/21 09:39,,
+455,B.E.C.F.B.A,Cevans,VAN KREVELEN,89.08.12-307.94,Rue Try des Marais-7ème Avenue,5651,Walcourt,styletoiture@outlook.be,0476748765,,,31/08/21 08:01,,31/08/21 09:11,
+456,B.E.C.F.B.A,Pierre-Nicolas,HOUYOUX,84.05.04-135.89,Rue des Sept Petites,6120,Ham-sur-Heure-Nalinnes,pnh@50n05e.com,0485720178,Vacciné,1,31/08/21 08:04,31/08/21 18:28,,03/09/21 05:57
+457,VAILLANT (CHAURACI),Alexandre,Marien,91081924387,Rte de Rixensart,1300,Wavre,marienalexandre7@gmail.com,0479570481,,1,31/08/21 08:06,31/08/21 08:08,,03/09/21 06:24
+458,VAILLANT (CHAURACI),Jean-Philippe,Vermeiren,84092618784,Rue de l'Espiniat,1380,Lasne,jpvermeiren@live.be,0486934824,Vacciné,1,31/08/21 08:07,31/08/21 08:09,,03/09/21 06:24
+459,SAGA Mercedes-Benz (Gilly),Damien,Volkaert,88090113993,Rte de la Basse Sambre,6060,Charleroi,damien.volkaert@saga-mercedes-benz.be,32496592202,Vacciné,1,31/08/21 08:30,31/08/21 08:32,,03/09/21 05:21
+460,SAGA Mercedes-Benz (Gilly),Nordin,Sabba,81033024592,Rue des Coulottes,5650,Walcourt,nordin.sabba@saga-mercedes-benz.be,32475714713,Vacciné,1,31/08/21 08:30,31/08/21 20:32,,03/09/21 05:58
+461,SAGA Mercedes-Benz (Gilly),Vincent,Vanbellingen,80030526129,"Rue de Vaux, 14",4317,Faimes,vincent.vanbe@gmail.com,32477822285,Vacciné,1,31/08/21 08:31,31/08/21 08:34,,03/09/21 05:21
+462,SAGA Mercedes-Benz (Gilly),Amelien,Devos,97.12.04-287.65,Rés Dominique,6200,Châtelet,amelien.devos@saga-mercedes-benz.be,32479960413,Vacciné,1,31/08/21 08:32,31/08/21 08:37,,03/09/21 05:13
+463,SAGA Mercedes-Benz (Gilly),Massimo,Hoyaux,92092224523,Rue Emile Rousseau,7170,Manage,massimo.hoyaux@saga-piret.be,32472902801,Vacciné,1,31/08/21 08:33,31/08/21 08:50,,03/09/21 05:16
+464,SAGA Mercedes-Benz (Gilly),Arnaud,Lagaly,79051828791,Rue d'Anderlues,6530,Thuin,arnaud.lagaly@saga-mercedes-benz.be,32477811045,Vacciné,1,31/08/21 08:33,31/08/21 08:37,,03/09/21 06:14
+465,SAGA Mercedes-Benz (Gilly),Regis,Thurmes,81042315511,Liege,,Liège,regis.thurmes@saga-piret.be,324949880,Vacciné,1,31/08/21 08:34,31/08/21 08:39,,03/09/21 06:15
+466,SAGA Mercedes-Benz (Gilly),Thomas,Vanmalder,00052721113,Rue Louis Jasmes,6043,Charleroi,thomas.vanmalder@saga-mercedes-benz.be,32479373851,Vacciné,1,31/08/21 08:36,31/08/21 14:36,,03/09/21 05:12
+467,SAGA Mercedes-Benz (Gilly),Adrien,Stilmant,89021028933,Rue du Bourgmestre Evrard,5060,Sambreville,adrien.stilmant@saga-mercedes-benz.be,32498704946,Vacciné,1,31/08/21 08:37,31/08/21 13:14,,03/09/21 05:03
+468,SAGA Mercedes-Benz (Gilly),Elisa,Leoni,96042427084,"Must Have By Eli, Place du Perron 3/",,,elisa.leoni@saga-mercedes-benz.be,32477677782,,1,31/08/21 08:38,31/08/21 08:40,,03/09/21 05:03
+469,SAGA Mercedes-Benz (Gilly),Ludovic,Torcaso,89071816153,Rue du Cherbois,6001,Charleroi,ludovic.torcaso@saga-mercedes-benz.be,32471252531,Test PCR,1,31/08/21 08:53,31/08/21 09:46,,03/09/21 05:17
+470,"DERBY ""Playoff Charleroi""",Jérôme,Farinaux,88052119588,"Vieux chemin de Wavre, 2a",1380,Lasne,jerome.farinaux@gmail.com,32479414715,,1,31/08/21 09:30,31/08/21 09:34,,03/09/21 05:54
+471,"DERBY ""Playoff Charleroi""",Michael,Motte,70061713591,Rue Bois Planté,5340,Gesves,michael.motte@entaingroup.com,0495589679,Vacciné,1,31/08/21 09:31,31/08/21 09:55,,03/09/21 09:54
+472,"DERBY ""Playoff Charleroi""",Benoit,Petit,82032516552,Rue Grogerie 124,6120,Nalinnes,benoit.petit@entaingroup.com,0474949466,Vacciné,1,31/08/21 09:33,31/08/21 09:34,,03/09/21 06:36
+473,"DERBY ""Playoff Charleroi""",Jeremy,Peclers,85101527167,Av. Felix Lacourt,1390,Grez-Doiceau,peclersjeremy@gmail.com,0477964564,Vacciné,1,31/08/21 09:35,31/08/21 09:37,,03/09/21 06:27
+474,"DERBY ""Playoff Charleroi""",Amandio,Costa Paz,90122146506,Steenbergstraat 12,1160,Hoeilaart,amandiocostapaz@gmail.com,0472444604,Vacciné,1,31/08/21 09:36,03/09/21 05:55,,03/09/21 05:59
+475,GROUP DELRUE,Marijn,Knockaert,81051629390,"rue saint roch, 22",7712,herseaux,mk@groupdelrue.be,32495267611,Vacciné,1,31/08/21 09:40,31/08/21 09:54,,03/09/21 05:27
+476,GROUP DELRUE,GUNNAR,DELRUE,81103114715,rue saint roch,7712,herseaux,mk@groupdelrue.be,32495267611,Vacciné,1,31/08/21 09:41,31/08/21 09:55,,03/09/21 05:27
+477,GROUP DELRUE,DARIO,DUCASTEL,64083017732,rue saint roch,7712,herseaux,mk@groupdelrue.be,32495267611,Vacciné,1,31/08/21 09:42,31/08/21 09:56,,03/09/21 05:27
+478,"DERBY ""Playoff Charleroi""",Brieuc,Verhoeven,860910-301.07,Rue Camille Lemonnier,1050,Ixelles,brieuc.verhoeven@entaingroup.com,0475890384,Vacciné,1,31/08/21 09:45,31/08/21 09:55,,
+479,CR�ER RENOVER CONSTRUIRE,Fabien,Longfils,91.02.02-155.61,Grand Chemin 8,6470,Montbliart,f.longfils@crc-sa.be,0476982198,Vacciné,1,31/08/21 09:58,31/08/21 10:00,,03/09/21 05:38
+480,BEMAT,Arnaud,DUPONT,90.08.02-207.30,Av. Marie-José 206,7134,Ressaix,arnaud.dupont@igretec.com,0499360337,Vacciné,1,31/08/21 10:03,31/08/21 10:05,,03/09/21 11:09
+481,BIAGIO MARIO Terrassements (M. Fragapane),LOGAN,FRAGAPANE,93113033915,rue du Quesnoy 148,7100,Trivières,logan7100@hotmail.com,0497733090,Test PCR,1,31/08/21 10:04,31/08/21 10:05,,03/09/21 05:35
+482,BIAGIO MARIO Terrassements (M. Fragapane),FRANCESCO,BARBA,85103015524,RUE DE NAMUR 150 BTE 22,7134,RESSAIX,barba_francesco@hotmail.com,0495187696,Vacciné,1,31/08/21 10:07,31/08/21 10:09,,03/09/21 05:35
+483,LOUYET,Arnaud,Baudoin,87070609945,"Rue de Mons, 80",6000,Charleroi,arnaud.baudoin@louyet.net.bmw.be,32491085541,Vacciné,1,31/08/21 10:17,31/08/21 10:18,,03/09/21 05:48
+484,LOUYET,Nicolas,Durbecq,76061130929,Rue de Marchienne,6110,Montigny-le-Tilleul,nicolas.durbecq@addvalues.be,32472643813,Vacciné,1,31/08/21 10:20,31/08/21 10:21,,03/09/21 06:07
+485,LOUYET,Olivier,Decuypere,69010309114,Rue de Pernelle,5660,Couvin,info@atelierdecuypere.com,32497494253,Vacciné,1,31/08/21 10:21,31/08/21 10:25,,03/09/21 05:53
+486,LOUYET,Frédéric,Obéléréo,76020435370,24 Rue favauge,5640,Mettet,info@isunsprl.be,32479289768,Vacciné,1,31/08/21 10:22,31/08/21 10:27,,03/09/21 05:31
+487,LOUYET,Maximilien,Van Nuffel,88.11.29-129.53,"La Ganterie, 20",6120,Ham/sur/Heure,maximilien@difilippo.be,32484495070,Vacciné,1,31/08/21 10:23,31/08/21 10:25,,03/09/21 08:14
+488,LOUYET,Mathieu,Malotteau,86090628348,Rue de Mons,6000,Charleroi,matieu.malotteau@louyet.net.bmw.be,32474277981,Vacciné,1,31/08/21 10:24,31/08/21 11:34,,03/09/21 05:43
+489,LOUYET,Thomas,Uyttebroeck,80111726314,"Chée De Chatelineau, 272",6061,Montignies Sur Sambre,thomas@cmosa.be,32488193232,Vacciné,1,31/08/21 10:26,31/08/21 12:50,,03/09/21 05:43
+490,MIGNONE,Mélanie,Lisanti,84050334605,Grensweg 78,1501,Halle,info@lmproject.be,32479547081,Vacciné,1,31/08/21 10:27,02/09/21 05:23,,03/09/21 11:45
+491,MIGNONE,Michael,Rigaux,78010513304,Rue Camille Lemonnier,7100,La Louvière,michael.rigaux@mignone-sa.be,324705689,Vacciné,1,31/08/21 10:28,01/09/21 15:31,,03/09/21 05:16
+492,MIGNONE,Vincenzo,Mignone,81071021373,Grensweg 78,1501,Buizingen,vincenzo.mignone@mignone-sa,32496101072,Test PCR,1,31/08/21 10:28,31/08/21 14:25,,03/09/21 04:40
+493,MIGNONE,Christophe,Claes,80103007301,Rue Édouard Étienne,7090,Braine-le-Comte,Pristofclaes@gmail.com,32470592418,Vacciné,1,31/08/21 10:28,31/08/21 10:30,,03/09/21 05:23
+494,MIGNONE,Sergio,Ricciardone,73.06.01-421.57,"Rue de la Paix, 22",7170,Fayt-Lez-Manage,sergio.ricciardone@skynet.be,32497431414,Vacciné,1,31/08/21 10:29,31/08/21 18:00,,03/09/21 05:23
+495,MIGNONE,Fabio,Dalgal,89082927108,Rue Désiré Sorée,5020,Namur,Fabio.dalgal@mignone-sa.be,32470980986,Vacciné,1,31/08/21 10:29,01/09/21 18:16,,03/09/21 05:21
+496,MIGNONE,Guillaume,Blavier,86022625311,Rue désiré rondeau 15,6200,Châtelineau,guillaume.blavier@mignone-sa.be,0497521975,Vacciné,1,31/08/21 10:29,31/08/21 11:04,,03/09/21 05:21
+497,MIGNONE,Toni,Rodriguez,660604-049-95,Rés du Haut Lieu,7110,La Louvière,toni.rodriguez@mignone-sa.be,32499698868,,1,31/08/21 10:30,31/08/21 10:33,,03/09/21 07:24
+498,GROUP DELRUE,TOM,EECKHOUT,76112702958,"rue saint roch, 22",7712,herseaux,mk@groupdelrue.be,32495267611,Vacciné,1,31/08/21 10:30,31/08/21 10:30,,03/09/21 05:27
+499,GERDAY TRAVAUX,Antoine,Evrard,95112123939,"Rue de la couture,2A",5560,Houyet,aevrard@gerday.be,04995308,,1,31/08/21 10:30,31/08/21 10:31,,03/09/21 06:08
+500,MIGNONE,Ida,Gargano,580322-136-55,Rue neuve 112,7170,Manage,info@mignone-sa.be,32475312324,Vacciné,1,31/08/21 10:30,31/08/21 14:46,,03/09/21 10:38
+501,MIGNONE,Simon,Mosselmans,92051929337,Rue Emile Lessire,5150,Floreffe,simon.mosselmans@mignone-sa.be,32492584834,Vacciné,1,31/08/21 10:30,02/09/21 06:23,,03/09/21 05:30
+502,GERDAY TRAVAUX,Wilmet,omer,83022532701,bonneville,,,owilmet@gerday.be,0478391265,Vacciné,1,31/08/21 10:30,31/08/21 12:17,,03/09/21 06:08
+503,MIGNONE,Pol,Saucez,65071411506,Av. de Landrecies,7170,Manage,pol.saucez@mignone-sa.be,32475620149,Vacciné,1,31/08/21 10:31,01/09/21 18:28,,03/09/21 12:14
+504,MIGNONE,Michele,Clora,79090531593,Rue Hamoir,7100,La Louvière,michele.clora@carre7.com,0497113359,Vacciné,1,31/08/21 10:31,02/09/21 06:39,,03/09/21 05:29
+505,GERDAY TRAVAUX,Neus,Frederic,5.92852E+11,Rue du Trieu Gilson,6280,Gerpinnes,fneus@jk7consulting.com,0499550476,Vacciné,1,31/08/21 10:31,31/08/21 10:33,,03/09/21 06:48
+506,MIGNONE,Philippe,Bellemans,50.09.09-077.87,Rue de Gozée,6110,Montigny-le-Tilleul,architecte.bellemans@skynet.be,32475481236,Vacciné,1,31/08/21 10:31,31/08/21 10:36,,03/09/21 08:35
+507,MIGNONE,Grégory,Moreau,75061415968,Rue du Calvaire 72,6280,Loverval,gm@blow-archi.be,32478459312,Vacciné,1,31/08/21 10:32,31/08/21 13:09,,03/09/21 10:44
+508,MIGNONE,Nicolas,France,78080831176,All. Notre Dame de Grâce,6280,Gerpinnes,nf@blow-archi.be,32497400356,Vacciné,1,01/09/21 19:21,01/09/21 20:09,,03/09/21 11:14
+509,MIGNONE,François Xavier,Noe,84081632545,"Avenue du levant, 4",5030,Gembloux,fxnoe@fally.be,32478568880,Vacciné,1,31/08/21 10:33,02/09/21 07:35,,03/09/21 11:48
+510,MIGNONE,Benoit,Fasbender,,,,,,32477244519,,,31/08/21 10:33,,31/08/21 13:54,
+511,MIGNONE,Stéphane,Mincke,620708 077.64,38 Rue de Condé,7900,Leuze-en-Hainaut,stephane.mincke@skynet.be,32478521733,Vacciné,1,31/08/21 10:33,31/08/21 13:16,,03/09/21 08:18
+512,MIGNONE,François,Castagna,78060918561,"16, Rue Du Château",59600,Villers Sire Nicole,francois.castagna@gmail.com,32495829883,Vacciné,1,31/08/21 10:34,31/08/21 19:22,,
+513,MIGNONE,Alfonso,Collura,81120820579,Rue Joseph Wauters,7170,Manage,alfonso.collura@forem.be,32473475389,Vacciné,1,31/08/21 10:34,31/08/21 12:04,,03/09/21 09:06
+514,MIGNONE,Nicolas,Devue,81081816978,Chaussee De Helmet 317,1030,Bruxelles,nicolas@devue.eu,32479241167,Vacciné,1,31/08/21 10:35,31/08/21 11:01,,03/09/21 05:40
+515,MIGNONE,Patrick,Plees,65080648379,Chem. du Bois de Clabecq 21,1440,Braine-le-Château,patrick.plees@igretec.com,32491346684,Vacciné,1,31/08/21 10:35,02/09/21 11:30,,03/09/21 05:34
+517,MIGNONE,Sébastien,Judicq,82020405113,Rue Balasse,7110,La Louvière,seb.3535@hotmail.be,32498404390,,1,31/08/21 10:36,31/08/21 10:49,,03/09/21 06:29
+518,MIGNONE,Denis,Crohin,85.01.18-033.55,"Rue Gillard, 24",7080,Frameries,crohindenis@gmail.com,32479253533,Vacciné,1,31/08/21 10:36,01/09/21 04:46,,03/09/21 06:25
+519,MIGNONE,Philippe,Dullier,700303-107.33,Charler,6043,Charleroi,ph.dullier@gmail.com,32497442354,Vacciné,1,31/08/21 10:36,31/08/21 15:38,,03/09/21 11:05
+520,MIGNONE,Bérangère,Dumont,740107-132.55,Chau. de Gilly,6043,Charleroi,berengere.dumont1@gmail.com,32495278475,Vacciné,1,31/08/21 10:36,01/09/21 10:41,,03/09/21 11:05
+521,MIGNONE,Maxime,Lalieux,811023-18127,141 rue de marchienne,6110,Montigny-le-Tilleul,mlconstruct@outlook.be,32470238477,Vacciné,1,31/08/21 10:37,01/09/21 11:15,,03/09/21 05:48
+522,MIGNONE,JEAN-FRANÇOIS,Malacort,84020625186,"Albert 1er, 13",6540,Lobbes,malacortjf@hotmail.com,32472234241,Vacciné,1,31/08/21 10:37,31/08/21 14:33,,03/09/21 05:48
+523,MIGNONE,Fabrizio,Luongo,80072847922,Rue Remy,7141,Morlanwelz,fabrizio.luongo@hotmail.com,32497753889,Vacciné,1,31/08/21 10:37,31/08/21 12:09,,03/09/21 09:12
+524,MIGNONE,Vincent,Pirnay,,,,,,32476356955,,,31/08/21 10:38,,,
+525,MIGNONE,Sébastien,Peeters,88022623373,Grand Rue 86,6183,Trazegnies,s.peeters@poly-tech.be,32491562035,Test PCR,1,31/08/21 10:38,31/08/21 12:43,,03/09/21 06:15
+526,MIGNONE,Sébastien,Dedonder,78081030918,"44, rue Bosquet Palette",7100,Haine-Saint-Paul,dedonder.sebastien@gmail.com,324721309,Vacciné,1,31/08/21 10:39,01/09/21 15:49,,03/09/21 05:49
+527,BEMAT,Michael,Stas,72.09.07-025.79,Rue de l'Espenne,5651,Somzée,m.stas@swl.be,32476875887,Vacciné,1,31/08/21 10:46,31/08/21 11:56,,03/09/21 10:10
+528,Eternit NV,Farid,Rabia,77041016912,Rue Jean Sonet 23/4,5032,Isnes,f.rabia@qbrik.be,32474786530,Vacciné,1,31/08/21 10:49,31/08/21 10:56,,03/09/21 05:51
+529,MIGNONE,Jonathan,Rucquoy,85110209162,Rue du Warchais,6210,Les Bons Villers,jonathan.rucquoy@gmail.com,32474450708,Vacciné,1,31/08/21 11:14,31/08/21 11:54,,03/09/21 08:48
+530,INDA spa,FABRICE,DEMEYER,76.06.04-243.14,Konrad adenauerwijk 7,1932,Zaventem,fabrice.demeyer@inda.net,0493604747,Vacciné,1,31/08/21 11:23,31/08/21 11:25,,03/09/21 05:59
+531,INDA spa,David,Humeniuk,71.03.25-007-76,Rue d'Anderlues 52,7141,Carnieres,david.humeniuk@delzelle.be,0497647673,Vacciné,1,31/08/21 11:30,31/08/21 15:46,,03/09/21 05:48
+532,INDA spa,AUDREY,THIBAUT,82.04.18-001.03,Rue Armand Bury,6534,Thuin,audrey.thibaut@inda.net,0472174710,Vacciné,1,31/08/21 11:32,31/08/21 11:34,,03/09/21 08:29
+533,BIAGIO MARIO Terrassements (M. Fragapane),BIAGIO,FRAGAPANE,68070203326,RUE DE LA PRAIRIE 2,7170,MANAGE,terrassementbiagiomario@yahoo.com,0497367813,Vacciné,1,31/08/21 11:41,31/08/21 11:44,,03/09/21 05:39
+534,WEB,George,WAGNER,98090324540,All. des Peupliers,6280,Gerpinnes,george-w@live.be,0498900220,,1,31/08/21 11:54,31/08/21 11:56,,03/09/21 05:55
+535,WEB,François,TIROU,70.07.11-381.32,rue Crollé,,,Ft@francoistirou.be,0496274157,,1,31/08/21 13:17,31/08/21 13:33,,03/09/21 06:08
+536,WEB,Pierre,HIGUET,72100200364,Rue Beaurin et Jonet 28,6220,Fleurus,finance@wagner-groupe.com,04989253,Vacciné,1,31/08/21 11:54,31/08/21 11:59,,03/09/21 05:52
+537,WEB,David,ROUSSEL,80050233163,Rue Tayant 33b,6043,Ransart,contact@davidroussel.be,0477863197,Vacciné,1,31/08/21 11:54,31/08/21 11:57,,03/09/21 05:11
+538,WEB,Julien,TRICOT,90081424718,Rue praile,6120,Nalinnes,julientricot7@gmail.com,0492595980,Test PCR,1,31/08/21 11:54,31/08/21 11:59,,03/09/21 05:37
+539,CENTRAL PNEU (Q TEAM),steve,gillain,88101712720,Rue J.-B. Loriaux,6210,Les Bons Villers,stevegillain@gmail.com,32496599091,Vacciné,1,31/08/21 11:58,31/08/21 11:59,,03/09/21 07:38
+540,CENTRAL PNEU (Q TEAM),didier,ligot,72.06.08-249.95,Chem. de la Font Lagasse,5650,Walcourt,ktm-300@outlook.com,32474372710,Test PCR,1,31/08/21 12:00,01/09/21 10:19,,03/09/21 05:17
+541,CENTRAL PNEU (Q TEAM),Jérémy,Fayt,96092629930,Chemin de Florenchamps 80,6120,Marbaix-la-Tour,jeremy-fayt@hotmail.be,0492276210,Vacciné,1,01/09/21 13:55,01/09/21 14:03,,03/09/21 05:23
+542,CENTRAL PNEU (Q TEAM),mathias,fayt,7.61126E+11,Rue de la Mardouille,6032,Charleroi,mathiasfayt@hotmail.com,32498920189,Vacciné,1,01/09/21 12:21,02/09/21 05:57,,03/09/21 06:25
+543,CENTRAL PNEU (Q TEAM),GREGORY,DEMANET,84020824928,"rue bourgogne, 5",6120,marbaix,gregory.demanet@qteam.be,32496597341,Vacciné,1,31/08/21 12:05,31/08/21 12:07,,03/09/21 05:12
+544,HUPE sprl,Guy,HUPE,55111109927,Rue de la Croisette 36,6221,Saint-Amand,guy@hupe.be,0475608901,Vacciné,1,31/08/21 12:11,01/09/21 06:43,,03/09/21 08:09
+545,HUPE sprl,Damien,HUPE,80090131540,"Rue de la Croisette, 26",6221,Saint-Amand,damienhupe@gmail.com,32477780801,Vacciné,1,31/08/21 12:12,01/09/21 07:38,,03/09/21 05:48
+546,HUPE sprl,Freddy,CLAVERIE,81092636339,"1, Rue de la Ganterie",6120,Ham Sur Heure,freddy@hupe.be,32472275792,Test PCR,1,31/08/21 12:14,31/08/21 13:04,,03/09/21 09:22
+547,HUPE sprl,Thomas,APRILE,86032827335,Rue Albert Plennevaux 29,7181,Arquennes,thomas@hupe.be,32486474336,Vacciné,1,31/08/21 12:16,01/09/21 07:04,,03/09/21 04:58
+548,HUPE sprl,Joseph,Scatola,64021715910,"Quartier Joseph Gailly, 4",6060,Gilly,Josephscatola@gmail.com,32478457554,Vacciné,1,31/08/21 12:17,31/08/21 12:20,,03/09/21 04:59
+549,WEB,Victor,Wagner,93071209394,"Avenue Jean Mermoz 29, B",6041,Gosselies,victor@wagner-groupe.com,0498900200,Vacciné,1,31/08/21 12:20,31/08/21 12:22,,03/09/21 05:12
+550,COLAS Belgium Agence Sud Ouest,Hugo,Jaszczuk,,,,,hugo.jaszczuk@colas.be,32486298182,,,31/08/21 12:39,,,
+551,POMPES FUNEBRES FONTAINE,DENIS,FONTAINE,J,"rue les acquois,, 4,",5651,tarcienne,df@funerariumfontaine.be,0475236428,Vacciné,1,31/08/21 12:44,31/08/21 12:45,,03/09/21 05:24
+552,POMPES FUNEBRES FONTAINE,BENJAMIN,FONTAINE BENJAMIN,F,Chau. de Lodelinsart,6060,Charleroi,bf@funerariumfontaine.be,0495541010,Vacciné,1,31/08/21 12:47,31/08/21 12:49,,03/09/21 04:38
+553,POMPES FUNEBRES FONTAINE,DEBORAH,FONTAINE,62121602409,Gerpinnes,6280,Gerpinnes,debobo@live.be,0495231234,,1,31/08/21 12:50,31/08/21 13:00,,
+554,POMPES FUNEBRES FONTAINE,PASCAL,DEVRIES,69061938155,Rue grande 8,6250,Presles,dvpgsm@gmail.com,0476428021,Test PCR,1,01/09/21 12:53,01/09/21 12:55,,03/09/21 04:40
+555,POMPES FUNEBRES FONTAINE,Isabelle,Lo-Iacono,75011403263,21 rue du Bois,5060,Tamines,isaloiacono@yahoo.fr,0471622619,Test PCR,1,31/08/21 12:52,02/09/21 17:33,,
+556,POMPES FUNEBRES FONTAINE,REGIS,KALUT,72082825585,Fontenelle 6,1350,Marilles,regis@kalut.be,0475778650,Vacciné,1,31/08/21 12:54,31/08/21 13:10,,03/09/21 05:40
+557,POMPES FUNEBRES FONTAINE,VALERIE,VANDERHOFSTADT,,,,,,0478781817,,,31/08/21 12:55,,,
+558,POMPES FUNEBRES FONTAINE,PASCAL,BILLEMONT,73082039116,Rue Du Bucq 16,7090,Steenkerque,pascalbillemont@hotmail.com,0474951243,Vacciné,1,31/08/21 12:55,31/08/21 12:58,,03/09/21 06:00
+559,POMPES FUNEBRES FONTAINE,VALERY,MARECHAL GERMAY,79021523122,Rue moulin à vent 51,4340,Awans,marval79215@hotmail.com,0477584940,Vacciné,1,31/08/21 12:56,31/08/21 13:22,,03/09/21 06:16
+560,POMPES FUNEBRES FONTAINE,Laetitia,RADOUX,80041027071,Rue moulin à vent n 51,4340,Awans,marval79215@hotmail.com,32479442105,Vacciné,1,31/08/21 12:56,31/08/21 13:02,,03/09/21 06:17
+561,POMPES FUNEBRES FONTAINE,Patricia,Vanderlinden,62071731640,Antwerpsesteenweg 127,2800,Mechelen,patyvdl1@gmail.com,0475745216,Vacciné,1,03/09/21 05:27,03/09/21 05:28,,03/09/21 05:29
+562,POMPES FUNEBRES FONTAINE,PHILIPPE,WALLAERT,,,,,,0495910229,,,31/08/21 13:01,,,
+563,AD SERVICES,Laura,Requin,94102629695,Rue de Lustin,5330,Assesse,laurarqn@yahoo.com,0474496637,Vacciné,1,31/08/21 13:04,31/08/21 13:05,,03/09/21 05:44
+564,AD SERVICES,Burak,Cengiz,95.05.09-271.34,Rue des Damzelles,6001,Charleroi,laurarqn@yahoo.com,0487374949,Vacciné,1,31/08/21 13:06,31/08/21 19:42,,03/09/21 05:44
+565,AD SERVICES,Arnaud,Druet,97061529771,Courcell,6180,Courcelles,laurarqn@yahoo.com,0479311587,Test PCR,1,01/09/21 11:51,01/09/21 12:27,,03/09/21 05:44
+566,DURANT & FILS,ETIENNE,DURANT,61101608312,Chaussée de Thuin 71A/32,6032,MONT SUR MARCHIENNE,etienne@assurances-durant.be,0475724216,Vacciné,1,31/08/21 13:08,31/08/21 13:15,,03/09/21 05:51
+567,AD SERVICES,Denis,Ally,85081935939,Rue Wilmus 38,6180,Courcelles,denis@adservices.be,0471306881,Vacciné,1,31/08/21 13:08,31/08/21 16:23,,03/09/21 06:05
+568,DURANT & FILS,Thomas,DURANT,87110924927,"Rue du Faubourg, 111",6110,Montigny-le-Tilleul,thomas@assurances-durant.be,32477628161,Test PCR,1,31/08/21 13:09,31/08/21 13:12,,03/09/21 05:49
+569,DURANT & FILS,François,GALLOY,87.10.03-107.51,Rue du Cimetière,6120,Ham-sur-Heure-Nalinnes,francois.galloy@gmail.com,0496691908,Vacciné,1,31/08/21 13:10,31/08/21 13:28,,03/09/21 05:49
+570,DURANT & FILS,Guillaume,CHAMBEAU,90030940968,Rue de Jamioulx,6110,Montigny-le-Tilleul,gchambeau@gmail.com,0472560112,Vacciné,1,31/08/21 13:10,31/08/21 13:31,,03/09/21 05:49
+571,AD SERVICES,Emilien,Denisty,89121118184,Rue Jean Duvie,6210,Frasnes-Lez-Gosselies,emilien.denisty@tvhequipment.com,0474565558,,1,31/08/21 13:10,31/08/21 13:13,,03/09/21 11:57
+572,AD SERVICES,Dimitri,Willame,89112235162,Rue Saint Anne 43,6560,Montignies Saint Christophe,dimitri@loiseletsg.be,0476520044,Vacciné,1,31/08/21 13:11,31/08/21 13:13,,03/09/21 09:29
+573,POMPES FUNEBRES FONTAINE,ROGER,SCHOLL,,,,,,0497057320,,,31/08/21 13:12,,,
+574,DURANT & FILS,Denis,TELLIER,59.01.21-111.20,RUE D ACOZ 87,6120,Nalinnes,d.tellier@charleroi-airport.com,0475678646,,1,31/08/21 13:12,31/08/21 13:49,,03/09/21 05:51
+575,DURANT & FILS,thierry,henrot,331166 119 90,"RUE DU BOIS, 16",5651,TARCIENNE,thierry.henrot@skynet.be,32474505337,Vacciné,1,31/08/21 13:13,31/08/21 13:17,,03/09/21 05:51
+576,AD SERVICES,Didier,Buttignol,62.01.18-155.32,Rue des Monts,5660,Couvin,info@buttignolsprl.be,0475436991,Vacciné,1,31/08/21 13:15,31/08/21 14:58,,03/09/21 10:03
+577,AD SERVICES,Nicolas,Augustyniak,720418 335 83,Rue du Moulin 46,6181,Gouy-Lez-Pieton,nicolasaugustyniak@gmail.com,0497175405,Vacciné,1,31/08/21 13:33,31/08/21 13:35,,
+578,AD SERVICES,Pascal,Serry,407-30,Rue de Scoumont,6230,Pont-à-Celles,info@travapac.be,0476845546,Vacciné,1,03/09/21 12:06,03/09/21 12:07,,03/09/21 12:08
+579,FACOZINC DROGENBOS,Fred,Maniet,750926,Rue du château du fay,5140,Sombreffe,frederic.maniet@mbconcept.be,0496106759,Vacciné,1,03/09/21 09:39,03/09/21 09:41,,03/09/21 09:41
+580,BULEX (SAUNIER DUVAL),Frédéric,Mathoul,IDBEL592013984,Golden Hopestraat 15,1620,Drogenbos,frederic.mathoul@bulex.be,0486133327,Vacciné,1,31/08/21 13:55,31/08/21 14:44,,03/09/21 05:24
+581,BULEX (SAUNIER DUVAL),Fabrice,Wilmotte,730717-23363,Rue Pont de Bois 12,5651,Walcourt,fwi@bulex.com,0486133313,Test PCR,1,31/08/21 13:55,31/08/21 13:58,,03/09/21 04:53
+582,BULEX (SAUNIER DUVAL),Vincent,Kowalczyk,66.12.06-061.65,Chau. de Nivelles,7181,Seneffe,vincent.kowalczyk@teenconsulting.be,0499989551,Vacciné,1,31/08/21 14:00,31/08/21 15:20,,03/09/21 06:04
+583,BULEX (SAUNIER DUVAL),Fabrice,Bayot,66.08.03-163.25,"Rue Bois Delville, 14 à 61211 Landelies",,,fba@ces-web.be,0474629098,Vacciné,1,31/08/21 14:02,31/08/21 14:07,,03/09/21 05:47
+584,BULEX (SAUNIER DUVAL),Romuald,Gualducci,75033110576,6bte3 route de LLN,5001,Belgrade,r.gualducci@aadg.be,0472584913,Vacciné,1,31/08/21 14:03,31/08/21 14:06,,03/09/21 07:08
+585,BULEX (SAUNIER DUVAL),Francois Xavier,Dehombreux,91073147966,Rue de Pâturages,7041,Quévy,atelier@plan7.be,0475304351,Vacciné,1,31/08/21 14:05,01/09/21 06:40,,03/09/21 05:41
+586,BULEX (SAUNIER DUVAL),Sandro,Dorini,750821,Rue de l'Argilette,6183,Courcelles,dorini.sandro@temperatureideale.be,0475863329,,1,31/08/21 14:07,01/09/21 07:43,,03/09/21 07:22
+587,BULEX (SAUNIER DUVAL),Ludovic,Dorini,800731,Rue de Amérique 5,6120,Ham Sur Heure,dorini.ludovic@temperatureideale.be,0476583450,Vacciné,1,31/08/21 14:09,31/08/21 18:38,,03/09/21 05:03
+588,POMPES FUNEBRES FONTAINE,PIERRE,HERINNE,68090913321,Rue du Couvent 8,6220,Fleurus,pierreherinne@gmx.com,0488662537,Vacciné,1,31/08/21 14:11,31/08/21 14:54,,03/09/21 05:33
+589,BULEX (SAUNIER DUVAL),David,Bourgeois,73071121171,Rte de Philippeville,6010,Charleroi,d.bourgeois@sbmi.be,0483682609,Vacciné,1,31/08/21 14:11,31/08/21 14:48,,03/09/21 05:08
+590,POMPES FUNEBRES FONTAINE,NICOLAS,FORET,78032339985,Rue Hublette,6120,Ham-sur-Heure-Nalinnes,sp.nico@hotmail.com,0473846922,Vacciné,1,31/08/21 14:11,31/08/21 14:15,,03/09/21 05:09
+591,TECTUM DEKKERS SUD,Yves,Bancu,,,,,yba@tectumdekkerssud.be,0470247846,,,31/08/21 14:18,,,
+592,TECTUM DEKKERS SUD,Denis,Jacobs,71021619356,Rue Chant des oiseaux 40,5651,Tarcienne,denis.jacobs@tectumdekkerssud.be,0471840596,Vacciné,1,31/08/21 14:20,01/09/21 05:06,,03/09/21 05:37
+593,TECTUM DEKKERS SUD,Koen,Mangelschots,,,,,kma@tectumgroup.be,0475983714,,,31/08/21 14:21,,,
+594,TECTUM DEKKERS SUD,Yves,Biesmans,Rrr,Yy,28840,Pori,ybi@tectumgroup.be,0477555568,Vacciné,1,03/09/21 05:35,03/09/21 05:36,,03/09/21 05:38
+595,SOTRELCO,Angelo,ALONGI,77.02.23-235.27,rue de la croix du maieur 1,7110,STREPY BRACQUEGNIES,aal@sotrelco.com,32497476651,Vacciné,1,31/08/21 14:22,31/08/21 14:35,,03/09/21 05:35
+596,SOTRELCO,Alessandro,ALONGI,83.10.30-085.52,"Rue bois des râves, 140",7110,Houdeng-Goegnies,aax@sotrelco.com,32497476660,Vacciné,1,31/08/21 14:23,31/08/21 14:28,,03/09/21 05:09
+597,SOTRELCO,Audric,CORNEZ,87070231546,Rue des Grands Bureaux,7134,Binche,aco@sotrelco.com,32499640498,,1,31/08/21 14:25,31/08/21 14:51,,03/09/21 05:35
+598,SOTRELCO,Vincenzo,DI BENNARDO,90.09.27-127.46,Rue de la colline 45,7160,Chapelle-lez-Herlaimont,vincedb_27@hotmail.com,0499929874,Vacciné,1,31/08/21 14:26,02/09/21 06:41,,03/09/21 05:35
+599,SOTRELCO,Eric,RUMEL,456,Rue du Pont Canal,,Bergen,eric.rummel@rplus.archi,32477672573,Vacciné,1,31/08/21 14:28,03/09/21 12:44,,03/09/21 12:45
+600,WEB,MICHEL,CRESTANI,67.01.26-103.46,"Rue du Louvroy, 43",6120,Nalinnes,m.crestani@metal-concept-stabilite.be,32488222012,Vacciné,1,31/08/21 14:30,31/08/21 14:32,,
+601,SOTRELCO,Cosimo,MONTEROSO,Belge,Rue de st Symphorien,7021,Havre,mc@monte.60.be,0477886564,Vacciné,1,03/09/21 05:26,03/09/21 05:29,,03/09/21 05:32
+602,SOTRELCO,Gaetan,MAUCERI,,,,,magiccontainer@gmail.com,32475741312,,,31/08/21 14:32,,,
+603,SOTRELCO,Emmanuel,FRANC,74091228502,"rue de Sairue, 28",7350,THULIN,emmanuel.franc@eiffage.com,0473643168,Vacciné,1,31/08/21 14:34,31/08/21 19:01,,03/09/21 05:25
+604,CARROCHAPE DESIGN,Mario,Alaimo,84081826545,Rue Saint Hubert 38/c,7170,Manage,info@carrochapedesign.be,0498471449,Test PCR,1,01/09/21 15:28,01/09/21 15:35,,03/09/21 05:41
+605,CARROCHAPE DESIGN,alexandre,cernero,87070508985,Rue de Lisseroeulx 9c,7120,Estinnes,info@carrochapedesign.be,0497265567,Vacciné,1,01/09/21 15:28,01/09/21 17:07,,03/09/21 05:47
+606,CARROCHAPE DESIGN,Gioachino,Incardona,82031405705,Rue Emile Cornez,7100,La Louvière,info@carrochapedesign.be,0496600052,Vacciné,1,02/09/21 15:30,02/09/21 15:32,,03/09/21 07:23
+607,CARROCHAPE DESIGN,Michael,Magheritina,84082439526,Rue Saint Hubert 38/c,7170,Manage,info@carrochapedesign.be,0498623289,Vacciné,1,31/08/21 15:03,31/08/21 15:04,,03/09/21 05:41
+608,LA BARRIQUE,Laurent,Lambert,72022120314,Rue Alfred Thiébaut,6280,Gerpinnes,laurent.lambert@live.be,0478541520,Test PCR,1,03/09/21 08:55,03/09/21 08:57,,03/09/21 08:58
+610,MICHAUX ,jean-luc,Michaux,60101216133,rue Sifride Demoulin 2,6240,FARCIENNES,jl@jlmichaux.eu,32486432643,Vacciné,1,31/08/21 16:38,31/08/21 16:39,,03/09/21 12:57
+611,MICHAUX ,ANTOINE,SACRE,03011500334,50 Tarcienne,6280,Gerpinnes,antoinesacre67@gmail.com,0488924279,Test PCR,1,31/08/21 16:41,01/09/21 17:18,,03/09/21 05:59
+612,MICHAUX ,ALEXANDRE,SACRE,01082209332,Rue de Tarcienne,5651,Gerpinnes,alexandreloroless@gmail.com,0487574414,Test PCR,1,31/08/21 16:42,02/09/21 18:30,,03/09/21 06:01
+613,IACI (Table WEB),Ludovic,Coulon,82030829346,Mont sur,6032,Charleroi,lcoulon@iaci.be,0495574052,Vacciné,1,31/08/21 17:11,31/08/21 17:13,,03/09/21 09:42
+614,IACI (Table WEB),Aurelie,Vanderbeck,87101215623,Rue Rossignol,6032,Charleroi,secretariat@iaci.be,0479688214,Vacciné,1,31/08/21 17:12,01/09/21 08:32,,03/09/21 11:45
+615,LA BARRIQUE,FRANCOIS,Liesse,74080720333,Drève des charmes 2,6280,Gerpinnes,francoisliesse@icloud.com,0475613306,Vacciné,1,31/08/21 17:43,31/08/21 17:45,,03/09/21 06:33
+616,LA BARRIQUE,Julien,Rossini,98060926117,Rue des Sarrazins,6043,Charleroi,jrace167@gmail.com,0487544820,Test PCR,1,31/08/21 18:36,31/08/21 18:39,,03/09/21 05:36
+617,WANTY/ICM,Fabian,Masset,5.92665E+11,Rue du Ctre,5640,Mettet,masset.f@icm-sa.be,0479729995,,1,31/08/21 19:00,01/09/21 08:07,,03/09/21 07:46
+618,WANTY/ICM,Nicolas,Masset,81112922997,Rle Cadet,5640,Mettet,masset.n@icm-sa.be,0476439977,Vacciné,1,31/08/21 19:00,01/09/21 05:57,,03/09/21 05:59
+619,WANTY/ICM,Remy,Chatel,91.04.09-295.16,"Rue Minière aux Chevaux, 2",6250,Aiseau-Presles,chatel@icm-sa.be,0498471703,Vacciné,1,31/08/21 19:01,01/09/21 06:35,,03/09/21 10:59
+620,WANTY/ICM,Nicolas,Pellizzaro,81091707911,Rue du Loret,5640,Mettet,pelli@icm-sa.be,0477960023,Vacciné,1,31/08/21 19:01,31/08/21 19:07,,03/09/21 05:49
+621,MIGNONE,Fabien,Collart,76.07.25-027.92,Rue de Gougnies 15A,5640,Mettet,Fab.collart@gmail.com,0474322166,Vacciné,1,01/09/21 04:28,01/09/21 05:29,,03/09/21 05:26
+622,"DERBY ""Playoff Charleroi""",Nouria,El hachloufi,,,,,elhanouria@gmail.com,0488307567,,,01/09/21 06:09,,,
+623,"DERBY ""Playoff Charleroi""",Nouria,El hachloufi,89031247038,Termolenhoflaan 58,1731,Asse,elhanouria@gmail.com,0488307567,Vacciné,1,01/09/21 06:09,01/09/21 19:58,,03/09/21 10:12
+624,"DERBY ""Playoff Charleroi""",Yannik,Bellefroid,,,,,yannik.bellefroid@entaingroup.com,0495589668,,,01/09/21 06:20,,,
+625,LAURENT ATELIER,Marie,Schiavon,91.02.01-284.59,Chau. de Nivelles,6230,Viesville,schiavon.marie@outlook.fr,0494949900,Vacciné,1,01/09/21 06:26,01/09/21 07:30,,
+626,LAURENT ATELIER,Nicolas,Gerini,86.11.28-393.68,"54, Chaussée de Nivelles",6230,Viesville,n.gerini@gmail.com,0493569683,Vacciné,1,01/09/21 06:26,01/09/21 07:03,,03/09/21 05:32
+627,SYSTEMAIR,Henri,Uhlenbrock,80071318191,"rue Jules Antheunis, 48",7030,St Symphorien,Uhlenbrockhenri@froid-elec.be,0474227659,Vacciné,1,01/09/21 07:06,01/09/21 17:18,,03/09/21 05:47
+628,SOTRELCO,Sergio,SPOTO,74031509758,Rue des Haignies,7140,Morlanwelz,s.spoto@centrhabitat.be,32477770734,Vacciné,1,01/09/21 07:48,01/09/21 08:01,,03/09/21 11:11
+629,SOTRELCO,Pol,BRUXELMANE,66083121704,Rue Samiette 130,1400,Nivelles,pol.bruxelmane@gmail.com,32495504427,Vacciné,1,01/09/21 07:49,01/09/21 08:31,,03/09/21 09:53
+630,SOTRELCO,Rémy,CUIGNET,09.01.10-341.92,Pl. de la Grande Pêcherie,7000,Mons,rc@as-a.be,32495710193,,1,01/09/21 07:51,01/09/21 10:56,,03/09/21 05:39
+631,LAURENT ATELIER,Pierre-René,Anthoine,92.07.08-149.40,R. Léo Darton 56,6030,Charleroi,anthoine.pr@hotmail.com,0492851960,Vacciné,1,01/09/21 08:00,01/09/21 08:34,,03/09/21 05:48
+632,"DERBY ""Playoff Charleroi""",Roberto,Marchegianno,73.05.10-295.03,Avenue de l Europe 13,6031,Charleroi,Info@mgr-group.be,0475273707,Vacciné,1,01/09/21 08:04,01/09/21 08:07,,03/09/21 06:29
+633,DIFRA CONSTRUCT,Salvatore,BOSCO,76112338120,Rés Bel Air,6200,Châtelet,sbcarrelage@live.be,0474313858,Vacciné,1,01/09/21 08:33,01/09/21 09:58,,03/09/21 05:55
+634,GEBERIT,Fabian,Vignery,71091509737,rue de Piéton 364,6141,Forchies-la-Marche,fabian.vignery@geberit.com,32475602294,Vacciné,1,01/09/21 08:24,01/09/21 08:45,,03/09/21 05:20
+635,GEBERIT,Nicolas,Gouthière,84120423538,Rue de la Tour Carrée 354b,5300,Andenne,nge@outlook.be,32473591088,Vacciné,1,01/09/21 08:26,01/09/21 08:27,,03/09/21 05:20
+636,GEBERIT,Jean-Charles,Pype,90.11.05-407.52,Rue des Monts 35,7331,Saint-Ghislain,is.stabilite@gmail.com,32496372048,Vacciné,1,01/09/21 08:27,01/09/21 12:07,,03/09/21 05:20
+637,DIFRA CONSTRUCT,François,DUVIVIER,5.92064E+11,rue de tarcienne,6280,-,info@mapiscine.be,0476991572,Vacciné,1,01/09/21 08:33,03/09/21 04:59,,03/09/21 06:01
+638,DIFRA CONSTRUCT,Francesco,FRAGAPANE,71031800990,"Résidence Bel-Air, 122",6200,CHATELINEAU,difraconstruct@hotmail.com,0497532150,Test PCR,1,01/09/21 08:35,01/09/21 08:38,,03/09/21 09:23
+639,FENTRA by Ch�ssis Lux,GERALD,DETHIER,80111229733,Chem. de Flory Champ,6860,Léglise,gdethier@fentra.lu,0497864494,Vacciné,1,01/09/21 08:45,01/09/21 08:52,,03/09/21 05:45
+640,FENTRA by Ch�ssis Lux,Michael,Bodet,89.02.22-179.74,Rue des Rives,5555,Bièvre,mbodet@fentra.lu,00352621426825,Vacciné,1,01/09/21 08:48,02/09/21 06:14,,03/09/21 05:45
+641,FENTRA by Ch�ssis Lux,Geoffrey,Bastin,91072227159,Rue des Champs Morais,6880,Bertrix,lclementz@fentra.lu,3.52622E+11,Test PCR,1,01/09/21 08:49,01/09/21 20:37,,03/09/21 05:46
+642,JORDAN,Johanne,DUSART,67091905470,Cité Guemene Penfao,6180,Courcelles,j.dusart@groupejordan.be,0495366627,Vacciné,1,01/09/21 08:53,01/09/21 12:04,,03/09/21 11:18
+643,JORDAN,Johan,GRELAK,77.06.18-061.88,Rue Trieu l'Abbé,5651,Walcourt,j.grelak@groupejordan.be,0499532102,Vacciné,1,01/09/21 08:54,02/09/21 09:01,,
+644,FENTRA by Ch�ssis Lux,Nicolas,Fontenelle,060108101138,Rue Jean François Clouet,08000,Charleville-Mézières,lclementz@fentra.lu,33679137625,Test PCR,1,01/09/21 08:56,02/09/21 06:59,,03/09/21 05:46
+645,FENTRA by Ch�ssis Lux,laurent,clementz,83031714740,ruelles 29,6880,auby-sur-semois,lclementz@fentra.lu,0473786945,Vacciné,1,01/09/21 09:00,01/09/21 09:29,,03/09/21 05:45
+646,FENTRA by Ch�ssis Lux,Lizzy,Nélisse,86021024217,Ruelles 29,6889,Auby sur semois,lnelisse@fentra.be,0495430310,Vacciné,1,01/09/21 09:02,01/09/21 09:06,,03/09/21 05:45
+647,FRAGAPANE EGOUTTAGE,Adriano,Fragapane,78091821433,Rue César,7100,Manage,egouttagefragapane@hotmail.com,04882477,Vacciné,1,01/09/21 10:19,01/09/21 13:02,,03/09/21 05:41
+648,FRAGAPANE EGOUTTAGE,Samy,La Paglia,95.09.02-285.64,All. des Bouleaux,7140,Morlanwelz,samy@egouttage-fragapane.be,04736506,Vacciné,1,01/09/21 10:19,01/09/21 13:10,,03/09/21 05:39
+649,FRAGAPANE EGOUTTAGE,Dale,Carlier,88011315153,"Rue de la Paix, 81",7160,Chapelle-lez-Herlaimont,carlierdale@msn.com,0491640249,,1,01/09/21 10:19,01/09/21 12:58,,03/09/21 05:36
+650,FRAGAPANE EGOUTTAGE,Alexandre,Maricot,95052644331,Av. Montesquieu,1300,Wavre,maricot.alexandre@gmail.com,0475264769,Test PCR,1,01/09/21 10:19,01/09/21 13:24,,03/09/21 05:36
+651,FRAGAPANE EGOUTTAGE,Gaspare,raneli,82032651758,Rue Gustave Boël,7100,La Louvière,raneli.gaspare@gmail.com,0492658652,Vacciné,1,01/09/21 10:19,01/09/21 14:58,,03/09/21 05:39
+652,FENTRA by Ch�ssis Lux,Thibaut,Lorin,34345670,Grande rue 3,08210,Euilly,t.lorin@hotmail.fr,0033619351847,Vacciné,1,03/09/21 05:54,03/09/21 05:55,,03/09/21 05:56
+653,FENTRA by Ch�ssis Lux,Amandine,Pirson,89090139255,Voie du Corêt 4a,6833,Bouillon,apirson@fentra.be,0472612015,Vacciné,1,01/09/21 09:15,01/09/21 09:23,,03/09/21 05:45
+654,FENTRA by Ch�ssis Lux,John,Englebert,77.04.06-201.03,Rue de Wacomont,6870,Saint-Hubert,lclementz@fentra.lu,0497268461,Vacciné,1,01/09/21 09:16,02/09/21 18:35,,03/09/21 05:54
+655,FENTRA by Ch�ssis Lux,Renaud,Wouters,62.01.31_205.77,Rue de la Baume,4040,Herstal,jlosystems@gmail.com,0476296671,,1,01/09/21 09:18,01/09/21 10:13,,03/09/21 06:17
+656,FENTRA by Ch�ssis Lux,Ophelie,Wouters,99.08.05-336.97,Rue de la Baume 49,4040,Herstal,jlosystems@gmail.com,0472544286,Test PCR,1,01/09/21 09:20,01/09/21 17:17,,03/09/21 05:47
+657,FENTRA by Ch�ssis Lux,Ria,Paulussen,70032615670,Rue de la Baume,4040,Herstal,jlosystems@gmail.com,0476296670,,1,01/09/21 09:21,01/09/21 10:12,,03/09/21 06:17
+658,FENTRA by Ch�ssis Lux,Stéphane,Bodet,64.05.15.175.75,Rue du Progrès,5555,Graide,sbodet@fentra.be,0471608034,Vacciné,1,01/09/21 09:23,01/09/21 11:06,,03/09/21 05:45
+659,VAILLANT (CHAURACI),Jonathan,Laviolette,85050928108,,,,jonathan@sowa.be,0499966976,,,01/09/21 09:23,,,
+661,TRENTIN BENOIT,Lucas,Trentin,97030829172,Rue du Calvaire,6120,Ham-sur-Heure-Nalinnes,lucast@outlook.be,0494193367,Vacciné,1,01/09/21 11:28,01/09/21 11:30,,03/09/21 05:01
+662,TRENTIN BENOIT,Benoit,Trentin,61020310929,Rue du Roton,6240,Farciennes,benoittrentin@gmail.com,0475622448,Vacciné,1,01/09/21 11:28,01/09/21 12:12,,03/09/21 13:09
+663,TRENTIN BENOIT,Tristan,Lambert,97.12.30-419.26,Rue Alfred Thiébaut,6280,Gerpinnes,tristanlambert3097@gmail.com,0473122954,Test PCR,1,01/09/21 11:30,01/09/21 11:32,,03/09/21 10:15
+665,BCI TECHNICS (BALTEAU),Billy,Simone,89072036580,Rue de Cielle,6980,La Roche-en-Ardenne,billy.simone@outlook.be,32476302260,Test PCR,1,01/09/21 09:56,01/09/21 10:06,,03/09/21 06:05
+667,TRENTIN BENOIT,Noe,Melice,93.07.03-127.39,Rue de Jamioulx,6110,Montigny-le-Tilleul,Noe@sm-all.be,0475699714,Vacciné,1,01/09/21 14:45,01/09/21 20:20,,03/09/21 05:04
+668,CHAURACI (TECHNICENTER),RENAUD,GRAINDORGE,87.04.29-115-94,Rue de la Station,5376,Havelange,ent.renaud-graindorge@outlook.com,0497875042,Test PCR,1,03/09/21 05:46,03/09/21 05:47,,03/09/21 05:48
+669,POMPES FUNEBRES FONTAINE,MICHAEL,CAVIER,,,,,,04962153,,,01/09/21 11:14,,,
+670,POMPES FUNEBRES FONTAINE,GREGORY,DUARTE,81121113163,Rue François Dive,5060,Sambreville,duartegregory@hotmail.com,0496610009,Vacciné,1,01/09/21 11:14,01/09/21 12:31,,03/09/21 06:27
+671,POMPES FUNEBRES FONTAINE,GAETAN,FICOT,77090627957,Rue de la Madeleine,6040,Charleroi,gaetan.ficot@gmail.com,0488235231,Test PCR,1,01/09/21 11:14,01/09/21 12:00,,03/09/21 05:33
+672,CHAURACI (TECHNICENTER),COLIN,WILEM,90.04.22-195.93,Rue de Bauce,5020,Namur,DELFORGE.CHAUFFAGE@GMAIL.COM,0473663954,Vacciné,1,01/09/21 11:15,01/09/21 11:20,,03/09/21 05:42
+673,POMPES FUNEBRES FONTAINE,ANTOINE,HERINNE,97.05.05-301.69,Rue de la Rivelaine,6061,Charleroi,antoineherinne11@icloud.com,0468384520,Test PCR,1,01/09/21 11:15,03/09/21 04:33,,03/09/21 05:32
+674,POMPES FUNEBRES FONTAINE,CHRISTOPHE,JORIS,84012912795,Rue du Baty,5621,Hanzinne,bobbydroop@msn.com,0498579737,Vacciné,1,01/09/21 11:15,01/09/21 12:15,,03/09/21 10:24
+675,POMPES FUNEBRES FONTAINE,FABRICE,ORBAN,,,,,,0474252865,,,01/09/21 11:16,,,
+676,BERTRAND BY GRANIT INTER,Pierre,Demare,74061133360,Rue de la gare 88,1495,Marbais,pierre.demare@gmail.com,0477798743,Vacciné,1,01/09/21 11:16,01/09/21 11:20,,03/09/21 05:29
+677,POMPES FUNEBRES FONTAINE,JORIS,PIERARD,82041716112,Rue des Sureaux,6030,Charleroi,pijo53@hotmail.com,0474940593,Vacciné,1,03/09/21 05:24,03/09/21 05:26,,03/09/21 05:32
+678,POMPES FUNEBRES FONTAINE,CHRISTOPHE,PInna,770623 269 21,Rue Debauche paulin,6220,Wangenies,christo071@hotmail.com,0477139788,Test PCR,1,01/09/21 11:17,02/09/21 10:08,,
+679,POMPES FUNEBRES FONTAINE,DANIEL,TRAPPENIERS,,,,,,0473286537,,,01/09/21 11:17,,,
+680,RISO CONTAINERS,NATALE,RISO,68.09.22-055.97,RUE STALINGRAD 119,6140,FONTAINE L EVEQUE,riso_157@hotmail.com,0475740588,Test PCR,1,01/09/21 11:23,01/09/21 11:59,,
+681,RISO CONTAINERS,SERGIO,MIRELLI,62.12.04-11980,RUE HOUDOUX 14,6150,ANDERLUES,julioalliste@gmail.com,0472016295,Vacciné,1,01/09/21 11:25,01/09/21 16:28,,
+682,RISO CONTAINERS,LUIGI,CONTI,68.04.09-35753,RUE STALINGRAD 124,6140,FONTAINE L EVEQUE,luigi9@live.fr,0495539383,Test PCR,1,01/09/21 11:28,01/09/21 11:47,,
+683,SI RENOVE,Christophe,Scohier,69121230196,c.scohier@sirenove.be,,,c.scohier@sirenove.be,0495479637,Vacciné,1,01/09/21 11:35,01/09/21 11:35,,03/09/21 04:38
+684,STYLESPACE,David,Georges,840328-033-39,Rue Saint-Roch 30,6997,Soy (Érezée),david.georges@gmail.com,0474233209,Vacciné,1,01/09/21 11:48,01/09/21 18:11,,03/09/21 05:33
+685,AD SERVICES,Nathalie,Bataille,65.12.03-106.89,Chemin de Florenchamp 40,6120,Marbaix la Tour,nathalie@transportsjurion.be,0486432638,Vacciné,1,01/09/21 11:49,01/09/21 12:16,,03/09/21 10:05
+686,STYLESPACE,Olivier,Devogelaere,86.08.28-345.95,Rue de Gozée,6110,Montigny-le-Tilleul,Olivier6142@hotmail.com,32476322572,,1,01/09/21 11:49,01/09/21 12:22,,03/09/21 05:15
+687,STYLESPACE,Vincent,Lecoyer,72012621659,Rue des haies 24/1,6250,Presles,lecoyervincent@gmail.com,32476251545,Vacciné,1,01/09/21 11:49,01/09/21 13:45,,03/09/21 05:30
+688,AD SERVICES,Justine,Jurion,93.10.28-242.68,Chemin de Florenchamp 40,6120,Marbaix la Tour,nathalie@transportsjurion.be,0472691108,Vacciné,1,01/09/21 11:50,01/09/21 11:57,,03/09/21 10:05
+689,STA BTP,Bunyan,ABRAHAM,99040845356,,,,,32497126317,,,01/09/21 11:50,,,
+690,STYLESPACE,Philippe,Devogelaere,57.07.09-137.63,Rue de la Pisselotte,6142,Fontaine-l'Évêque,devogelaereelectricite@skynet.be,32475437444,Vacciné,1,01/09/21 11:50,02/09/21 04:53,,03/09/21 11:12
+691,STYLESPACE,René,Georges,5612.14-319.36,Rue Creu Mama 4D,4141,Sprimont,rgeorges@lightelec.eu,32473929293,Vacciné,1,01/09/21 11:50,01/09/21 12:01,,03/09/21 05:33
+692,STA BTP,Théo,BORTELS,01120433171,Rue du Pavé 23,6500,Beaumont,theobortels@icloud.com,32479254771,Vacciné,1,01/09/21 11:51,01/09/21 12:09,,03/09/21 05:13
+693,STYLESPACE,Vincent,Weytjens,660603-347-21,Rue Croix Bolette,4621,Retinne,vweytjens@lightelec.eu,32476466589,Vacciné,1,01/09/21 11:51,02/09/21 11:02,,03/09/21 05:03
+694,STYLESPACE,Didier,Martin,72022918187,Rue de Binche,6180,Courcelles,dmartin@lightelec.eu,32495212626,Vacciné,1,01/09/21 11:52,01/09/21 11:55,,03/09/21 05:14
+695,STA BTP,Cyril,FLAS,04021920531,Rue des Déportés,6470,Sivry-Rance,cyril.flas@gmail.com,32494261507,Test PCR,1,01/09/21 11:52,01/09/21 16:10,,03/09/21 05:13
+696,STA BTP,Charlier,youri,90031325703,quartier des auwès 26,5660,frasnes lez couvin,Ych@statechnique.be,0499882288,Vacciné,1,01/09/21 11:53,01/09/21 15:52,,03/09/21 05:13
+697,STA BTP,René,Darmont,67060206365,"rue Père Descampe, 26",5190,Saint-Martin,rda@statechnique.be,0473767151,Vacciné,1,01/09/21 11:53,01/09/21 11:58,,03/09/21 10:40
+698,STA BTP,Jean-François,henry,70110505383,Prom. du Lac,5670,Nismes,jf.henry@dimanche-sa.be,0499902932,Vacciné,1,01/09/21 11:54,01/09/21 16:01,,03/09/21 12:03
+699,STA BTP,Julien,DETIFFE,83071309348,Rue du gravier du bois 141 bis,08380,La neuville aux joutes,jde@statechnique.be,0474960453,Vacciné,1,01/09/21 11:55,01/09/21 12:44,,03/09/21 11:49
+700,STA BTP,Mario,BREUGELMANS,72012739919,Rue des Haiwis 10,6470,Sivry-Rance,mbr@dimanche-sa.be,0491728758,Vacciné,1,01/09/21 11:56,01/09/21 12:50,,03/09/21 12:22
+701,BELCOGEST ASSURANCES,Arnaud,Delforge,98109816961,rue des bouleaux 36,6110,Montigny-le-tilleul,arnaud.delforge18@gmail.com,04798133,Vacciné,1,01/09/21 12:02,01/09/21 12:02,,03/09/21 05:28
+702,TRENTIN BENOIT,Fabienne,Kaspers,12345,not define,,,test@test.com,0478062834,Test PCR,1,02/09/21 07:33,02/09/21 10:56,,03/09/21 09:22
+703,TRENTIN BENOIT,Amaury,Michiels,94.08.01-111.46,Rue Mercelis,1050,Ixelles,Amaury@ikoab.com,0495687145,Vacciné,1,03/09/21 09:23,03/09/21 09:24,,03/09/21 09:25
+704,BEMAT,olivier,copmans,444,"bruxelles,9",6142,leernes,o.copmans@lasambrienne.be,32474987624,Vacciné,1,01/09/21 12:23,01/09/21 12:24,,03/09/21 04:38
+705,DRUART VMA,Damien,Thirifay,88.10.22-123.68,Rue des Sarts 33,6001,Charleroi,damienthirifay@vma-druart.be,0491623541,,1,01/09/21 12:30,01/09/21 12:41,,03/09/21 13:07
+706,DRUART VMA,Arnaud,VOLON,87.02.14-147.13,Rue Edouard Givron,6210,Les Bons Villers,arnaudvolon@vma-druart.be,0473484641,Vacciné,1,01/09/21 12:32,01/09/21 12:33,,03/09/21 05:56
+707,DRUART VMA,Martin,Julien,95060840534,Rue de Belle-Vue,7100,La Louvière,martinjulien@vma-druart.be,0491625359,Test PCR,1,01/09/21 12:33,01/09/21 13:23,,03/09/21 05:54
+708,DRUART VMA,Geoffrey,Leurquin,84111615938,"Avenue des Grottes, 1",6500,Beaumont,geoffreyleurquin@vma-druart.be,0476868594,,1,01/09/21 12:33,01/09/21 12:39,,03/09/21 10:44
+709,DRUART VMA,Bertrand,SAIL,66-08-29-025-62,Rue Chp du Monceau,6210,Les Bons Villers,bertrandsail@vma-druart.be,0498868515,Vacciné,1,01/09/21 12:36,01/09/21 12:38,,03/09/21 11:08
+710,DRUART VMA,Laurent,BEAUFAYS,84.08.17-221-2,Rue Saint Roch 36,5150,Floreffe,laurent_beaufays@hotmail.com,32499542547,Vacciné,1,01/09/21 12:38,01/09/21 14:31,,03/09/21 05:54
+711,DRUART VMA,Xavier,Druart,58050607726,Rue des jonquilles 6,7140,Morlanwelz,xavierdruart@vma-druart.be,0498868501,Vacciné,1,01/09/21 12:39,01/09/21 12:50,,03/09/21 11:17
+712,DRUART VMA,Pol,Blanchard,94090830339,Rue d'edimbourg 19,6040,Jumet,polblanchard@vma-druart.be,0478833195,Vacciné,1,01/09/21 12:56,01/09/21 13:15,,03/09/21 11:10
+713,CENTRAL PNEU (Q TEAM),sergiu,vasilita,821229-46979,Chau. de Bruxelles,6211,Charleroi,hermanostir@yahoo.com,32485212888,Vacciné,1,01/09/21 13:28,01/09/21 13:35,,03/09/21 05:03
+714,TRENTIN BENOIT,Natacha,DEMEULDRE,64090439388,"Des boutis, 57",6120,Ham-sur-Heure-Nalinnes,jmvanbever@gmail.com,32475822824,Vacciné,1,01/09/21 14:45,01/09/21 14:55,,03/09/21 06:26
+715,TRENTIN BENOIT,Natacha,Demeuldre,77062123221,Nalinn,6120,Ham-sur-Heure-Nalinnes,natacha.demeuldre@gmail.com,0486774747,Test PCR,1,02/09/21 06:28,02/09/21 06:33,,
+717,WE INVEST CHARLEROI,Jerome,Berwart,99.11.17-213.75,Pl. du Vieux Château,5651,Thy-le-Château,jerome.b@weinvest.be,0478018730,Test PCR,1,01/09/21 14:01,02/09/21 10:38,,03/09/21 05:05
+718,WE INVEST CHARLEROI,Vanessa,Bauduin,83.07.23-220.09,Bd.de l'Enseignement,5600,Philippeville,vanessa.b@weinvest.be,32477680608,Vacciné,1,01/09/21 14:02,01/09/21 14:54,,03/09/21 06:04
+719,TRENTIN BENOIT,Julien,Warrand,83031427304,Rue Jean Friot,6180,Courcelles,juwarrand@me.com,0496615279,Vacciné,1,01/09/21 14:04,01/09/21 14:09,,03/09/21 09:46
+720,WE INVEST CHARLEROI,Thomas,Belle,890614 245 82,Chau. de Philippeville,6280,Gerpinnes,thomas.b@weinvest.be,0498131350,Test PCR,1,01/09/21 14:03,01/09/21 15:11,,03/09/21 05:05
+721,WE INVEST CHARLEROI,Jean-Baptiste,Kabelu-Tunsele,94.03.24-565.31,Bd Audent,6000,Charleroi,jeanbaptiste.k@weinvest.be,0455129353,Test PCR,1,01/09/21 14:05,01/09/21 14:07,,03/09/21 05:05
+722,Eternit NV,Julien,Verlinden,81123017729,Rue Auguste Latour,1440,Braine-le-Château,julien.verlinden@etexgroup.com,04709177,Vacciné,1,01/09/21 14:21,01/09/21 18:30,,
+723,INDUSCABEL (ID GROUP),Corentin,Nizot,94030735572,Rue des Piles 1A,1420,Braine-l'Alleud,n.dhert@induscabel.be,0484926925,Test PCR,1,01/09/21 14:49,01/09/21 14:55,,03/09/21 05:36
+724,INDUSCABEL (ID GROUP),Fabian,Decouvreur,69012115985,Chem. de la Chapelette,6032,Soignies,n.dhert@induscabel.be,32475231171,Vacciné,1,01/09/21 14:53,01/09/21 14:55,,03/09/21 05:19
+725,MTV SERVICES,Déborah,Delbol,82101928606,Rue des Respes,6200,Châtelet,deborah.delbol@gmail.com,32498107603,Test PCR,1,01/09/21 15:01,01/09/21 15:11,,03/09/21 08:28
+726,MTV SERVICES,Annette,Botte,60092907686,Marcinelle,,Charleroi,botte.annette@gmail.com,32477172060,Test PCR,1,01/09/21 15:02,01/09/21 17:17,,03/09/21 08:28
+727,SOPREMA,Argina,Poundja,601006 378 93,"Rue Thomas Vincotte, 77",1030,Bruxelles,arginapoundja@yahoo.fr,0488283582,Vacciné,1,01/09/21 15:02,01/09/21 18:46,,03/09/21 10:40
+728,MTV SERVICES,marie,Gossiaux,88012916445,avenue de la villa romaine 20/11,6001,Marcinelle,marie.gossiaux@avocat.be,32479863944,Vacciné,1,01/09/21 15:03,01/09/21 15:08,,03/09/21 08:21
+729,MTV SERVICES,Alix,Gossiaux,,,,,alixgossiaux@gmail.com,32493323218,,,01/09/21 15:04,,02/09/21 12:27,
+730,MTV SERVICES,David,Wagemans,,,,,info@ugm-constructions.be,32497381186,,,01/09/21 15:05,,,
+731,SYSTEMAIR,Démis,Tsilidis,80062225729,Rue Du petit Villerot 184,7334,Hautrage,demis.tsilidis@systemair.be,0474887993,Vacciné,1,01/09/21 15:12,01/09/21 15:15,,03/09/21 07:19
+732,INDUSCABEL (ID GROUP),Rudy,Lejeune,78063021292,Rue de l'Abreuvoir,6032,Walcourt,n.dhert@induscabel.be,32497771358,Test PCR,1,01/09/21 15:16,01/09/21 15:16,,03/09/21 05:50
+733,BATI CENTRE,pauline,collin,920401-49478,Rue Renée Prinz,5100,Namur,pauline.collin@matexi.be,0476606629,Vacciné,1,01/09/21 15:21,01/09/21 15:37,,03/09/21 05:47
+734,BATI CENTRE,cyprien,baguette,89051222558,Rue des Hautes Fontaines,7100,La Louvière,cyp.baguette@gmail.com,0499810836,Vacciné,1,01/09/21 15:22,01/09/21 15:26,,03/09/21 05:41
+735,BATI CENTRE,nicolas,kouloumontris,840519221-38,Rue de Roux,6140,Fontaine-l'Évêque,info@bati-centre.be,0498500994,Vacciné,1,01/09/21 15:22,02/09/21 05:48,,03/09/21 05:38
+736,INDUSCABEL (ID GROUP),Nico,D'Hert,71110807391,Rue de l'Industrie 77,6032,Charleroi,nico.dhert@gmail.com,33471711917,Vacciné,1,01/09/21 15:22,01/09/21 15:23,,03/09/21 05:22
+737,BATI CENTRE,julien,logghe,84.10.04-069.93,Rue Saint-Hubert,7170,Manage,info@bati-centre.be,0475740231,Test PCR,1,01/09/21 15:23,01/09/21 15:26,,03/09/21 09:32
+738,CHAURACI,EMMANUEL,GOFFE,64.03.26-149.48,All. du Pré Magnette,6280,Gerpinnes,e.goffe@chauraci.be,0497475832,Vacciné,1,01/09/21 15:42,01/09/21 16:55,,
+739,DISTRICOAL,THIERRY,BALERIAUX,62.04.17-093.48,Rue d'Acoz,6120,Ham-sur-Heure-Nalinnes,tbaleriaux@gmail.com,324952919,Test PCR,1,01/09/21 16:26,01/09/21 16:34,,
+740,DISTRICOAL,ALAIN,VERLY,56113012336,Rue de l'Espinette,7160,Chapelle-lez-Herlaimont,alain.verly@districoal.be,32498359970,Vacciné,1,01/09/21 16:27,02/09/21 07:38,,03/09/21 10:16
+741,DISTRICOAL,FABRICE,GALLET,65022332177,Rue de Gozée 123,6110,Montigny le Tilleul,galletf@belgacom.net,32495299238,Vacciné,1,01/09/21 16:28,02/09/21 06:20,,03/09/21 10:03
+742,DISTRICOAL,JEAN MARC,NAVARRE,54092304772,Rue Edmond Aubry,6210,Villers perwin,bureaujmn@hmail.com,32476347102,Vacciné,1,01/09/21 16:28,01/09/21 16:34,,03/09/21 11:00
+743,DISTRICOAL,VINCENT,DUMONT,67011018556,Rue de la briqueterie,6110,Montigny,vincent.dumont.conseil@gmail.com,32475688453,Vacciné,1,01/09/21 16:29,02/09/21 10:50,,03/09/21 11:00
+744,DISTRICOAL,DAVID,DE CLERCQ,72032031734,"DREVE DE LA SOURCE, 5",6210,FRASNES-LEZ-GOSSELIES,david.declercq@sdassurfinance.be,32475670976,Vacciné,1,01/09/21 16:30,01/09/21 17:14,,03/09/21 11:00
+745,DISTRICOAL,Rudy,Bavier,690801 07938,Rue du parc 74,7331,Baudour,rudy.bavier@belgacom.net,0475349048,Vacciné,1,01/09/21 16:31,01/09/21 16:34,,03/09/21 11:00
+746,FENTRA - ECO 2B,Thomas,Piraux,88.07.28-117.67,Pl. de la Digue,6000,Charleroi,thomas@eco2b.be,32492250520,Vacciné,1,01/09/21 16:41,01/09/21 16:52,,03/09/21 05:15
+747,DISTRICOAL,THOMAS,DUSAUCY,961008-421-67,Dom. de Pumont 122,5650,Walcourt,thomas@mazout-tourneur.be,32476033025,Vacciné,1,01/09/21 16:43,03/09/21 04:51,,03/09/21 10:17
+748,FENTRA - ECO 2B,Antoine,Gheysen,94.08.21-163.73,Bd Audent 11,6000,Charleroi,agheysen@fentra.be,32492241488,Vacciné,1,01/09/21 16:46,01/09/21 16:52,,03/09/21 05:15
+749,FENTRA - ECO 2B,Nino,Romain,96.01.04-187.67,Rue de la belle-vue 96,6001,Marcinelle,nromain@fentra.be,32492263367,Vacciné,1,01/09/21 16:48,01/09/21 16:50,,03/09/21 05:15
+750,FENTRA - ECO 2B,Annabelle,Fondu,57.09.05.122.18,Av. des 3 Fontaines,5651,Somzee,annabellefondu@hotmail.com,0479647644,Vacciné,1,03/09/21 10:18,03/09/21 10:26,,03/09/21 10:36
+751,FENTRA - ECO 2B,Bruno,Novali,60.11.07-081.76,Bd Paul Janson 49,6000,Charleroi,bruno.novali@gmail.com,32471215352,Vacciné,1,01/09/21 16:54,01/09/21 17:00,,03/09/21 05:28
+752,DISTRICOAL,Silvia,CLORA,820212-196.16,Rue Marius Lecompte 4,7140,Morlanwelz,clorasilvia@hotmail.com,32497945686,Test PCR,1,01/09/21 17:06,02/09/21 10:07,,03/09/21 10:17
+753,DISTRICOAL,RODOLPHE,MATY,,,,,,32473995137,,,01/09/21 17:07,,,
+754,DISTRICOAL,LUDOVIC,COULON,,,,,,32495574052,,,01/09/21 17:07,,,
+755,DISTRICOAL,S,TOURNEUR,3224651,Ham. du Poncia,6440,Froidchapelle,simon.tourneur@skynet.be,0478747297,Test PCR,1,03/09/21 08:30,03/09/21 08:31,,03/09/21 08:31
+756,DISTRICOAL,DIDIER,PETIT,,,,,,32475750763,,,01/09/21 17:08,,01/09/21 17:33,
+757,DISTRICOAL,CYRIL,ROUSSEAUX,80091630189,Rue Marius Lecompte,7140,Morlanwelz,cyril.rousseaux@carre7.com,32498424164,Vacciné,1,01/09/21 17:09,02/09/21 04:49,,03/09/21 10:17
+758,DISTRICOAL,PATRICK,DEPRiT,68,Rue Paschal,6540,Lobbes,patrick.deprit@carre7.be,32474222387,Vacciné,1,01/09/21 17:10,01/09/21 21:49,,03/09/21 10:09
+759,DISTRICOAL,LUC,MATON,67.07.20-089.88,Rue de l'Espinette 37,6111,Montigny-le-Tilleul,luc.maton@hotelcharleroiairport.be,32473984893,Vacciné,1,01/09/21 17:10,02/09/21 10:31,,03/09/21 11:22
+760,META SYSTEM,Laurent,Vromman,84.08.16-167.09,Rue du Petit Ry,1340,Ottignies-Louvain-la-Neuve,laurent@meta-system.be,0474225354,Vacciné,1,01/09/21 17:15,02/09/21 05:27,,03/09/21 08:35
+761,SEBM,Stamatios,Papanastasiou,69080515338,Ven. de l'Alchimiste,1120,Bruxelles,pstamatios@hotmail.com,0475250630,Vacciné,1,01/09/21 17:55,01/09/21 18:00,,
+762,SEBM,Dimitri,Papanastasiou,90053129125,Pl. Jean Gabin,1090,Jette,dimitri@sebm.be,0475250630,Test PCR,1,01/09/21 17:59,01/09/21 18:02,,03/09/21 07:09
+764,WALMAT,Samuel,Henrion,81.08.05-39152,Rue de la Fontaine,5521,Onhaye,she@walmat.eu,0032490450692,Test PCR,1,01/09/21 18:01,01/09/21 18:47,,03/09/21 05:50
+765,WALMAT,Jennifer,Carpentier,82100723289,Rue de la Fontaine,5521,Onhaye,jensam82@hotmail.com,0471728421,Test PCR,1,01/09/21 18:02,01/09/21 18:49,,03/09/21 05:50
+767,SEBM,Aristide,Papanastasiou,62042015392,Venelle de l’Alchimiste 6,1120,Bruxelles,info@sebm.be,0475250630,Vacciné,1,01/09/21 18:08,01/09/21 18:08,,03/09/21 08:04
+768,WALMAT,Anthony,Noel,86020124194,Rue Du Vallon 56,1332,Rixensart,sprlnoel@hotmail.fr,0477993268,Vacciné,1,01/09/21 18:08,02/09/21 10:04,,03/09/21 05:50
+769,WALMAT,Alain,Thomas,,Rue de Bailièvre,6460,Chimay,ath@walmat.eu,0495501078,,,01/09/21 18:10,,03/09/21 08:13,
+770,WALMAT,ADRIEN,BASTIEN,87121419139,Rue Saint-Michel,6464,Chimay,aba@walmat.eu,0499125264,Vacciné,1,01/09/21 18:11,03/09/21 08:39,,03/09/21 10:15
+771,SEBM,Alexander,Verbraak,95100922716,Bredabaan 406,2930,Brasschaat,info@sebm.be,0475250630,Vacciné,1,01/09/21 18:13,01/09/21 18:13,,03/09/21 06:25
+772,MIGNONE,Salvatore,CURABA,63082716120,Rue des Chasseurs,7100,La Louvière,salvatore.curaba@raal.be,0032476552532,Vacciné,1,01/09/21 18:18,02/09/21 06:27,,03/09/21 10:00
+773,MIGNONE,Stéphane,CURABA,95062428958,Rue des Chasseurs 155,7100,La Louvière,stephane.curaba@raal.be,0032496025605,Vacciné,1,01/09/21 18:19,02/09/21 08:20,,03/09/21 10:00
+774,MIGNONE,KERIDWENN,TREMEL,,,,,,0033667056069,,,01/09/21 18:20,,,
+775,MIGNONE,Damien,Dumont de Chassart,82091528580,77 rue alphonse helsen,6211,Mellet,damien.dumontdech@gmail.com,0495537660,Vacciné,1,01/09/21 18:21,01/09/21 19:21,,03/09/21 08:50
+776,Eternit NV,John,Brogniez,75070430931,Chau. de Charleroi,6230,Pont à Celles,julien.verlinden@etexgroup.com,0470900177,Vacciné,1,01/09/21 18:34,01/09/21 18:35,,03/09/21 06:30
+777,Eternit NV,Antoine,Sampoux,9.81092E+11,Av. du Centenaire,1400,Nivelles,julien.verlinden@etexgroup.com,0470900177,Vacciné,1,01/09/21 18:28,01/09/21 18:31,,
+778,HOLCIM,Nathalie,Content,70030908866,Gerpinnes,6280,Gerpinnes,nathalie.content@lafargeholcim.com,0032475670431,Vacciné,1,01/09/21 19:26,01/09/21 19:29,,03/09/21 08:58
+779,HOLCIM,Antonio,Lauriola,83062306544,Ch de chastre,5140,Sombreffe,antonio.lauriola@lafargeholcim.com,0473610368,Test PCR,1,01/09/21 19:34,01/09/21 20:13,,03/09/21 06:00
+780,HOLCIM,David,Rothe,72072603567,Avenue de Lothier 13,1150,Woluwé-Saint-Pierre,david.rothe@lafargeholcim.com,0478888917,Vacciné,1,01/09/21 19:34,01/09/21 19:47,,03/09/21 05:37
+781,HOLCIM,Christophe,Vanmuysen,73081517987,Rue des Hauts Masys,7331,Saint-Ghislain,christophe.vanmuysen@spw.wallonie.be,0475553791,Vacciné,1,01/09/21 19:34,02/09/21 07:24,,03/09/21 06:09
+782,HOLCIM,louis,Martin,94.03.15-209.75,"rue de la brasserie, 5",6464,BOURLERS,lma@walmat.eu,0492586747,Vacciné,1,01/09/21 19:34,02/09/21 06:20,,03/09/21 05:37
+783,HOLCIM,Christian,Belleflamme,58031110330,Rue de l'Adoption 61,5660,Couvin,christian@belleflamme.be,0475443272,Vacciné,1,01/09/21 19:34,02/09/21 06:35,,03/09/21 10:57
+784,HOLCIM,Olivier,Rougraff,67121542732,Rue de Belle Vue,7370,dour,olivier@rougraff.com,0475775543,Test PCR,1,02/09/21 12:45,02/09/21 12:49,,
+785,HOLCIM,Yves,Fobelets,,,,,yves.fobelets@gmail.com,0476928245,,,02/09/21 06:26,,02/09/21 12:27,
+786,HOLCIM,Geoffrey,Brion,,,,,geoffrey@bgms.be,0488879845,,,01/09/21 19:34,,,
+787,HOLCIM,Gumus,Devrim,,,,,devrim.gumus@lelogistournaisien.be,0479860021,,,01/09/21 19:34,,,
+790,HOLCIM,Olivier,Rizzo,71042111595,Rue Ernest Moëns,5024,Namur,olivierrizzo@icloud.com,0478507367,Test PCR,1,01/09/21 19:35,02/09/21 06:04,,03/09/21 09:53
+791,HOLCIM,david,casier,84.12.24-303.49,"rue des dix bonniers, 11",5650,Tarcienne,casier@centribel.com,0472238109,Vacciné,1,02/09/21 06:27,02/09/21 06:35,,03/09/21 10:57
+792,HOLCIM,Geoffrey,Herion,73.09.26-227.07,Rue Saint-Roch 91,1360,Perwez,geoffrey.herion@allmat.be,0499667583,Vacciné,1,01/09/21 19:35,01/09/21 19:36,,03/09/21 06:25
+793,HOLCIM,Cedric,Colinet,82.03.15-181.45,"RUE DE SIGNY,7",5660,PESCHE,cco@walmat.eu,0499716560,Vacciné,1,02/09/21 06:43,02/09/21 07:34,,03/09/21 10:11
+794,HOLCIM,Frédéric,BULTOT,72.07.17-367.05,rue des deux chapelles 11,6230,OBAIX,fred@nivellesbeton.be,0475871056,Vacciné,1,01/09/21 19:35,02/09/21 06:51,,03/09/21 05:44
+795,DAVID ROBIN IMMOBILIER,David,Robin,79.09.17-355.81,16,6230,VIESVILLE,robdav@skynet.be,0496304992,Vacciné,1,01/09/21 19:39,01/09/21 19:47,,03/09/21 05:37
+796,DAVID ROBIN IMMOBILIER,leclercq,damien,80021921536,Rue Léon Terwagne 13,6221,Saint Amand,dm_leclercq@yahoo.fr,0476449874,Vacciné,1,01/09/21 19:40,02/09/21 12:38,,03/09/21 05:37
+797,DAVID ROBIN IMMOBILIER,bastien,lefevre,80.11.10-287.06,Place de Ligny,5140,Ligny,bastientoubio@gmail.com,0476632297,Test PCR,1,01/09/21 19:41,02/09/21 08:12,,03/09/21 05:39
+798,DAVID ROBIN IMMOBILIER,GILLES,DESMANET,070777 375 14,Grand cortil 14,5140,Ligny,gillesdesmanet@gmail.com,0478970259,Vacciné,1,01/09/21 19:42,01/09/21 21:16,,03/09/21 06:46
+799,CR�ER RENOVER CONSTRUIRE,Denis,Gravy,77.06.16-299.07,Rue Vertillon,6464,Chimay,Denisgravy@gmail.com,0495874938,Vacciné,1,01/09/21 20:14,01/09/21 20:15,,03/09/21 05:54
+800,SOBELTAX LOCATION,Ioannis,Manolakis,96081038133,Avenue de Heppignies 6,6220,Fleurus,i.manolakis@sobeltaxrental.be,0476045873,Vacciné,1,01/09/21 22:18,01/09/21 22:20,,03/09/21 07:03
+801,SOBELTAX LOCATION,Stephan,Buffel,72020440927,Rue des Deux Sociétés Nationales,1400,Nivelles,s.buffel@sobeltaxrental.be,0471522853,Vacciné,1,01/09/21 22:23,02/09/21 06:07,,03/09/21 05:47
+802,SOBELTAX LOCATION,Bernard,Goethals,59.07.25-129.21,Av. Edmond Parmentier,1150,Woluwe-Saint-Pierre,b.goethals@sobeltaxrental.be,0475608845,Vacciné,1,01/09/21 22:26,02/09/21 05:04,,03/09/21 10:38
+803,SOBELTAX LOCATION,Alessandro,Pecoraro,89112236350,GRAND'RUE 219,6000,Charleroi,alessandro773@msn.com,0478572768,Vacciné,1,01/09/21 22:28,02/09/21 04:10,,03/09/21 06:42
+804,SOBELTAX LOCATION,Lorenzo,Pace,87081411191,Rue Paradis des Chevaux,6060,Gilly,l.pace@sobeltaxrental.be,0496972554,Test PCR,1,01/09/21 22:31,02/09/21 08:08,,03/09/21 07:04
+805,DAMO,David,Moerenhout,79101129339,Rue Bragard,6211,Les Bons Villers,david.moerenhout@skynet.be,32476965238,Test PCR,1,01/09/21 22:31,01/09/21 22:33,,03/09/21 05:44
+806,SOBELTAX LOCATION,Massimo,Traina,99110641509,Rue des Flaches 82,6280,Gerpinnes,Massimotraina00906@hotmail.com,0468537455,Vacciné,1,01/09/21 22:35,01/09/21 22:36,,03/09/21 06:42
+807,SOBELTAX LOCATION,Michel,Panayotou,62012104155,Grand Rue 219,6000,Charleroi,panadoc@skynet.be,0475691554,Vacciné,1,01/09/21 22:37,02/09/21 06:38,,
+808,DAMO,Laurent,Pien,76020123188,Av. de Peupliers,1440,Braine-le-Château,david.moerenhout@skynet.be,0471282616,Vacciné,1,01/09/21 22:41,01/09/21 22:41,,03/09/21 05:44
+809,DAMO,Raphael,Lemaire,78062337135,Rue de l'Ecole Moderne,7060,Soignies,david.moerenhout@skynet.be,0476965238,Vacciné,1,01/09/21 22:42,01/09/21 22:42,,
+810,DAMO,Axel,Douillez,93050132581,Rue Saint-Roch,7120,Estinnes,david.moerenhout@skynet.be,0497600104,Vacciné,1,01/09/21 22:44,01/09/21 22:44,,03/09/21 05:43
+811,DAMO,Cyrille,Herreman,81122717326,Rue des Trieux,7120,Estinnes,david.moerenhout@skynet.be,0479944089,Vacciné,1,01/09/21 22:45,01/09/21 22:45,,03/09/21 05:47
+812,DAMO,Fuat,Iran,7.60605E+11,Bd de Smet de Naeyer,1090,Jette,david.moerenhout@skynet.be,0484799632,Vacciné,1,01/09/21 22:46,01/09/21 22:47,,03/09/21 05:44
+813,DAMO,Georges,Tiliban,76031251959,Rue de la Royauté,1020,Bruxelles,david.moerenhout@skynet.be,0498804726,Test PCR,1,01/09/21 22:47,01/09/21 22:48,,03/09/21 05:44
+814,DAMO,Remy,Philippo,94033031504,Rue de l'Entreville,6540,Lobbes,david.moerenhout@skynet.be,0497726941,Vacciné,1,01/09/21 22:51,01/09/21 22:51,,03/09/21 05:44
+815,EDERGEN,Jean-François,Vandermeulen,70021605378,Vedrin,5020,Namur,jvm@ellyps.com,32475851057,Vacciné,1,02/09/21 06:17,02/09/21 06:44,,03/09/21 05:38
+816,EDERGEN,Nicolas,Staudt,83061533926,"Rue Louis Genonceaux, 12",5032,Gembloux,nis@bsolutions.be,0474373110,Vacciné,1,02/09/21 06:18,02/09/21 11:05,,03/09/21 06:25
+817,EDERGEN,Bastien,Mathurin,91.07.10-453.43,Rue de l'Etang 28,5031,Grand-Leez,bm@fi-engineering.be,0472174571,Vacciné,1,02/09/21 06:19,02/09/21 06:50,,03/09/21 05:36
+818,EDERGEN,Pierre,HOENIG,74101930372,25 rue de la Sapinière,1170,Bruxelles,pierre.hoenig@hoptimize.be,32478218916,Vacciné,1,02/09/21 06:20,02/09/21 06:24,,03/09/21 05:44
+819,EDERGEN,Thomas,TEGAS,91032720148,Rue de la Résistance 28a,6032,Charleroi,t.tegas@mkengineering.be,32472500281,Vacciné,1,02/09/21 06:21,02/09/21 06:23,,03/09/21 05:28
+820,EDERGEN,Olivier,VAN AERDE,67121207190,Hoeilaart,,,ova@edergen.be,32475576728,Test PCR,1,02/09/21 06:21,02/09/21 06:25,,03/09/21 05:19
+821,EDERGEN,Gaspard,Baumgarten,92080358750,Rue Elise,1050,Ixelles,gaspard.baumgarten@edergen.be,32475933794,Vacciné,1,02/09/21 06:23,02/09/21 06:30,,03/09/21 05:26
+822,KRINKELS,Raphaël,Colicis,75061923536,Rue Robesse,6041,gosselies,Raphael@designpartner.be,0032476702354,Vacciné,1,02/09/21 06:58,02/09/21 08:20,,03/09/21 11:13
+823,KRINKELS,Sandrine,Scourneau,77111206805,Rue de Gominroux 4a,6043,Charleroi,Sas@rtbf.be,32475974388,Vacciné,1,02/09/21 06:59,02/09/21 12:16,,03/09/21 11:16
+824,KRINKELS,Julie,Lazzaro,80051939670,Rue de la Poste  15,6183,Trazegnies,Lazzarojulie@outlook.be,0032495272852,Vacciné,1,02/09/21 07:00,02/09/21 07:30,,03/09/21 11:13
+825,DISTRICOAL,dylan,de wolf,99.12.28-443.07,"Perckveldstraat, 4",1800,Vilvoorde,dylandewolf8@gmail.com,0479017026,Vacciné,1,02/09/21 07:09,02/09/21 07:13,,03/09/21 05:51
+827,SOTRELCO,Donato,Marcheggiani,92030339909,"Rue De La Roche-Qui-Tourne 51, 6",5060,Velaine-Sur-Sambre,don_marcheggiani@live.fr,0496471569,Vacciné,1,02/09/21 07:44,02/09/21 07:48,,03/09/21 05:35
+828,DAIKIN,Adrien,Sap,920703-12718,"Avenue Franklin, 1B",1300,Wavre,adrien.sap@daikin.be,0032495647595,Vacciné,1,02/09/21 08:08,02/09/21 08:10,,03/09/21 11:13
+829,DAIKIN,Raphael,Salladini,76060910797,"Avenue Franklin, 1B",1300,Wavre,raphael.salladini@daikin.be,0032495234020,Vacciné,1,02/09/21 08:10,02/09/21 08:43,,03/09/21 10:28
+830,MAPEI BENELUX,Olivier,DeSantos,71.04.23-449.89,Rue de Dreumont,1495,Marbais,r.nicolas@mapei.be,0475999323,Vacciné,1,02/09/21 08:29,02/09/21 08:29,,03/09/21 09:32
+831,MIGNONE,Adrien,Debroux,940803-14549,Rue de Nivelles 211,7170,Manage,adrien.debroux@igretec.com,0032492971331,Vacciné,1,02/09/21 08:32,02/09/21 09:56,,03/09/21 06:10
+832,SAGA Mercedes-Benz (Gilly),Arno,Ciuro,99.07.28-333.82,Rue du Gazetier,7140,Morlanwelz,arno.ciuro@saga-mercedes-benz.be,32470701195,Vacciné,1,03/09/21 05:09,03/09/21 05:10,,03/09/21 05:12
+833,MATHYS PEINT,olivier,More,74080620165,Rue Charles Rogier,7080,Frameries,info@mathyspeint.be,0486830646,Vacciné,1,02/09/21 08:55,02/09/21 09:04,,03/09/21 06:08
+834,MATHYS PEINT,eric,brouwers,640425-05978,rue de la poire d'or 32b,7033,Mons,comebloc@gmail.com,0485900911,Vacciné,1,02/09/21 08:58,02/09/21 08:59,,03/09/21 06:26
+835,MATHYS PEINT,martin,businaro,93101930581,rue sous-coury 23,5650,walcourt,martinbusinaro@gmail.com,0498973428,Vacciné,1,02/09/21 08:59,02/09/21 10:35,,03/09/21 06:09
+836,MATHYS PEINT,herbiet,simon pierre,86022716569,rue de la poire d'or 32b,7033,Mons,spherbiet@gmail.com,0475259163,Vacciné,1,02/09/21 09:02,02/09/21 09:06,,03/09/21 08:39
+837,MATHYS PEINT,stefano,aiello,76.05.22-297.92,Rue Louis Blanqui,7390,Quaregnon,steflavio@gmail.com,0484995473,Vacciné,1,02/09/21 09:08,02/09/21 09:35,,03/09/21 06:08
+838,CENTURY 21 LES LACS,JEROME,CANTAMAGLIA,,,,,,33477132958,,,02/09/21 12:53,,,
+839,BEMAT,Céline,De Donder,81060821824,Bd Pierre Mayence,6000,Charleroi,celine.dedonder@igretec.com,0493259712,Test PCR,1,02/09/21 09:40,02/09/21 09:44,,03/09/21 11:49
+840,DISTRICOAL,KELLY,BALERIAUX,94072120623,Rue d'Acoz,6120,Ham-sur-Heure-Nalinnes,kelly.baleriaux@hotmail.com,0495299239,Test PCR,1,02/09/21 09:50,02/09/21 10:08,,03/09/21 12:09
+841,BEMAT,François,De Meester,91.06.30-171.09,33 rue Lambot,6250,Aiseau-Presles,demeesterf91@gmail.com,0475705718,Vacciné,1,02/09/21 09:51,02/09/21 09:53,,03/09/21 11:03
+842,RIBOUX,SASHA,BAUDUIN,021023-243.81,"Allée Sud , 2",5651,THY LE CHATEAU,sashabauduin@hotmail.com,0497543131,Vacciné,1,02/09/21 09:59,02/09/21 15:48,,03/09/21 05:18
+843,COMAP,Gaetan,Carette,83070315988,"Rue Praile, Ham-sur-Heure-Nalinnes, Belgique 8A",6120,NALINNES,gcarette@comap.be,0477880147,Vacciné,1,02/09/21 10:06,02/09/21 10:38,,03/09/21 07:22
+844,COMAP,Sylvain,Kapusi,77061021973,Chau. de Lasne,1330,Rixensart,sk@ventair.be,0475660221,Test PCR,1,02/09/21 10:09,02/09/21 10:28,,03/09/21 06:25
+845,COMAP,RAPHAEL,LEJEUNE,88032335152,Rue du Château de Jandrain,1350,Orp-Jauche,rlejeune@comap.be,0473708088,Vacciné,1,02/09/21 10:11,02/09/21 10:13,,03/09/21 05:25
+846,FACQ,Giovanna,Lejeune,96082332884,D’Hennuyères 90,1421,Ophain,giovannalejeune@gmail.com,0472296626,Vacciné,1,02/09/21 10:13,02/09/21 10:20,,03/09/21 05:43
+847,FACQ,Kevin,Van Waeyenberge,89081508136,Rue d'Hennuyères,1421,Braine-l'Alleud,kevin.vanwaeyenberge@gmail.com,0473449747,Test PCR,1,02/09/21 10:14,02/09/21 12:40,,03/09/21 05:43
+848,WOOH,Olivier,Hanoulle,78.11.26-083.76,"Rue Joseph Luns, 12",1400,NIVELLES,olivier@wooh.be,0476881755,Vacciné,1,02/09/21 10:28,02/09/21 10:33,,03/09/21 05:54
+849,WOOH,GILLES,GOLLIER,72.08.25-041.01,"RUE JOSEPH LUNS, 12",1400,NIVELLES,gilles@wooh.be,0497456546,Vacciné,1,02/09/21 10:29,02/09/21 10:32,,03/09/21 05:49
+850,WOOH,Kevin,Gain,87041126992,"Rue Joseph Luns, 12",1400,NIVELLES,kevin@wooh.be,0478454582,Vacciné,1,02/09/21 10:30,02/09/21 10:57,,03/09/21 05:54
+851,LA BARRIQUE,stephane,Deflorenne,73.02.04-051.18,Rue de Morialmé,5650,Walcourt,sdeflorenne@ccep.com,0496596832,Vacciné,1,02/09/21 10:46,02/09/21 10:51,,03/09/21 08:40
+852,LA BARRIQUE,Jean-Christophe,Hautenne,77.11.10-273.54,Rue des Minières,5650,Walcourt,jhautenne@ccep.com,0496596828,Vacciné,1,02/09/21 10:48,02/09/21 15:31,,03/09/21 10:08
+853,LA BARRIQUE,Olivier,Desormeaux,710213 285-54,Rue Mimbercée,5650,Walcourt,olivier.desormeaux@gmail.com,0493540445,Vacciné,1,02/09/21 10:49,02/09/21 11:29,,03/09/21 08:40
+854,HOLCIM,Patrick,Deconinck,,,,,patrick.deconinck@lafargeholcim.com,0477873483,,,02/09/21 11:09,,,
+855,SL+ ARCHITECTES,CLOE,ANCIAUX,,,,,,0475263266,,,02/09/21 11:49,,,
+856,SL+ ARCHITECTES,MICHEL,LOSSEAU,,,,,info@admsa.be,0475791227,,,03/09/21 11:53,,,
+857,JORDAN,Moïra,Albanese,84052724466,"RUE DU FAUBOURG, 117",6110,MONTIGNY-LE-TILLEUL,albanese.moira@gmail.com,0495368460,Test PCR,1,03/09/21 11:46,03/09/21 11:47,,03/09/21 11:48
+858,GROUP DELRUE,CORENTIN,RASQUIN,75122906149,Rue de La Pécherée,1495,Villers-la-Ville,corentin.rasquin@actmettet.be,0478534010,Vacciné,1,02/09/21 12:41,02/09/21 12:55,,
+859,FENTRA - CEZAM,Alexandre,Romain,21335 741412,Rue de la girafe 40,6832,Sensenruth,aromain@cezam.net,0032477971713,Test PCR,1,02/09/21 13:01,03/09/21 03:38,,03/09/21 05:52
+860,FENTRA - CEZAM,Mathieux,Novali,86092226175,Rue de la girafe 40,6832,Sensenruth,mat.prorider@icloud.com,0477747913,Vacciné,1,02/09/21 13:05,02/09/21 13:12,,03/09/21 05:28
+861,FENTRA - CEZAM,Dorian,Sinnaeve,00111732547,Rue de la girafe 40,6832,Sensenruth,nponcelet@cezam.net,0483414507,Vacciné,1,02/09/21 13:15,02/09/21 13:19,,03/09/21 05:11
+862,BELCOGEST ASSURANCES,Benoit,Allart,79122405595,rue de la croissance,6900,Marche-en-famenne,hoangbao.dr@gmail.com,0486945200,Vacciné,1,02/09/21 14:50,02/09/21 14:50,,03/09/21 05:57
+863,ALUMATIC,Frédéric,Agneessens,63020212585,Rue Strimelle 34A,6040,Jumet,frederic.agneessens@alumatic.be,0496123836,Vacciné,1,02/09/21 15:00,02/09/21 15:04,,
+864,ALUMATIC,Sabine,Spreutel,73082227869,Rue Strimelle 34A,6040,Jumet,sabine.spreutel@alumatic.be,0497442714,Vacciné,1,02/09/21 15:03,02/09/21 15:19,,
+865,SOPREMA,Nicolas,Électeur,77013112188,Rue Auguste Lévêque,1400,Nivelles,nelecteur@soprema.be,0476605896,Vacciné,1,02/09/21 15:06,02/09/21 15:08,,03/09/21 07:22
+866,HANSART DAVID,David,Hansart,71010732194,Rue Trieu Kaisin,6061,Charleroi,hansartdavid@hotmail.be,0476630958,,,02/09/21 16:01,,,
+867,HANSART DAVID,Pascale,Pesesse,66050710440,"Rue Trieu Kaisin,17",6061,Charleroi,hansartdavid@hotmail.be,0486249060,,,02/09/21 16:03,,,
+868,HANSART DAVID,Stéphane,Hansart,66033025360,"chaussée de Charleroi, 97/3",6511,Strée,stephane.hansart@gmail.com,0495160051,Vacciné,1,02/09/21 16:13,03/09/21 04:37,,03/09/21 05:52
+869,HANSART DAVID,Laeticia,Briole,88032420670,Rue de la croisette 31/a,6180,Courcelles,laeticiabriole@hotmail.com,0477385083,,,02/09/21 16:17,,,
+870,SOBELTAX LOCATION,Maelle,Delabre,75022735734,"Rue du cerisier, 14",6001,Charleroi,pierremeynaerts@gmail.com,0498499946,Vacciné,1,02/09/21 17:02,02/09/21 18:02,,
+872,TECTUM DEKKERS SUD,Pierre,Kerstenne,Ciicioc,Laurel Canyon Blvd,91331,Los Angeles,pierre@kerstenne.be,0475693659,Test PCR,1,03/09/21 04:40,03/09/21 04:41,,03/09/21 04:42
+873,KELLER WILLIAMS (LA METROPOLE),Anthony,MICHAUX,96111526124,Avenue circulaire 11/4,6200,Chatelineau,topgazon@hotmail.com,0499605422,Vacciné,1,03/09/21 04:49,03/09/21 04:50,,03/09/21 04:52
+874,WEB,Laurent,Wagner,69,Allée des Peupliers 15,6280,Gerpinnes,lwagner@wagner-groupe.com,0475701000,Test PCR,1,03/09/21 05:06,03/09/21 05:07,,03/09/21 05:08
+875,WEB,THIBAUT,JACQUET,69042217164,Chau. de Châtelineau,6061,Charleroi,jacquet.th@skynet.be,0475910500,Vacciné,1,03/09/21 05:31,03/09/21 05:34,,03/09/21 10:47
+876,DL Net,David,Leger,67030205552,"Rue de la princesse, 93",7131,Binche,david.leger@skynet.be,0498744443,Test PCR,1,03/09/21 05:57,03/09/21 05:58,,03/09/21 06:00
+877,HOLCIM,rudi,deruyck,72042115180,Vieux Chemin de Mons,7536,Tournai,rudy.deruyck@gmail.com,0475975824,Vacciné,1,03/09/21 06:11,03/09/21 06:12,,03/09/21 06:13
+878,SOBELTAX LOCATION,Maelle,Delabre,75022735734,"Rue du cerisier, 14",6001,Charleroi,pierremeynaerts@gmail.com,0498499946,Vacciné,1,03/09/21 07:20,03/09/21 07:24,,
+879,FACOZINC DROGENBOS,samuel,steens,79.06.29-293.53,Rue de Lumsonry-2ème Avenue,5651,Walcourt,s.steens@facozinc.be,0497527592,Vacciné,1,03/09/21 08:15,03/09/21 08:16,,03/09/21 08:19
+880,DISTRICOAL,Bernard,Tourneur,54031010967,Rue Basse-Flandre,5630,Cerfontaine,bernard.tourneur@skynet.be,0475366611,Vacciné,1,03/09/21 08:33,03/09/21 08:36,,03/09/21 08:37
+881,BEMAT,Walter,Chardon,058650081065,Rue de Stalingrad,6250,Aiseau-Presles,w.chardon@sporting-charleroi.be,0487527527,Vacciné,1,03/09/21 08:53,03/09/21 08:55,,03/09/21 08:57
+882,MTV SERVICES,Kevin,De Ville,95031716580,Clos De La Haie Cornaie 39,6250,Presles,devillekevin95@live.fr,0488586544,Vacciné,1,03/09/21 09:28,03/09/21 09:29,,03/09/21 09:30
+883,FACOZINC DROGENBOS,Fiona,Debatty,97031629423,"Rue Emile Roder, 5/1",4280,Lens-Saint-Remy,f.debatty@r-group.be,0494349108,Vacciné,1,03/09/21 10:10,03/09/21 10:11,,03/09/21 10:13
+884,HOLCIM,Marc,Palix,11111111,Rue Wauters,7181,Seneffe,marc.palix@roosens.com,0496353496,Test PCR,1,03/09/21 10:39,03/09/21 10:40,,03/09/21 10:41
+885,HOLCIM,Stephane,Gerday,0000,Rue du fort 5024 gelbressee,5024,Gelvresse,sgerday@gerday.be,0475429387,Vacciné,1,03/09/21 10:43,03/09/21 10:45,,03/09/21 10:46
+886,GOBERT MATERIAUX,Gilles,Barbera,81060710768,Rue du Coron,7300,Boussu,gilles.barbera@gmail.com,0475270971,Vacciné,1,03/09/21 11:02,03/09/21 11:03,,03/09/21 11:04
+887,HANSART DAVID,Pascale,Hansart,55,Rue trieu kaisin,6061,Montignies,hansartdavid@hotmail.be,0486249060,,,03/09/21 14:00,,,

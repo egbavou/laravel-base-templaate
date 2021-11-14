@@ -1,0 +1,47 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "npm run development",
+    "development": "mix",
+    "watch": "mix watch",
+    "watch-poll": "mix watch -- --watch-options-poll=1000",
+    "hot": "mix watch --hot",
+    "prod": "npm run production",
+    "production": "mix --production"
+  },
+  "devDependencies": {
+    "@inertiajs/inertia": "^0.8.4",
+    "@inertiajs/inertia-vue3": "^0.3.5",
+    "@inertiajs/progress": "^0.2.4",
+    "@tailwindcss/forms": "^0.3.2",
+    "@tailwindcss/typography": "^0.3.0",
+    "@vue/compiler-sfc": "^3.0.5",
+    "axios": "^0.21",
+    "laravel-mix": "^6.0.19",
+    "lodash": "^4.17.21",
+    "postcss": "^8.1.14",
+    "postcss-import": "^14.0.1",
+    "tailwindcss": "^2.0.1",
+    "vue": "^3.0.5",
+    "vue-loader": "^16.1.2"
+  },
+  "dependencies": {
+    "@ckpack/vue-color": "^0.0.3",
+    "@meforma/vue-toaster": "^1.2.2",
+    "filepond": "^4.27.2",
+    "filepond-plugin-file-validate-type": "^1.2.6",
+    "filepond-plugin-get-file": "^1.0.6",
+    "filepond-plugin-image-pdf-overlay": "^1.0.0",
+    "filepond-plugin-image-preview": "^4.6.6",
+    "stylus": "^0.54.8",
+    "stylus-loader": "^3.0.2",
+    "vue-click-outside": "^1.1.0",
+    "vue-excel-xlsx": "^1.0.11",
+    "vue-filepond": "^7.0.0",
+    "vue-flatpickr-component": "^9.0.3",
+    "vue-loading-overlay": "^4.0.3",
+    "vue-multiselect": "^3.0.0-alpha.1",
+    "vue3-click-away": "^1.2.1",
+    "vue3-tel-input": "^1.0.4"
+  }
+}

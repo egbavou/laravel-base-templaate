@@ -1,0 +1,45 @@
+name: Deployment
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  deploy:
+    name: Deployment
+    runs-on: ubuntu-latest
+    steps:
+      - name: executing remote ssh commands using password
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.KEY }}
+          script: |
+            cd /var/www/charnoy/
+            sudo php artisan down
+            sudo git reset --hard
+            sudo git clean -df
+            sudo git pull origin main
+            sudo composer install --no-interaction --prefer-dist --optimize-autoloader --no-dev
+            sudo php artisan cache:clear
+            sudo php artisan auth:clear-resets
+            sudo php artisan route:clear
+            sudo php artisan route:cache
+            sudo php artisan config:clear
+            sudo php artisan config:cache
+            sudo php artisan optimize
+            sudo php artisan up
+      - name: Deployed!
+        run: echo charnoy deployed!
+
+  slackNotification:
+    name: Slack Notification
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Slack Notification
+      uses: rtCamp/action-slack-notify@v2
+      env:
+        SLACK_MESSAGE: 'Nouveau déploiement effectué :rocket:'
+        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}

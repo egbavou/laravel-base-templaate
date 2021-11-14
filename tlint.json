@@ -1,0 +1,13 @@
+{
+  "preset": "tighten",
+  "disabled": [
+    "AlphabeticalImports",
+    "RemoveLeadingSlashNamespaces",
+    "TrailingCommasOnArrays"
+  ],
+  "excluded": [
+    "tests/Linting/Laravel/",
+    "src/Illuminate/",
+    "tests/fixtures/"
+  ]
+}
