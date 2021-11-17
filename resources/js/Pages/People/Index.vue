@@ -10,22 +10,7 @@
             </h3>
             <div class="mt-3 sm:mt-0 sm:ml-4">
             
-              <a class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500" :href="file">
-                <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="h-4 w-4" viewBox="0 0 16 16">
-                  <path d="M8.5 6.5a.5.5 0 0 0-1 0v3.793L6.354 9.146a.5.5 0 1 0-.708.708l2 2a.5.5 0 0 0 .708 0l2-2a.5.5 0 0 0-.708-.708L8.5 10.293V6.5z"/>
-                  <path d="M14 14V4.5L9.5 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2zM9.5 3A1.5 1.5 0 0 0 11 4.5h2V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h5.5v2z"/>
-                </svg>
-                Exporter la liste des personnes en Excel
-              </a>
             </div>
-            <!-- <div class="mt-3 sm:mt-0 sm:ml-4" v-show="$page.props.user.is_admin">
-              <a class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500" :href="file">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <path d="M3 3h18v18H3zM21 9H3M21 15H3M12 3v18"/>
-                </svg>
-                 Export XLS
-              </a>
-            </div> -->
          </div>
           
           <div class="mt-3 sm:mt-0 sm:ml-4">
@@ -191,7 +176,6 @@ export default {
   props: {
     people: Object,
     filters: Object,
-    file: String
   },
   data() {
     return {

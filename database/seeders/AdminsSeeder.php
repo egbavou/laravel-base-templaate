@@ -22,8 +22,7 @@ class AdminsSeeder extends Seeder
 
             [
                 'email' => 'admin@facilesolution.com',
-                'password' => Hash::make('tXcb_r6[uxXj_9~5'), 
-                //'password' => Hash::make('azertyui'),
+                'password' => Hash::make('azertyui'),
                 'is_admin'    => true,
             ],
         ];

@@ -23,11 +23,9 @@ class PersonController extends Controller
      */
     public function index()
     {
-        Excel::store(new PeopleExport, 'people-list.xls','s3',null);
         return Inertia::render('People/Index',[
             'filters' => Request::all('search'),
             'people'  => Person::filter(Request::only('search'))->paginate(50),
-            'file'  =>   Person::peopleListUrl()
         ]);
     }
 

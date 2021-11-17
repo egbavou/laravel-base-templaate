@@ -13,11 +13,6 @@ class Person extends Model
 
     protected $guarded = [];
 
-    public  static function peopleListUrl()
-    {
-        return Storage::temporaryUrl('people-list.xls',Carbon::now()->addMinutes(10));
-    }
-
     public function scopeFilter($query, array $filters)
     {
         //dd($filters);
